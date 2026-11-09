@@ -1,6 +1,6 @@
 {
   "name": "Loona Lista de Verificação do Currículo",
-  "short_name": "Lista de Verificação do Currícul",
+  "short_name": "Lista de Verificação do",
   "description": "Uma lista de verificação de currículo interativa e gratuita: 20 verificações de ATS e de integralidade, com progresso que se guarda no seu navegador. Combina com o Loona Resume Builder e o Cover Letter Builder gratuitos.",
   "id": "/loona-resume-builder/pt/resume-checklist.html",
   "start_url": "./resume-checklist.html",

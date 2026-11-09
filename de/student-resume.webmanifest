@@ -1,6 +1,6 @@
 {
   "name": "Loona Lebenslaufbeispiel für Studierende",
-  "short_name": "Lebenslaufbeispiel für Studieren",
+  "short_name": "Lebenslaufbeispiel für",
   "description": "Beispiel für einen kostenlosen Lebenslauf für Schüler: eine vollständige fiktive Probe, eine stufenspezifische Anleitung und FAQs. Bearbeiten Sie das Beispiel im kostenlosen Builder und laden Sie Ihre PDF-Datei herunter.",
   "id": "/loona-resume-builder/de/student-resume.html",
   "start_url": "./student-resume.html",

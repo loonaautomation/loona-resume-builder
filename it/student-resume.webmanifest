@@ -1,6 +1,6 @@
 {
-  "name": "Loona Esempio di curriculum Curriculum per studenti",
-  "short_name": "Esempio di curriculum Curriculum",
+  "name": "Loona Esempio di curriculum Curriculum per",
+  "short_name": "Esempio di curriculum",
   "description": "Esempio gratuito di curriculum per studenti: un esempio fittizio completo, indicazioni specifiche per il livello e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
   "id": "/loona-resume-builder/it/student-resume.html",
   "start_url": "./student-resume.html",
