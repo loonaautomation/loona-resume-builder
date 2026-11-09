@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esempio di curriculum per responsabili marketing",
+  "short_name": "Esempio di curriculum per respon",
+  "description": "Esempio gratuito di curriculum per responsabili marketing: un esempio fittizio completo nel modello Creative, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
+  "id": "/loona-resume-builder/it/resume-for-marketing-managers.html",
+  "start_url": "./resume-for-marketing-managers.html",
+  "scope": "./resume-for-marketing-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créateur de lettre de motivation gratuit",
+  "short_name": "Créateur de lettre de motivation",
+  "description": "Créez une lettre de motivation professionnelle entièrement gratuitement : formulaire guidé en trois paragraphes, aperçu A4 en direct dans le style de lettre Classic, téléchargement PDF gratuit - sans inscription, sans filigrane, vos données ne quittent jamais votre appareil.",
+  "id": "/loona-resume-builder/fr/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "Crear un currículum profesional completamente gratis: vista previa A4 en vivo, 8 plantillas (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), descarga gratuita en PDF, sin registro, sin marca de agua y con los datos siempre en el dispositivo.",
+  "id": "/loona-resume-builder/es/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

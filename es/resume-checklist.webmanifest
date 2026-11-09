@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lista de verificación del currículum",
+  "short_name": "Lista de verificación del curríc",
+  "description": "Una lista de verificación del currículum interactiva y gratuita: 20 comprobaciones ATS y de integridad con progreso que se guarda en el navegador. Combina con Loona Resume Builder y el creador de cartas de presentación gratuitos.",
+  "id": "/loona-resume-builder/es/resume-checklist.html",
+  "start_url": "./resume-checklist.html",
+  "scope": "./resume-checklist.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

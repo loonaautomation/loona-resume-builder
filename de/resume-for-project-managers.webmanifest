@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lebenslaufbeispiel für Projektmanager",
+  "short_name": "Lebenslaufbeispiel für Projektma",
+  "description": "Kostenloses Beispiel für den Lebenslauf eines Projektmanagers: ein komplettes fiktives Beispiel in der Professional-Vorlage, Tipps für Personalvermittler und FAQs. Bearbeiten Sie das Beispiel im kostenlosen Builder und laden Sie Ihre PDF-Datei herunter.",
+  "id": "/loona-resume-builder/de/resume-for-project-managers.html",
+  "start_url": "./resume-for-project-managers.html",
+  "scope": "./resume-for-project-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

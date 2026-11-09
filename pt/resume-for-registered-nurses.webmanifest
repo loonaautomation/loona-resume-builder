@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemplo de Currículo de Enfermeiros Registados",
+  "short_name": "Exemplo de Currículo de Enfermei",
+  "description": "Exemplo de currículo de enfermeiro registado grátis: um exemplo fictício completo no modelo Professional, dicas de recrutadores e perguntas frequentes. Edite o exemplo no criador gratuito e transfira o seu PDF.",
+  "id": "/loona-resume-builder/pt/resume-for-registered-nurses.html",
+  "start_url": "./resume-for-registered-nurses.html",
+  "scope": "./resume-for-registered-nurses.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

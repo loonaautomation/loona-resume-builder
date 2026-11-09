@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemplo de Currículo de Programadores de Software",
+  "short_name": "Exemplo de Currículo de Programa",
+  "description": "Exemplo de currículo de programador de software grátis: um exemplo fictício completo no modelo Modern, dicas de recrutadores e perguntas frequentes. Edite o exemplo no criador gratuito e transfira o seu PDF.",
+  "id": "/loona-resume-builder/pt/resume-for-software-developers.html",
+  "start_url": "./resume-for-software-developers.html",
+  "scope": "./resume-for-software-developers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

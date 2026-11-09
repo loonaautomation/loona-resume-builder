@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kostenloser Lebenslauf-Builder online",
+  "short_name": "Kostenloser Lebenslauf-Builder o",
+  "description": "Erstellen Sie Ihren Lebenslauf kostenlos online: Live-A4-Vorschau, 8 Vorlagen (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), unbegrenzte Erfahrungs- und Bildungseinträge, kostenloser PDF-Download. Keine Anmeldung, kein Wasserzeichen - Ihre Daten verl",
+  "id": "/loona-resume-builder/de/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

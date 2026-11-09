@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cómo redactar un currículum que consiga entrevistas: guía gratuita",
+  "short_name": "Cómo redactar un currículum que ",
+  "description": "Una guía práctica y gratuita para redactar un currículum que se lea: estructura, una fórmula para el resumen, puntos de logros con cifras, habilidades, errores frecuentes y consejos ATS. Después, crear el propio gratis.",
+  "id": "/loona-resume-builder/es/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

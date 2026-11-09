@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lebenslaufvorlagen & Beispiele",
+  "short_name": "Lebenslaufvorlagen & Beispiele",
+  "description": "Kostenlose Lebenslaufvorlagen und Beispiele: 40 Berufsproben, 8 Vorlagen und 6 Karrierestufen. Öffnen Sie ein beliebiges Beispiel im kostenlosen Builder, machen Sie es zu Ihrem und laden Sie Ihre PDF-Datei herunter.",
+  "id": "/loona-resume-builder/de/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

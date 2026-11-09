@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esempio di curriculum per data scientist",
+  "short_name": "Esempio di curriculum per data s",
+  "description": "Esempio gratuito di curriculum per data scientist: un esempio fittizio completo nel modello Modern, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
+  "id": "/loona-resume-builder/it/resume-for-data-scientists.html",
+  "start_url": "./resume-for-data-scientists.html",
+  "scope": "./resume-for-data-scientists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

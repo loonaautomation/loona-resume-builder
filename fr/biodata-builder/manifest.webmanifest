@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créateur de biodata de mariage gratuit",
+  "short_name": "Créateur de biodata de mariage g",
+  "description": "Créez un biodata de mariage entièrement gratuitement : sections personnelles, familiales, de formation et d’horoscope facultative, styles Simple et Decorative, aperçu A4 en direct et téléchargement PDF gratuit - sans inscription, sans filigrane, vos données ne quittent jamais vot",
+  "id": "/loona-resume-builder/fr/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

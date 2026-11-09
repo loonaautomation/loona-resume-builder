@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créateur de CV gratuit en ligne",
+  "short_name": "Créateur de CV gratuit en ligne",
+  "description": "Créez votre CV gratuitement en ligne : aperçu A4 en direct, 8 modèles (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), entrées d’expérience et de formation illimitées, téléchargement PDF gratuit. Sans inscription, sans filigrane - vos données ne quitte",
+  "id": "/loona-resume-builder/fr/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

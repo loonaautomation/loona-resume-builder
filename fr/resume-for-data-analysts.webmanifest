@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemple de CV Analystes de données",
+  "short_name": "Exemple de CV Analystes de donné",
+  "description": "Exemple de CV gratuit d’analyste de données : un exemple fictif complet dans le modèle Compact, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
+  "id": "/loona-resume-builder/fr/resume-for-data-analysts.html",
+  "start_url": "./resume-for-data-analysts.html",
+  "scope": "./resume-for-data-analysts.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

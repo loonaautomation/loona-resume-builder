@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemple de CV Enseignants de maternelle",
+  "short_name": "Exemple de CV Enseignants de mat",
+  "description": "Exemple de CV gratuit d’enseignant de maternelle : un exemple fictif complet dans le modèle Classic, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
+  "id": "/loona-resume-builder/fr/resume-for-preschool-teachers.html",
+  "start_url": "./resume-for-preschool-teachers.html",
+  "scope": "./resume-for-preschool-teachers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

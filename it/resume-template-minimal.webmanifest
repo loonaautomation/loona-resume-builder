@@ -1,0 +1,29 @@
+{
+  "name": "Loona Modello di curriculum Minimal",
+  "short_name": "Modello di curriculum Minimal",
+  "description": "Modello di curriculum Minimal gratuito: a cosa serve, chi dovrebbe usarlo, quando non usarlo e un esempio dal vivo. Aprirlo nel generatore e scaricare il PDF — senza registrazione.",
+  "id": "/loona-resume-builder/it/resume-template-minimal.html",
+  "start_url": "./resume-template-minimal.html",
+  "scope": "./resume-template-minimal.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

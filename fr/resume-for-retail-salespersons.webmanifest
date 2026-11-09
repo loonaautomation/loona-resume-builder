@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemple de CV Vendeurs en magasin",
+  "short_name": "Exemple de CV Vendeurs en magasi",
+  "description": "Exemple de CV gratuit de vendeur en magasin : un exemple fictif complet dans le modèle Modern, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
+  "id": "/loona-resume-builder/fr/resume-for-retail-salespersons.html",
+  "start_url": "./resume-for-retail-salespersons.html",
+  "scope": "./resume-for-retail-salespersons.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

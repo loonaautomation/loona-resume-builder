@@ -1,0 +1,29 @@
+{
+  "name": "Loona Currículum de trayectoria media",
+  "short_name": "Currículum de trayectoria media",
+  "description": "Ejemplo de currículum de trayectoria media gratuito: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
+  "id": "/loona-resume-builder/es/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

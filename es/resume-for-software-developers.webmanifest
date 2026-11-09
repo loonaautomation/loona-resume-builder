@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ejemplo de currículum de desarrolladores de software",
+  "short_name": "Ejemplo de currículum de desarro",
+  "description": "Ejemplo de currículum de desarrollador de software gratuito: a complete fictional sample in the Modern template, recruiter tips and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
+  "id": "/loona-resume-builder/es/resume-for-software-developers.html",
+  "start_url": "./resume-for-software-developers.html",
+  "scope": "./resume-for-software-developers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

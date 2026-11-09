@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esempio di curriculum per elettricisti",
+  "short_name": "Esempio di curriculum per elettr",
+  "description": "Esempio gratuito di curriculum per elettricisti: un esempio fittizio completo nel modello Ats, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
+  "id": "/loona-resume-builder/it/resume-for-electricians.html",
+  "start_url": "./resume-for-electricians.html",
+  "scope": "./resume-for-electricians.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

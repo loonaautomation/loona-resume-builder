@@ -1,0 +1,29 @@
+{
+  "name": "Loona Modern-Lebenslaufvorlage",
+  "short_name": "Modern-Lebenslaufvorlage",
+  "description": "Kostenlose Vorlage für moderne Lebensläufe: wofür sie ist, wer sie verwenden sollte, wann sie nicht verwendet werden sollte und ein Live-Sample. Öffnen Sie es im Builder und laden Sie Ihre PDF-Datei herunter — keine Anmeldung.",
+  "id": "/loona-resume-builder/de/resume-template-modern.html",
+  "start_url": "./resume-template-modern.html",
+  "scope": "./resume-template-modern.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

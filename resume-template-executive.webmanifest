@@ -1,0 +1,29 @@
+{
+  "name": "Loona Executive Resume Template",
+  "short_name": "Executive Resume Template",
+  "description": "Free Executive resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
+  "id": "/loona-resume-builder/resume-template-executive.html",
+  "start_url": "./resume-template-executive.html",
+  "scope": "./resume-template-executive.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lebenslaufbeispiel für Berufsabsolventen",
+  "short_name": "Lebenslaufbeispiel für Berufsabs",
+  "description": "Kostenloses Beispiel für einen frischeren Lebenslauf: ein komplettes fiktives Beispiel, eine ebenenspezifische Anleitung und FAQs. Bearbeiten Sie das Beispiel im kostenlosen Builder und laden Sie Ihre PDF-Datei herunter.",
+  "id": "/loona-resume-builder/de/fresher-resume.html",
+  "start_url": "./fresher-resume.html",
+  "scope": "./fresher-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

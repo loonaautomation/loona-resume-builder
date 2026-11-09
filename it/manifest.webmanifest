@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "Creare un curriculum professionale in modo completamente gratuito: anteprima A4 in tempo reale, 8 modelli (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), download gratuito in PDF - senza registrazione, senza filigrana e i dati non lasciano mai il disp",
+  "id": "/loona-resume-builder/it/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

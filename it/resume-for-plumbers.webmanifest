@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esempio di curriculum per idraulici",
+  "short_name": "Esempio di curriculum per idraul",
+  "description": "Esempio gratuito di curriculum per idraulici: un esempio fittizio completo nel modello Ats, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
+  "id": "/loona-resume-builder/it/resume-for-plumbers.html",
+  "start_url": "./resume-for-plumbers.html",
+  "scope": "./resume-for-plumbers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

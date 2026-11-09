@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de biodata matrimonial gratuito: estilos Simple y Decorative, PDF gratis",
+  "short_name": "Creador de biodata matrimonial g",
+  "description": "Crear un biodata matrimonial completamente gratis: secciones personales, familiares, educativas y de horóscopo opcional, estilos Simple y Decorative, vista previa A4 en vivo y descarga gratuita en PDF, sin registro, sin marca de agua y con los datos siempre en el dispositivo.",
+  "id": "/loona-resume-builder/es/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di curriculum gratuito online",
+  "short_name": "Generatore di curriculum gratuit",
+  "description": "Creare il curriculum gratis online: anteprima A4 in tempo reale, 8 modelli (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), voci illimitate di esperienza e istruzione, download gratuito in PDF. Senza registrazione, senza filigrana - i dati non lasciano",
+  "id": "/loona-resume-builder/it/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

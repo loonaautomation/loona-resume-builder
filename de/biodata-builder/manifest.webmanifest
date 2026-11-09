@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free Marriage Biodata Builder",
+  "short_name": "Free Marriage Biodata Builder",
+  "description": "Erstellen Sie eine Ehe Biodaten völlig kostenlos: persönliche, familiäre, Bildungs- und optionale Horoskop-Abschnitte, einfache und dekorative Stile, Live-A4-Vorschau und kostenloser PDF-Download - keine Anmeldung, kein Wasserzeichen, Daten verlassen nie Ihr Gerät.",
+  "id": "/loona-resume-builder/de/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
