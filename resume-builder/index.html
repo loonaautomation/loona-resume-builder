@@ -309,6 +309,7 @@ main.page{padding:0!important}
 </main>
 </div>
 <script src="../lib/resume-core.js"></script>
+<script src="../lib/resume-samples.js"></script>
 <script>
 (function(){
 'use strict';
@@ -316,6 +317,17 @@ var Core = window.ResumeCore;
 var KEY = 'loona_resume_builder_v1';
 var state = Core.defaultState();
 try { state = Core.deserializeState(window.localStorage.getItem(KEY)); } catch(e) {}
+var sampleLoaded = false;
+try {
+  var qs = new URLSearchParams(window.location.search);
+  var sampleSlug = qs.get('sample');
+  if (sampleSlug && window.ResumeSamples && window.ResumeSamples[sampleSlug]) {
+    state = Core.normalizeState(window.ResumeSamples[sampleSlug]);
+    sampleLoaded = true;
+  }
+  var tplParam = qs.get('template');
+  if (tplParam && Core.TEMPLATES.indexOf(tplParam) >= 0) { state.template = tplParam; }
+} catch(e) {}
 var $ = function(id){ return document.getElementById(id); };
 var esc = Core.escapeHtml;
 
@@ -431,7 +443,8 @@ document.addEventListener('click', function(ev){
 });
 window.addEventListener('beforeprint', function(){ renderPreview(); });
 renderForm();
-setStatus('Your draft auto-saves on this device as you type.', '');
+if (sampleLoaded) { setStatus('Sample resume loaded - replace the details with your own and download your PDF.', 'ok'); }
+else { setStatus('Your draft auto-saves on this device as you type.', ''); }
 })();
 
 </script>
