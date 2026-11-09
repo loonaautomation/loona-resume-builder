@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -110,6 +110,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://loonaautomation.github.io/loona-resume-builder/it/"},{"@type":"ListItem","position":2,"name":"Consigli per il curriculum","item":"https://loonaautomation.github.io/loona-resume-builder/it/resume-tips.html"}]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qual è il formato di curriculum migliore per la maggior parte delle persone?","acceptedAnswer":{"@type":"Answer","text":"Ordine cronologico inverso: recapiti, un breve profilo, esperienza lavorativa dal più recente, poi istruzione, competenze e lingue. È ciò che i selezionatori si aspettano e ciò che il software di screening legge in modo più affidabile - entrambi i modelli nel nostro generatore lo usano."}},{"@type":"Question","name":"Quanto dovrebbe essere lungo un curriculum?","acceptedAnswer":{"@type":"Answer","text":"Una pagina per studenti e chiunque abbia meno di 10 anni di esperienza; al massimo due pagine per i ruoli senior. I selezionatori scorrono un curriculum in pochi secondi, quindi ogni riga deve guadagnarsi il posto."}},{"@type":"Question","name":"Devo includere una foto nel curriculum?","acceptedAnswer":{"@type":"Answer","text":"Nella maggior parte dei paesi (USA, Regno Unito, Canada) no - le foto possono attivare filtri di pregiudizio e rompere il software di screening. In parti d'Europa, del Medio Oriente e del Pakistan una foto professionale è comune. Seguire l'usanza locale del lavoro per cui ci si candida."}},{"@type":"Question","name":"Qual è la differenza tra un CV e un curriculum?","acceptedAnswer":{"@type":"Answer","text":"Un curriculum è un riepilogo breve e mirato (1-2 pagine) per un lavoro specifico. Un CV è un registro più lungo e completo del percorso accademico e lavorativo, comune in ambito accademico e medico. Per la maggior parte delle candidature, è il curriculum ciò che viene richiesto."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 
 <body>
@@ -186,5 +188,6 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="terms.html">Termini di utilizzo</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Resume Builder. Generatore di curriculum gratuito che funziona al 100% nel browser.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
