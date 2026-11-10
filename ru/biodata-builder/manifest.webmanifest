@@ -1,0 +1,29 @@
+{
+  "name": "Loona Бесплатный конструктор брачной биодаты",
+  "short_name": "Бесплатный конструктор брачной биодаты",
+  "description": "Создайте брачную биодату полностью бесплатно: разделы личных и семейных данных, образования и необязательный раздел гороскопа, простые и декоративные стили, живой предпросмотр A4 и бесплатное скачивание PDF — без регистрации, без водяных знаков, данные никогда не покидают ваше устройство.",
+  "id": "/loona-resume-builder/ru/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

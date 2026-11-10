@@ -1,0 +1,29 @@
+{
+  "name": "Loona Компактный шаблон резюме",
+  "short_name": "Компактный шаблон резюме",
+  "description": "Бесплатный шаблон резюме Компактный: для чего он нужен, кому следует его использовать, когда его не следует использовать, и живой образец. Откройте его в конструкторе и скачайте свой PDF — без регистрации.",
+  "id": "/loona-resume-builder/ru/resume-template-compact.html",
+  "start_url": "./resume-template-compact.html",
+  "scope": "./resume-template-compact.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

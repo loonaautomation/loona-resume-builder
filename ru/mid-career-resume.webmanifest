@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример резюме специалиста со средним опытом",
+  "short_name": "Пример резюме специалиста со",
+  "description": "Бесплатный пример резюме специалиста со средним опытом: полный вымышленный образец, рекомендации для этого уровня и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
+  "id": "/loona-resume-builder/ru/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

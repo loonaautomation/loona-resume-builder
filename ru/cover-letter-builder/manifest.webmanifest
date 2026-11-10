@@ -1,0 +1,29 @@
+{
+  "name": "Loona Бесплатный конструктор сопроводительных писем",
+  "short_name": "Бесплатный конструктор сопроводительных писем",
+  "description": "Создайте профессиональное сопроводительное письмо полностью бесплатно: форма из трёх абзацев с подсказками, живой предпросмотр A4 в классическом стиле письма, бесплатное скачивание PDF — без регистрации, без водяных знаков, данные никогда не покидают ваше устройство.",
+  "id": "/loona-resume-builder/ru/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

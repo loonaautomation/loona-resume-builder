@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример резюме стоматологов",
+  "short_name": "Пример резюме стоматологов",
+  "description": "Бесплатный пример резюме стоматолога: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
+  "id": "/loona-resume-builder/ru/resume-for-dentists.html",
+  "start_url": "./resume-for-dentists.html",
+  "scope": "./resume-for-dentists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

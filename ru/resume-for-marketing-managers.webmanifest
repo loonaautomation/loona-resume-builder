@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример резюме менеджера по маркетингу",
+  "short_name": "Резюме менеджера по маркетингу",
+  "description": "Бесплатный пример резюме менеджера по маркетингу: полный вымышленный образец в шаблоне Creative, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
+  "id": "/loona-resume-builder/ru/resume-for-marketing-managers.html",
+  "start_url": "./resume-for-marketing-managers.html",
+  "scope": "./resume-for-marketing-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
