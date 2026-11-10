@@ -1,0 +1,29 @@
+{
+  "name": "منشئ السيرة الذاتية Loona",
+  "short_name": "منشئ السيرة الذاتية",
+  "description": "ابنِ سيرة ذاتية مهنية مجانًا بالكامل: معاينة مباشرة بحجم A4، و8 قوالب (Classic، Modern، Minimal، ATS، Creative، Professional، Executive، Compact)، وتنزيل مجاني بصيغة PDF - دون تسجيل، ودون علامة مائية، وبياناتك لا تغادر جهازك أبدًا.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-resume-builder/ar/"
+}

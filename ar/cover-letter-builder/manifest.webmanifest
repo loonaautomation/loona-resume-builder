@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ خطاب التقديم المجاني",
+  "short_name": "منشئ خطاب التقديم المجاني",
+  "description": "ابنِ خطاب تقديم مهنيًا مجانًا بالكامل: نموذج موجه من ثلاث فقرات، ومعاينة مباشرة بحجم A4 بأسلوب خطاب Classic، وتنزيل مجاني بصيغة PDF - دون تسجيل، ودون علامة مائية، وبياناتك لا تغادر جهازك أبدًا.",
+  "id": "/loona-resume-builder/ar/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

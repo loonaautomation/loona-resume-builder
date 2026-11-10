@@ -1,0 +1,29 @@
+{
+  "name": "Loona مثال على السيرة الذاتية لمحللي البيانات",
+  "short_name": "مثال على السيرة الذاتية لمحللي البيانات",
+  "description": "مثال مجاني على السيرة الذاتية لمحلل بيانات: نموذج خيالي كامل في قالب Compact، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
+  "id": "/loona-resume-builder/ar/resume-for-data-analysts.html",
+  "start_url": "./resume-for-data-analysts.html",
+  "scope": "./resume-for-data-analysts.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

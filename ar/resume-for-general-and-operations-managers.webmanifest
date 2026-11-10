@@ -1,0 +1,29 @@
+{
+  "name": "Loona General and Operations Managers Resume",
+  "short_name": "General and Operations",
+  "description": "مثال مجاني على السيرة الذاتية لمدير عام ومدير عمليات: نموذج خيالي كامل في قالب Executive، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
+  "id": "/loona-resume-builder/ar/resume-for-general-and-operations-managers.html",
+  "start_url": "./resume-for-general-and-operations-managers.html",
+  "scope": "./resume-for-general-and-operations-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
