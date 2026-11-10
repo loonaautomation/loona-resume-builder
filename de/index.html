@@ -108,6 +108,21 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 .footer-in .col{min-width:170px}
 .copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
 @media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+.ls{max-width:640px;margin:22px auto 4px;position:relative;text-align:left}
+.ls-box{display:flex;background:#fff;border-radius:999px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);border:2px solid var(--gold,#d4af37)}
+.ls-box input{flex:1;border:0;outline:0;padding:14px 18px;font-size:1.02rem;min-width:0;color:var(--ink,#12211c);background:#fff}
+.ls-box button{border:0;background:var(--gold,#d4af37);color:#231a00;font-weight:800;padding:0 22px;font-size:1rem;cursor:pointer}
+.ls-box button:hover{background:var(--gold2,#b8912a)}
+.ls-list{position:absolute;left:0;right:0;top:calc(100% + 8px);background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.35);z-index:60;max-height:70vh;overflow-y:auto;text-align:left}
+.ls-item{display:block;padding:10px 16px;text-decoration:none;border-bottom:1px solid #eee9da}
+.ls-item:last-of-type{border-bottom:0}
+.ls-item:hover,.ls-item.act{background:#fbf6df}
+.ls-nm{font-weight:700;color:var(--ink,#12211c)}
+.ls-badge{display:inline-block;margin-left:8px;background:var(--teal,#062e2a);color:#ffe9a8;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:2px;white-space:nowrap}
+.ls-ds{display:block;color:#5a6660;font-size:.85rem;margin-top:1px}
+.ls-none{padding:12px 16px;color:#5a6660;font-size:.92rem}
+@media(max-width:560px){.ls-box button{padding:0 14px}.ls-box input{padding:12px 14px;font-size:.98rem}}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Loona Resume Builder","url":"https://loonaautomation.github.io/loona-resume-builder/de/","description":"Kostenloser Lebenslauf-Builder ohne Anmeldung, ohne Wasserzeichen und kostenloser PDF-Download. Zwei Vorlagen, eine Live-A4-Vorschau und Ihre Daten verlassen Ihr Gerät nie.","publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Loona Resume Builder","url":"https://loonaautomation.github.io/loona-resume-builder/de/resume-builder/","description":"Erstellen Sie einen professionellen Lebenslauf kostenlos: Geben Sie Ihre Daten ein, sehen Sie sich eine Live-A4-Vorschau an, wählen Sie aus 8 Vorlagen (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact) und speichern Sie ein sauberes PDF - keine Anmeldung, kein Wasserzeichen, Daten bleiben auf Ihrem Gerät.","applicationCategory":"BusinessApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
@@ -133,6 +148,11 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <h1>Kostenlos <span class="gold">Lebenslauf-Builder</span><br>Kostenlos bedeutet kostenlos - sogar der Download</h1>
 <p>Kurz gesagt: Geben Sie Ihre Daten ein, sehen Sie sich ein sauberes A4-Lebenslauf-Update live an, wählen Sie eine Vorlage aus und speichern Sie Ihre PDF-Datei. Keine Anmeldung, kein Wasserzeichen - und keine Paywall, die auf den Download-Button wartet.</p>
 <p>Die meisten &quot;free&quot;-Bauherren berechnen Ihnen im allerletzten Schritt. Dies kann man nicht - es gibt keinen Server und keine Kasse. Ihr Lebenslauf wird vollständig in Ihrem Browser erstellt.</p>
+
+<div class="ls"><form id="lsForm" role="search" autocomplete="off">
+<div class="ls-box"><input id="lsInput" type="search" placeholder="6 Lebenslauf-Tools durchsuchen&hellip; z.&nbsp;B. &lsquo;lebenslauf-builder&rsquo;" aria-label="6 Lebenslauf-Tools durchsuchen" autocomplete="off"><button type="submit">Suchen</button></div>
+<div id="lsList" class="ls-list" role="listbox" hidden></div>
+</form></div>
 <div class="badges"><span class="badge">100% kostenlos</span><span class="badge">Keine Registrierung</span><span class="badge">Kein Wasserzeichen</span><span class="badge">Kostenloser PDF-Download</span><span class="badge">Ihre Daten verlassen Ihr Gerät nie</span></div>
 <p style="margin-top:22px"><a class="btn" href="resume-builder/">Jetzt kostenlos starten</a></p>
 </div></div>
@@ -178,6 +198,235 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <a href="terms.html">Nutzungsbedingungen</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Resume Builder. Kostenloser Lebenslauf-Builder, der zu 100% in Ihrem Browser läuft.</div></footer>
+<script>/*loona-resume-search*/
+/* Loona Resume Builder search (per-site build of the Loona hub tool search v2) — lazy-loads /search-index.json on first focus/typing.
+   v2 fixes: a failed fetch no longer poisons the session (it retries on the next
+   keystroke/focus), a "Loading tools…" state shows while the index downloads,
+   an embedded popular-tools fallback keeps search alive offline, Roman Urdu
+   aliases, joined-word matching, dedupe and tool-over-guide ranking. */
+(function () {
+  "use strict";
+  var form = document.getElementById('lsForm'),
+      input = document.getElementById('lsInput'),
+      list = document.getElementById('lsList');
+  if (!form || !input || !list) return;
+  var INDEX_URL = '/loona-resume-builder/de/search-index.json';
+  var STR = {"loading": "Tools werden geladen…", "fb": "Beliebte Tools werden gezeigt — der vollständige Index ist unterwegs…", "zero1": "Keine genaue Übereinstimmung für “", "zero2": "” — diese beliebten Tools könnten passen:"};
+  var FALLBACK = [{"n": "Lebenslauf-Builder", "u": "https://loonaautomation.github.io/loona-resume-builder/de/resume-builder/", "s": "Loona Resume Builder", "d": "Erstellen Sie Ihren Lebenslauf kostenlos online: Live-A4-Vorschau, 8 Vorlagen (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), unbegrenzte Erfahrungs- und Bildungseinträge, kostenloser PDF-Download. Keine Anmeldung, kein Wasserzeichen - Ihre Daten verlassen Ihr Gerät nie.", "k": "resume builder resume builder erstellen sie ihren lebenslauf kostenlos online live a4 vorschau 8 vorlagen classic modern minimal ats creative professional executive compact unbegrenzte erfahrungs und bildungseintrage kostenloser pdf download keine anmeldung kein wasserzeichen ihre daten verlassen ihr gerat nie", "p": 0, "c": "Tool"}, {"n": "Anschreiben-Builder", "u": "https://loonaautomation.github.io/loona-resume-builder/de/cover-letter-builder/", "s": "Loona Resume Builder", "d": "Erstellen Sie ein professionelles Anschreiben völlig kostenlos: geführtes Drei-Absatz-Formular, Live-A4-Vorschau im klassischen Briefstil, kostenloser PDF-Download - keine Anmeldung, kein Wasserzeichen, Daten verlassen nie Ihr Gerät.", "k": "cover letter builder cover letter builder erstellen sie ein professionelles anschreiben vollig kostenlos gefuhrtes drei absatz formular live a4 vorschau im klassischen briefstil kostenloser pdf download keine anmeldung kein wasserzeichen daten verlassen nie ihr gerat", "p": 1, "c": "Tool"}, {"n": "Heirats-Biodata-Builder", "u": "https://loonaautomation.github.io/loona-resume-builder/de/biodata-builder/", "s": "Loona Resume Builder", "d": "Erstellen Sie eine Ehe Biodaten völlig kostenlos: persönliche, familiäre, Bildungs- und optionale Horoskop-Abschnitte, einfache und dekorative Stile, Live-A4-Vorschau und kostenloser PDF-Download - keine Anmeldung, kein Wasserzeichen, Daten verlassen nie Ihr Gerät.", "k": "marriage biodata builder biodata builder erstellen sie eine ehe biodaten vollig kostenlos personliche familiare bildungs und optionale horoskop abschnitte einfache und dekorative stile live a4 vorschau und kostenloser pdf download keine anmeldung kein wasserzeichen daten verlassen nie ihr gerat", "p": 2, "c": "Tool"}, {"n": "Lebenslaufvorlagen & Beispiele", "u": "https://loonaautomation.github.io/loona-resume-builder/de/resume-templates.html", "s": "Loona Resume Builder", "d": "Kostenlose Lebenslaufvorlagen und Beispiele: 40 Berufsproben, 8 Vorlagen und 6 Karrierestufen. Öffnen Sie ein beliebiges Beispiel im kostenlosen Builder, machen Sie es zu Ihrem und laden Sie Ihre PDF-Datei herunter.", "k": "resume templates examples resume templates kostenlose lebenslaufvorlagen und beispiele 40 berufsproben 8 vorlagen und 6 karrierestufen offnen sie ein beliebiges beispiel im kostenlosen builder machen sie es zu ihrem und laden sie ihre pdf datei herunter", "p": 3, "c": "Tool"}, {"n": "Wie man einen Lebenslauf schreibt, der Interviews erhält", "u": "https://loonaautomation.github.io/loona-resume-builder/de/resume-tips.html", "s": "Loona Resume Builder", "d": "Ein praktischer, kostenloser Leitfaden zum Schreiben eines Lebenslaufs, der gelesen wird: Struktur, eine Formel für die Zusammenfassung, Leistungsaufzählungen mit Zahlen, Fähigkeiten, häufige Fehler und ATS-Tipps. Erstellen Sie dann Ihren eigenen kostenlos.", "k": "how to write a resume that gets interviews resume tips ein praktischer kostenloser leitfaden zum schreiben eines lebenslaufs der gelesen wird struktur eine formel fur die zusammenfassung leistungsaufzahlungen mit zahlen fahigkeiten haufige fehler und ats tipps erstellen sie dann ihren eigenen kostenlos", "p": 4, "c": "Tool"}, {"n": "Lebenslauf-Checkliste - ATS & Vollständigkeitsprüfung", "u": "https://loonaautomation.github.io/loona-resume-builder/de/resume-checklist.html", "s": "Loona Resume Builder", "d": "Eine kostenlose interaktive Lebenslauf-Checkliste: 20 ATS und Vollständigkeitsprüfungen mit Fortschritt, der in Ihrem Browser gespeichert wird. Kombiniert mit dem kostenlosen Loona Resume Builder und Cover Letter Builder.", "k": "resume checklist ats completeness check resume checklist eine kostenlose interaktive lebenslauf checkliste 20 ats und vollstandigkeitsprufungen mit fortschritt der in ihrem browser gespeichert wird kombiniert mit dem kostenlosen loona resume builder und cover letter builder", "p": 5, "c": "Tool"}];
+  var data = null, loading = null, usingFallback = false, active = -1, current = [];
+
+  /*CORE-START*/
+/* Loona search core v2 — shared by the homepage dropdown and the /search/ page.
+   Adds over v1: Roman Urdu alias layer, joined-word matching, keyword prefix match,
+   URL+name dedupe, tool-over-guide boost. `data` is supplied by the page glue. */
+var ALIASES = {
+  "khat": "letter",
+  "naukri": "resume"
+};
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function lev(a, b) {
+  if (a === b) return 0;
+  var la = a.length, lb = b.length, i, j;
+  if (Math.abs(la - lb) > 1) return 2;
+  var prev = [], cur = [];
+  for (j = 0; j <= lb; j++) prev[j] = j;
+  for (i = 1; i <= la; i++) {
+    cur[0] = i; var best = 99;
+    for (j = 1; j <= lb; j++) {
+      var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      cur[j] = v; if (v < best) best = v;
+    }
+    if (best > 1) return 2;
+    var t = prev; prev = cur; cur = t;
+  }
+  return prev[lb];
+}
+function wordLevel(w, nameWords, hayWords, nameJoined) {
+  var i;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
+  for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
+  for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
+  for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
+  if (w.length >= 4 && nameJoined.indexOf(w) >= 0) return 22;
+  if (w.length >= 4) {
+    for (i = 0; i < nameWords.length; i++) if (lev(w, nameWords[i]) <= 1) return 17;
+    for (i = 0; i < hayWords.length; i++) if (lev(w, hayWords[i]) <= 1) return 12;
+  }
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i].indexOf(w) >= 0) return 14;
+  return 0;
+}
+function expandWords(qw) {
+  /* variants tried (best score wins): the words themselves; each Roman Urdu
+     word swapped for the FIRST word of its English meaning; the full meaning;
+     and — for multi-word queries — the words joined into one ("wi fi"→"wifi"). */
+  var prim = [], full = [], changed = false;
+  for (var i = 0; i < qw.length; i++) {
+    var a = ALIASES[qw[i]];
+    if (a) {
+      changed = true;
+      var parts = a.split(' ');
+      prim.push(parts[0]);
+      for (var j = 0; j < parts.length; j++) full.push(parts[j]);
+    } else { prim.push(qw[i]); full.push(qw[i]); }
+  }
+  var out = [qw];
+  if (changed) { out.push(prim); if (full.join(' ') !== prim.join(' ')) out.push(full); }
+  if (qw.length > 1) out.push([qw.join('')]);
+  return out;
+}
+function runSearch(q, limit) {
+  var query = norm(q);
+  if (!query || !data) return [];
+  var variants = expandWords(query.split(' ')), out = [];
+  for (var e = 0; e < data.length; e++) {
+    var it = data[e], name = norm(it.n),
+        hay = name + ' ' + norm(it.s) + ' ' + (it.k || ''),
+        nameWords = name.split(' '), hayWords = hay.split(' '),
+        nameJoined = name.replace(/ /g, ''), best = -1;
+    for (var v = 0; v < variants.length; v++) {
+      var qw = variants[v], sum = 0, ok = true;
+      for (var i = 0; i < qw.length; i++) {
+        var lv = wordLevel(qw[i], nameWords, hayWords, nameJoined);
+        if (lv === 0) { ok = false; break; }
+        sum += lv;
+      }
+      if (!ok) continue;
+      var score = sum * 10, qs = qw.join(' '), qJoined = qs.replace(/ /g, '');
+      if (name === qs) score += 100000;
+      else if (name.indexOf(qs) === 0) score += 5000;
+      else if (name.indexOf(qs) >= 0) score += 2000;
+      if (nameJoined === qJoined) score += 9000;
+      else if (qJoined.length >= 4 && nameJoined.indexOf(qJoined) >= 0) score += 2500;
+      if (qw.length > 1) {
+        var allN = true;
+        for (var k = 0; k < qw.length; k++) if (nameWords.indexOf(qw[k]) < 0) allN = false;
+        if (allN) score += 800;
+      }
+      /* tool whose name carries the searched word beats a guide about it */
+      if (it.c !== 'Guide') {
+        for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
+      }
+      score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
+      score -= name.length * 0.3;
+      if (score > best) best = score;
+    }
+    if (best >= 0) out.push({ it: it, score: best });
+  }
+  out.sort(function (a, b) { return b.score - a.score; });
+  /* dedupe: same URL once, same tool name once (keep the better-ranked copy) */
+  var seenU = {}, seenN = {}, res = [];
+  for (var r = 0; r < out.length; r++) {
+    var en = out[r].it, key = norm(en.n);
+    if (seenU[en.u] || seenN[key]) continue;
+    seenU[en.u] = 1; seenN[key] = 1; res.push(en);
+    if (res.length >= limit) break;
+  }
+  return res;
+}
+function popular(n) {
+  if (!data) return [];
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
+             .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
+}
+/*CORE-END*/
+
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function badge(e) { return e.c === 'Website' ? 'Website' : (e.c === 'Guide' ? 'Guide' : e.s.replace(/^Loona /, '')); }
+  function itemHtml(e, i) {
+    return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
+           '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +
+           '<span class="ls-ds">' + esc(e.d) + '</span></a>';
+  }
+  function bindItems() {
+    var links = list.querySelectorAll('.ls-item');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('mouseenter', function () { setActive(parseInt(this.getAttribute('data-i'), 10)); });
+    }
+  }
+  function render(items, q) {
+    active = -1; current = items;
+    var h = '';
+    if (usingFallback) h += '<div class="ls-none">' + STR.fb + '</div>';
+    h += items.map(itemHtml).join('');
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderZero(q) {
+    var pop = popular(6);
+    active = -1; current = pop;
+    var h = '<div class="ls-none">' + STR.zero1 + esc(q) + STR.zero2 + '</div>' +
+            pop.map(itemHtml).join('') +
+            '';
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderLoading() {
+    list.innerHTML = '<div class="ls-none">' + STR.loading + '</div>';
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function refresh() {
+    var q = input.value;
+    if (!data) { renderLoading(); return; }
+    if (!norm(q)) { render(popular(6), ''); return; }
+    var res = runSearch(q, 8);
+    if (res.length) render(res, q); else renderZero(q);
+  }
+  function hide() { list.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
+  function setActive(i) {
+    active = i;
+    var links = list.querySelectorAll('.ls-item');
+    for (var j = 0; j < links.length; j++) links[j].classList.toggle('act', j === i);
+    if (i >= 0 && links[i]) links[i].scrollIntoView({ block: 'nearest' });
+  }
+  function ensureIndex() {
+    if (data && !usingFallback) return;
+    if (loading) return;
+    loading = fetch(INDEX_URL).then(function (r) {
+      if (!r.ok) throw new Error('index ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      data = j; usingFallback = false; loading = null; refresh();
+    }).catch(function () {
+      loading = null;                 /* not poisoned: next keystroke/focus retries */
+      if (!data) { data = FALLBACK; usingFallback = true; }
+      refresh();
+    });
+  }
+  var timer = null;
+  function onType() { ensureIndex(); refresh(); }
+  input.addEventListener('focus', onType);
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(onType, 70); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault();
+      if (list.hidden) { onType(); return; }
+      var n = current.length; if (!n) return;
+      setActive(ev.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (ev.key === 'Escape') { hide(); }
+  });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var q = input.value;
+    if (active >= 0 && current[active]) { window.location.href = current[active].u; return; }
+    ensureIndex();
+    if (data) {
+      var best = runSearch(q, 1);
+      if (best.length) { window.location.href = best[0].u; return; }
+    }
+    if (norm(q)) renderZero(q);
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) hide(); });
+})();
+
+</script>
 <script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
