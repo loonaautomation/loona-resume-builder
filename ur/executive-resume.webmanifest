@@ -1,0 +1,29 @@
+{
+  "name": "Loona ایگزیکٹو ریزیومے کے ریزیومے کی مثال — مفت نمونہ & ٹیمپلیٹ",
+  "short_name": "ایگزیکٹو ریزیومے کے ریزیومے کی مثال — مفت نمونہ & ٹیمپلیٹ",
+  "description": "مفت ایگزیکٹو ریزیومے کی مثال: ایک مکمل فرضی نمونہ، درجے کے مطابق رہنمائی اور عمومی سوالات۔ مفت بلڈر میں نمونے میں ترمیم کریں اور اپنی PDF ڈاؤن لوڈ کریں۔",
+  "id": "/loona-resume-builder/ur/executive-resume.html",
+  "start_url": "./executive-resume.html",
+  "scope": "./executive-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

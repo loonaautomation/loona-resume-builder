@@ -1,0 +1,29 @@
+{
+  "name": "Loona مفت ریزیومے بلڈر آن لائن — کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، مفت PDF",
+  "short_name": "مفت ریزیومے بلڈر آن لائن — کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، مفت PDF",
+  "description": "اپنا ریزیومے آن لائن مفت بنائیں: لائیو A4 پریویو، 8 ٹیمپلیٹس (کلاسک، جدید، سادہ، ATS، تخلیقی، پیشہ ورانہ، ایگزیکٹو، کمپیکٹ)، تجربے اور تعلیم کے لامحدود اندراج، مفت PDF ڈاؤن لوڈ۔ کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں — آپ کا ڈیٹا کبھی آپ کے آلے سے باہر نہیں جاتا۔",
+  "id": "/loona-resume-builder/ur/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

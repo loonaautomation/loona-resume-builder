@@ -1,0 +1,29 @@
+{
+  "name": "Loona پیشہ ورانہ ریزیومے ٹیمپلیٹ — مفت، PDF کے طور پر ڈاؤن لوڈ کریں",
+  "short_name": "پیشہ ورانہ ریزیومے ٹیمپلیٹ — مفت، PDF کے طور پر ڈاؤن لوڈ کریں",
+  "description": "مفت پیشہ ورانہ ریزیومے ٹیمپلیٹ: یہ کس کے لیے ہے، اسے کون استعمال کرے، کب استعمال نہ کرے، اور ایک لائیو نمونہ۔ اسے بلڈر میں کھولیں اور اپنی PDF ڈاؤن لوڈ کریں — کوئی سائن اپ نہیں۔",
+  "id": "/loona-resume-builder/ur/resume-template-professional.html",
+  "start_url": "./resume-template-professional.html",
+  "scope": "./resume-template-professional.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

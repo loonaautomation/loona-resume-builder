@@ -1,0 +1,29 @@
+{
+  "name": "Loona مفت کور لیٹر بلڈر — کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، مفت PDF",
+  "short_name": "مفت کور لیٹر بلڈر — کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، مفت PDF",
+  "description": "پیشہ ورانہ کور لیٹر مکمل طور پر مفت بنائیں: رہنمائی یافتہ تین پیراگراف والا فارم، کلاسک خط کے انداز میں لائیو A4 پریویو، مفت PDF ڈاؤن لوڈ — کوئی سائن اپ نہیں، کوئی واٹر مارک نہیں، ڈیٹا کبھی آپ کے آلے سے باہر نہیں جاتا۔",
+  "id": "/loona-resume-builder/ur/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
