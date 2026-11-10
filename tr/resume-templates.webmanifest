@@ -1,0 +1,29 @@
+{
+  "name": "Loona Özgeçmiş Şablonları &amp; Örnekleri",
+  "short_name": "Özgeçmiş Şablonları &amp; Örnekleri",
+  "description": "Ücretsiz özgeçmiş şablonları ve örnekleri: 40 meslek örneği, 8 şablon ve 6 kariyer seviyesi. Herhangi bir örneği ücretsiz oluşturucuda açın, kendinize uyarlayın ve PDF'inizi indirin.",
+  "id": "/loona-resume-builder/tr/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

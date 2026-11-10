@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompakt Özgeçmiş Şablonu",
+  "short_name": "Kompakt Özgeçmiş Şablonu",
+  "description": "Ücretsiz Kompakt özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
+  "id": "/loona-resume-builder/tr/resume-template-compact.html",
+  "start_url": "./resume-template-compact.html",
+  "scope": "./resume-template-compact.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

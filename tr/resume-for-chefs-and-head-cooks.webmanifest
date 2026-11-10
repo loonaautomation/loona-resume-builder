@@ -1,0 +1,29 @@
+{
+  "name": "Loona Şefler ve Baş Aşçılar Özgeçmiş Örneği",
+  "short_name": "Şefler ve Baş Aşçılar Özgeçmiş Örneği",
+  "description": "Ücretsiz şef ve baş aşçı özgeçmiş örneği: Yaratıcı şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
+  "id": "/loona-resume-builder/tr/resume-for-chefs-and-head-cooks.html",
+  "start_url": "./resume-for-chefs-and-head-cooks.html",
+  "scope": "./resume-for-chefs-and-head-cooks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

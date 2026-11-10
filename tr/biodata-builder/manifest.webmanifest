@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ücretsiz Evlilik Biyodata Oluşturucu - Sade ve Dekoratif Stiller, Ücretsiz PDF",
+  "short_name": "Ücretsiz Evlilik Biyodata",
+  "description": "Bir evlilik biyodatasını tamamen ücretsiz oluşturun: kişisel, aile, eğitim ve isteğe bağlı burç bölümleri, Sade ve Dekoratif stiller, canlı A4 önizleme ve ücretsiz PDF indirme - kayıt gerekmez, filigran yok, veriler asla cihazınızdan çıkmaz.",
+  "id": "/loona-resume-builder/tr/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

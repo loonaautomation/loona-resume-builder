@@ -1,0 +1,29 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "Profesyonel bir özgeçmişi tamamen ücretsiz oluşturun: canlı A4 önizleme, 8 şablon (Klasik, Modern, Minimal, ATS, Yaratıcı, Profesyonel, Yönetici, Kompakt), ücretsiz PDF indirme - kayıt gerekmez, filigran yok ve verileriniz asla cihazınızdan çıkmaz.",
+  "id": "/loona-resume-builder/tr/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
