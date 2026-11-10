@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creatief cv-sjabloon",
+  "short_name": "Creatief cv-sjabloon",
+  "description": "Gratis Creatief cv-sjabloon: waar het voor is, wie het moet gebruiken, wanneer je het niet moet gebruiken, en een live voorbeeld. Open het in de bouwer en download je pdf — geen aanmelding.",
+  "id": "/loona-resume-builder/nl/resume-template-creative.html",
+  "start_url": "./resume-template-creative.html",
+  "scope": "./resume-template-creative.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
