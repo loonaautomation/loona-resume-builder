@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cover Letter Builder Grátis",
+  "short_name": "Cover Letter Builder Grátis",
+  "description": "Crie uma carta de apresentação profissional completamente grátis: formulário guiado de três parágrafos, pré-visualização A4 ao vivo no estilo de carta Classic, download gratuito em PDF - sem registro, sem marca de água, os dados nunca saem do seu dispositivo.",
+  "id": "/loona-resume-builder/pt-br/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

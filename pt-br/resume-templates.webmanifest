@@ -1,0 +1,29 @@
+{
+  "name": "Loona Modelos & Exemplos de Currículos",
+  "short_name": "Modelos & Exemplos de",
+  "description": "Modelos e exemplos de currículos grátis: 40 exemplos de profissões, 8 modelos e 6 níveis de carreira. Abra qualquer exemplo no criador gratuito, torne-o seu e transfira o seu PDF.",
+  "id": "/loona-resume-builder/pt-br/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
