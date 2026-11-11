@@ -1,0 +1,29 @@
+{
+  "name": "Loona Șablon de CV Clasic",
+  "short_name": "Șablon de CV Clasic",
+  "description": "Șablon gratuit de CV Clasic: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
+  "id": "/loona-resume-builder/ro/resume-template-classic.html",
+  "start_url": "./resume-template-classic.html",
+  "scope": "./resume-template-classic.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

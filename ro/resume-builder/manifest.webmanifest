@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creator gratuit de CV online",
+  "short_name": "Creator gratuit de CV online",
+  "description": "Construiește-ți CV-ul gratuit online: previzualizare A4 în timp real, 8 șabloane (Clasic, Modern, Minimalist, ATS, Creativ, Profesional, Executiv, Compact), intrări nelimitate de experiență și educație, descărcare PDF gratuită. Fără înregistrare, fără filigran - datele tale nu părăsesc niciodată dispozitivul tău.",
+  "id": "/loona-resume-builder/ro/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

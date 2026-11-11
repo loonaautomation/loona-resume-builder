@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exemplu de CV pentru bucătari și bucătari-șefi",
+  "short_name": "CV pentru bucătari și bucătari-șefi",
+  "description": "Exemplu gratuit de CV de bucătar și bucătar-șef: un exemplu fictiv complet în șablonul Creativ, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
+  "id": "/loona-resume-builder/ro/resume-for-chefs-and-head-cooks.html",
+  "start_url": "./resume-for-chefs-and-head-cooks.html",
+  "scope": "./resume-for-chefs-and-head-cooks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

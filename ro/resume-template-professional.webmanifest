@@ -1,0 +1,29 @@
+{
+  "name": "Loona Șablon de CV Profesional",
+  "short_name": "Șablon de CV Profesional",
+  "description": "Șablon gratuit de CV Profesional: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
+  "id": "/loona-resume-builder/ro/resume-template-professional.html",
+  "start_url": "./resume-template-professional.html",
+  "scope": "./resume-template-professional.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

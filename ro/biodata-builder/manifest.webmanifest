@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creator gratuit de biodata pentru căsătorie",
+  "short_name": "Creator gratuit de biodata pentru căsătorie",
+  "description": "Construiește o biodata de căsătorie complet gratuit: secțiuni personale, de familie, de educație și opțional de horoscop, stiluri Simplu și Decorativ, previzualizare A4 în timp real și descărcare PDF gratuită - fără înregistrare, fără filigran, datele nu părăsesc niciodată dispozitivul tău.",
+  "id": "/loona-resume-builder/ro/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
