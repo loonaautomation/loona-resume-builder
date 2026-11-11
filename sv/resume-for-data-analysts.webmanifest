@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exempel på CV för dataanalytiker",
+  "short_name": "Exempel på CV för dataanalytiker",
+  "description": "Gratis exempel på CV för dataanalytiker: ett komplett fiktivt exempel i den Kompakta mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
+  "id": "/loona-resume-builder/sv/resume-for-data-analysts.html",
+  "start_url": "./resume-for-data-analysts.html",
+  "scope": "./resume-for-data-analysts.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

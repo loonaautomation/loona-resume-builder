@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exempel på CV för kockar och kökschefer",
+  "short_name": "CV för kockar och kökschefer",
+  "description": "Gratis exempel på CV för kockar och kökschefer: ett komplett fiktivt exempel i den Kreativa mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
+  "id": "/loona-resume-builder/sv/resume-for-chefs-and-head-cooks.html",
+  "start_url": "./resume-for-chefs-and-head-cooks.html",
+  "scope": "./resume-for-chefs-and-head-cooks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

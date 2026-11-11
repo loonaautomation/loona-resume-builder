@@ -1,0 +1,29 @@
+{
+  "name": "Loona Klassisk CV-mall",
+  "short_name": "Klassisk CV-mall",
+  "description": "Gratis Klassisk CV-mall: vad den är till för, vem som ska använda den, när den inte ska användas, och ett liveexempel. Öppna den i byggaren och ladda ned din PDF — ingen registrering.",
+  "id": "/loona-resume-builder/sv/resume-template-classic.html",
+  "start_url": "./resume-template-classic.html",
+  "scope": "./resume-template-classic.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exempel på CV mitt i karriären",
+  "short_name": "Exempel på CV mitt i karriären",
+  "description": "Gratis exempel på CV mitt i karriären: ett komplett fiktivt exempel, nivåspecifik vägledning och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
+  "id": "/loona-resume-builder/sv/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

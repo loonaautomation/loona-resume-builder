@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exempel på CV för administrativa assistenter",
+  "short_name": "Administrativa assistenter",
+  "description": "Gratis exempel på CV för administrativa assistenter: ett komplett fiktivt exempel i Minimal-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
+  "id": "/loona-resume-builder/sv/resume-for-administrative-assistants.html",
+  "start_url": "./resume-for-administrative-assistants.html",
+  "scope": "./resume-for-administrative-assistants.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

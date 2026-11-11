@@ -1,0 +1,29 @@
+{
+  "name": "Loona CV-mallar &amp; exempel",
+  "short_name": "CV-mallar &amp; exempel",
+  "description": "Gratis CV-mallar och exempel: 40 yrkesexempel, 8 mallar och 6 karriärnivåer. Öppna vilket exempel som helst i den kostnadsfria byggaren, gör det till ditt eget och ladda ned din PDF.",
+  "id": "/loona-resume-builder/sv/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
