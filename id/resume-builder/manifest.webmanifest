@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Resume Gratis",
+  "short_name": "Pembuat Resume Gratis",
+  "description": "Buat resume Anda gratis secara online: pratinjau A4 langsung, 8 templat (Klasik, Modern, Minimal, ATS, Kreatif, Profesional, Eksekutif, Ringkas), entri pengalaman dan pendidikan tanpa batas, unduhan PDF gratis. Tanpa pendaftaran, tanpa tanda air - data Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-resume-builder/id/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

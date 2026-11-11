@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Lulusan Baru",
+  "short_name": "Contoh Resume Lulusan Baru",
+  "description": "Contoh resume lulusan baru gratis: contoh fiktif lengkap, panduan khusus tingkat, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/fresher-resume.html",
+  "start_url": "./fresher-resume.html",
+  "scope": "./fresher-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

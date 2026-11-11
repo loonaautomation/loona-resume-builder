@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Perwakilan Layanan Pelanggan",
+  "short_name": "Contoh Resume Perwakilan Layanan Pelanggan",
+  "description": "Contoh resume perwakilan layanan pelanggan gratis: contoh fiktif lengkap dalam templat ATS, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/resume-for-customer-service-representatives.html",
+  "start_url": "./resume-for-customer-service-representatives.html",
+  "scope": "./resume-for-customer-service-representatives.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

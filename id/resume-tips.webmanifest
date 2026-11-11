@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cara Menulis Resume yang Menghasilkan Wawancara",
+  "short_name": "Cara Menulis Resume yang Menghasilkan Wawancara",
+  "description": "Panduan praktis dan gratis untuk menulis resume yang dibaca: struktur, rumus ringkasan, poin pencapaian dengan angka, keahlian, kesalahan umum, dan tips ATS. Setelah itu buat resume Anda secara gratis.",
+  "id": "/loona-resume-builder/id/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

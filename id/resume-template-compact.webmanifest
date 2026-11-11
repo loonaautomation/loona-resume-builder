@@ -1,0 +1,29 @@
+{
+  "name": "Loona Templat Resume Ringkas",
+  "short_name": "Templat Resume Ringkas",
+  "description": "Templat resume Ringkas gratis: untuk apa, siapa yang sebaiknya menggunakannya, kapan sebaiknya tidak digunakan, dan contoh langsung. Buka di pembuat dan unduh PDF Anda — tanpa pendaftaran.",
+  "id": "/loona-resume-builder/id/resume-template-compact.html",
+  "start_url": "./resume-template-compact.html",
+  "scope": "./resume-template-compact.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Daftar Periksa Resume - Pemeriksaan ATS & Kelengkapan",
+  "short_name": "Daftar Periksa Resume - Pemeriksaan ATS & Kelengkapan",
+  "description": "Daftar periksa resume interaktif gratis: 20 pemeriksaan ATS dan kelengkapan dengan progres yang tersimpan di browser Anda. Pasangan dari Loona Resume Builder dan Pembuat Surat Lamaran gratis.",
+  "id": "/loona-resume-builder/id/resume-checklist.html",
+  "start_url": "./resume-checklist.html",
+  "scope": "./resume-checklist.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

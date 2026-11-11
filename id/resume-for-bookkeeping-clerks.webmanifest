@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Petugas Pembukuan",
+  "short_name": "Contoh Resume Petugas Pembukuan",
+  "description": "Contoh resume petugas pembukuan gratis: contoh fiktif lengkap dalam templat ATS, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/resume-for-bookkeeping-clerks.html",
+  "start_url": "./resume-for-bookkeeping-clerks.html",
+  "scope": "./resume-for-bookkeeping-clerks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

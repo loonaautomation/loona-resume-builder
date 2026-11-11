@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Manajer Penjualan",
+  "short_name": "Contoh Resume Manajer Penjualan",
+  "description": "Contoh resume manajer penjualan gratis: contoh fiktif lengkap dalam templat Eksekutif, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/resume-for-sales-managers.html",
+  "start_url": "./resume-for-sales-managers.html",
+  "scope": "./resume-for-sales-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

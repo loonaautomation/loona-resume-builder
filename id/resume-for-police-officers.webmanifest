@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Petugas Kepolisian",
+  "short_name": "Contoh Resume Petugas Kepolisian",
+  "description": "Contoh resume petugas kepolisian gratis: contoh fiktif lengkap dalam templat ATS, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/resume-for-police-officers.html",
+  "start_url": "./resume-for-police-officers.html",
+  "scope": "./resume-for-police-officers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

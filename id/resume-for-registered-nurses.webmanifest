@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Perawat Terdaftar",
+  "short_name": "Contoh Resume Perawat Terdaftar",
+  "description": "Contoh resume perawat terdaftar gratis: contoh fiktif lengkap dalam templat Profesional, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
+  "id": "/loona-resume-builder/id/resume-for-registered-nurses.html",
+  "start_url": "./resume-for-registered-nurses.html",
+  "scope": "./resume-for-registered-nurses.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
