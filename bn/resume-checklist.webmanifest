@@ -1,0 +1,29 @@
+{
+  "name": "Loona রিজিউমে চেকলিস্ট - ATS & সম্পূর্ণতা যাচাই",
+  "short_name": "রিজিউমে চেকলিস্ট - ATS & সম্পূর্ণতা যাচাই",
+  "description": "একটি বিনামূল্যের ইন্টারঅ্যাক্টিভ রিজিউমে চেকলিস্ট: 20টি ATS ও সম্পূর্ণতা যাচাই, যার অগ্রগতি আপনার ব্রাউজারে সংরক্ষিত থাকে। বিনামূল্যের Loona Resume Builder ও Cover Letter Builder-এর সাথে মানানসই।",
+  "id": "/loona-resume-builder/bn/resume-checklist.html",
+  "start_url": "./resume-checklist.html",
+  "scope": "./resume-checklist.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

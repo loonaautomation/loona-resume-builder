@@ -1,0 +1,28 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "সম্পূর্ণ বিনামূল্যে একটি পেশাদার রিজিউমে তৈরি করুন: লাইভ A4 প্রিভিউ, 8টি টেমপ্লেট (ক্লাসিক, আধুনিক, মিনিমাল, ATS, সৃজনশীল, পেশাদার, এক্সিকিউটিভ, কমপ্যাক্ট), বিনামূল্যে PDF ডাউনলোড - কোনো সাইন-আপ নেই, কোনো ওয়াটারমার্ক নেই, এবং আপনার ডেটা কখনো আপনার ডিভাইস ছেড়ে যায় না।",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

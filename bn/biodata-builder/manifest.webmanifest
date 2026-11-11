@@ -1,0 +1,29 @@
+{
+  "name": "Loona বিনামূল্যের বিবাহ বায়োডাটা বিল্ডার",
+  "short_name": "বিনামূল্যের বিবাহ বায়োডাটা বিল্ডার",
+  "description": "সম্পূর্ণ বিনামূল্যে একটি বিবাহ বায়োডাটা তৈরি করুন: ব্যক্তিগত, পারিবারিক, শিক্ষা এবং ঐচ্ছিক রাশিফল অংশ, সিম্পল ও ডেকোরেটিভ স্টাইল, লাইভ A4 প্রিভিউ এবং বিনামূল্যে PDF ডাউনলোড - কোনো সাইন-আপ নেই, কোনো ওয়াটারমার্ক নেই, ডেটা কখনো আপনার ডিভাইস ছেড়ে যায় না।",
+  "id": "/loona-resume-builder/bn/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona কীভাবে এমন রিজিউমে লিখবেন যা ইন্টারভিউ ডেকে আনে",
+  "short_name": "কীভাবে এমন রিজিউমে লিখবেন যা ইন্টারভিউ ডেকে আনে",
+  "description": "পড়া হয় এমন রিজিউমে লেখার একটি ব্যবহারিক, বিনামূল্যের গাইড: কাঠামো, একটি সারসংক্ষেপ সূত্র, সংখ্যাসহ কৃতিত্বের বুলেট, দক্ষতা, সাধারণ ভুল এবং ATS টিপস। তারপর আপনারটি বিনামূল্যে তৈরি করুন।",
+  "id": "/loona-resume-builder/bn/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
