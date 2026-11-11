@@ -1,0 +1,29 @@
+{
+  "name": "Loona CV-eksempel midt i karrieren",
+  "short_name": "CV-eksempel midt i karrieren",
+  "description": "Gratis CV-eksempel for erfaren: et komplett fiktivt eksempel, nivåspesifikk veiledning og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
+  "id": "/loona-resume-builder/nb/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

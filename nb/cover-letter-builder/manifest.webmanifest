@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gratis søknadsbrev-bygger",
+  "short_name": "Gratis søknadsbrev-bygger",
+  "description": "Bygg et profesjonelt søknadsbrev helt gratis: veiledet skjema på tre avsnitt, direkte A4-forhåndsvisning i den klassiske brevstilen, gratis nedlasting som PDF – ingen registrering, ingen vannmerke, data forlater aldri enheten din.",
+  "id": "/loona-resume-builder/nb/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

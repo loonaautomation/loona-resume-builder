@@ -1,0 +1,29 @@
+{
+  "name": "Loona CV-eksempel for byggingeniører",
+  "short_name": "CV-eksempel for byggingeniører",
+  "description": "Gratis CV-eksempel for byggingeniør: et komplett fiktivt eksempel i Klassisk-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
+  "id": "/loona-resume-builder/nb/resume-for-civil-engineers.html",
+  "start_url": "./resume-for-civil-engineers.html",
+  "scope": "./resume-for-civil-engineers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
