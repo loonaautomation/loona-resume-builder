@@ -1,0 +1,29 @@
+{
+  "name": "Loona クラシック履歴書テンプレート",
+  "short_name": "クラシック履歴書テンプレート",
+  "description": "無料のクラシック履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
+  "id": "/loona-resume-builder/ja/resume-template-classic.html",
+  "start_url": "./resume-template-classic.html",
+  "scope": "./resume-template-classic.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

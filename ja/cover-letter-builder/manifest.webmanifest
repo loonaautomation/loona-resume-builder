@@ -1,0 +1,29 @@
+{
+  "name": "Loona 無料カバーレタービルダー",
+  "short_name": "無料カバーレタービルダー",
+  "description": "プロフェッショナルなカバーレターを完全無料で作成できます。ガイド付き三段落フォーム、クラシックレタースタイルのA4ライブプレビュー、無料PDFダウンロード ― 登録不要、透かしなし、データが端末の外に出ることはありません。",
+  "id": "/loona-resume-builder/ja/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

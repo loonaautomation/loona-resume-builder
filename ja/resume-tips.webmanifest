@@ -1,0 +1,29 @@
+{
+  "name": "Loona 面接につながる履歴書の書き方",
+  "short_name": "面接につながる履歴書の書き方",
+  "description": "読まれる履歴書の書き方を解説する、実践的で無料のガイドです。構成、要約の公式、数字入りの実績箇条書き、スキル、よくある間違い、ATSのコツ。その後は無料で自分の履歴書を作りましょう。",
+  "id": "/loona-resume-builder/ja/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

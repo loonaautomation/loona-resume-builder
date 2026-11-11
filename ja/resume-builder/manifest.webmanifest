@@ -1,0 +1,29 @@
+{
+  "name": "Loona 無料履歴書ビルダー",
+  "short_name": "無料履歴書ビルダー",
+  "description": "オンラインで履歴書を無料作成：A4ライブプレビュー、8つのテンプレート（クラシック、モダン、ミニマル、ATS、クリエイティブ、プロフェッショナル、エグゼクティブ、コンパクト）、職歴と学歴は件数無制限、無料PDFダウンロード。登録不要、透かしなし ― データが端末の外に出ることはありません。",
+  "id": "/loona-resume-builder/ja/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
