@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสร้างประวัติส่วนตัวสำหรับแต่งงานฟรี",
+  "short_name": "เครื่องมือสร้างประวัติส่วนตัวสำหรับแต่งงานฟรี",
+  "description": "สร้างประวัติส่วนตัวสำหรับแต่งงานได้ฟรีอย่างสมบูรณ์: ส่วนข้อมูลส่วนตัว ครอบครัว การศึกษา และดวงชะตาแบบเลือกใส่ได้ สไตล์เรียบง่ายและสไตล์ตกแต่ง ดูตัวอย่าง A4 แบบเรียลไทม์ และดาวน์โหลด PDF ฟรี - ไม่ต้องสมัคร ไม่มีลายน้ำ ข้อมูลไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-resume-builder/th/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

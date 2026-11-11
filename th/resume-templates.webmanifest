@@ -1,0 +1,29 @@
+{
+  "name": "Loona เทมเพลตเรซูเม่ &amp; ตัวอย่าง",
+  "short_name": "เทมเพลตเรซูเม่ &amp; ตัวอย่าง",
+  "description": "เทมเพลตและตัวอย่างเรซูเม่ฟรี: ตัวอย่าง 40 อาชีพ เทมเพลต 8 แบบ และระดับอาชีพ 6 ระดับ เปิดตัวอย่างใดก็ได้ในเครื่องมือสร้างฟรี ปรับให้เป็นของคุณ และดาวน์โหลด PDF",
+  "id": "/loona-resume-builder/th/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

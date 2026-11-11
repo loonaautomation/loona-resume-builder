@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวอย่างเรซูเม่สำหรับทันตแพทย์",
+  "short_name": "ตัวอย่างเรซูเม่สำหรับทันตแพทย์",
+  "description": "ตัวอย่างเรซูเม่ทันตแพทย์ฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
+  "id": "/loona-resume-builder/th/resume-for-dentists.html",
+  "start_url": "./resume-for-dentists.html",
+  "scope": "./resume-for-dentists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

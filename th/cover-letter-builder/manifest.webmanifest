@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสร้างจดหมายสมัครงานฟรี",
+  "short_name": "เครื่องมือสร้างจดหมายสมัครงานฟรี",
+  "description": "สร้างจดหมายสมัครงานแบบมืออาชีพได้ฟรีอย่างสมบูรณ์: แบบฟอร์มสามย่อหน้าแบบมีขั้นตอนแนะนำ ดูตัวอย่าง A4 แบบเรียลไทม์ในสไตล์จดหมายคลาสสิก ดาวน์โหลด PDF ฟรี - ไม่ต้องสมัคร ไม่มีลายน้ำ ข้อมูลไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-resume-builder/th/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวอย่างเรซูเม่สำหรับนักวิเคราะห์การเงิน",
+  "short_name": "เรซูเม่สำหรับนักวิเคราะห์การเงิน",
+  "description": "ตัวอย่างเรซูเม่นักวิเคราะห์การเงินฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
+  "id": "/loona-resume-builder/th/resume-for-financial-analysts.html",
+  "start_url": "./resume-for-financial-analysts.html",
+  "scope": "./resume-for-financial-analysts.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

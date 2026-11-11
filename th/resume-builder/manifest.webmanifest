@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องมือสร้างเรซูเม่ออนไลน์ฟรี",
+  "short_name": "เครื่องมือสร้างเรซูเม่ออนไลน์ฟรี",
+  "description": "สร้างเรซูเม่ของคุณฟรีทางออนไลน์: ดูตัวอย่าง A4 แบบเรียลไทม์ เทมเพลต 8 แบบ (คลาสสิก โมเดิร์น มินิมอล ATS สร้างสรรค์ มืออาชีพ ผู้บริหาร กะทัดรัด) เพิ่มประวัติการทำงานและการศึกษาได้ไม่จำกัด ดาวน์โหลด PDF ฟรี ไม่ต้องสมัคร ไม่มีลายน้ำ - ข้อมูลของคุณไม่เคยออกจากอุปกรณ์ของคุณ",
+  "id": "/loona-resume-builder/th/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

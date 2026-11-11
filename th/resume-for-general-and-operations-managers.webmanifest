@@ -1,0 +1,29 @@
+{
+  "name": "Loona เรซูเม่สำหรับผู้จัดการทั่วไปและผู้จัดการฝ่ายปฏิบัติการ",
+  "short_name": "เรซูเม่สำหรับผู้จัดการทั่วไปและผ",
+  "description": "ตัวอย่างเรซูเม่ผู้จัดการทั่วไปและผู้จัดการฝ่ายปฏิบัติการฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตผู้บริหาร เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
+  "id": "/loona-resume-builder/th/resume-for-general-and-operations-managers.html",
+  "start_url": "./resume-for-general-and-operations-managers.html",
+  "scope": "./resume-for-general-and-operations-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
