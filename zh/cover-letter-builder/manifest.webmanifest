@@ -1,0 +1,29 @@
+{
+  "name": "Loona 免费求职信生成器",
+  "short_name": "免费求职信生成器",
+  "description": "完全免费制作专业求职信：引导式三段表单，经典信函风格的实时 A4 预览，免费 PDF 下载 — 无需注册，无水印，数据不会离开您的设备。",
+  "id": "/loona-resume-builder/zh/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

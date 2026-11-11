@@ -1,0 +1,29 @@
+{
+  "name": "Loona 极简简历模板",
+  "short_name": "极简简历模板",
+  "description": "免费极简简历模板：它的用途、适合谁、什么时候不该用，以及一个实时范例。在生成器中打开它并下载您的 PDF — 无需注册。",
+  "id": "/loona-resume-builder/zh/resume-template-minimal.html",
+  "start_url": "./resume-template-minimal.html",
+  "scope": "./resume-template-minimal.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

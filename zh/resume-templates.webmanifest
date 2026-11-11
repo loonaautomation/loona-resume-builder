@@ -1,0 +1,29 @@
+{
+  "name": "Loona 简历模板 & 范例",
+  "short_name": "简历模板 & 范例",
+  "description": "免费简历模板与范例：40 个职业范例、8 个模板和 6 个职业级别。在免费生成器中打开任何范例，把它变成您自己的简历并下载 PDF。",
+  "id": "/loona-resume-builder/zh/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

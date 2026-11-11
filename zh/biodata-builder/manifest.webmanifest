@@ -1,0 +1,29 @@
+{
+  "name": "Loona 免费婚恋个人资料生成器",
+  "short_name": "免费婚恋个人资料生成器",
+  "description": "完全免费制作婚恋个人资料：个人、家庭、教育板块和可选的星盘板块，简约与装饰两种风格，实时 A4 预览和免费 PDF 下载 — 无需注册，无水印，数据不会离开您的设备。",
+  "id": "/loona-resume-builder/zh/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

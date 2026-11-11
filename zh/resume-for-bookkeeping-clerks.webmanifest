@@ -1,0 +1,29 @@
+{
+  "name": "Loona 簿记员简历范例",
+  "short_name": "簿记员简历范例",
+  "description": "免费的簿记员简历范例：一份完整的虚构范例，使用 ATS 模板，附招聘人员建议和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
+  "id": "/loona-resume-builder/zh/resume-for-bookkeeping-clerks.html",
+  "start_url": "./resume-for-bookkeeping-clerks.html",
+  "scope": "./resume-for-bookkeeping-clerks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
