@@ -1,0 +1,29 @@
+{
+  "name": "Loona ऐसा रिज़्यूमे कैसे लिखें जो इंटरव्यू दिलाए",
+  "short_name": "ऐसा रिज़्यूमे कैसे लिखें जो इंटरव्यू दिलाए",
+  "description": "पढ़ा जाने वाला रिज़्यूमे लिखने की एक व्यावहारिक, मुफ़्त गाइड: संरचना, सारांश फ़ॉर्मूला, संख्याओं के साथ उपलब्धि बुलेट, कौशल, आम गलतियाँ और ATS टिप्स। फिर अपना रिज़्यूमे मुफ़्त बनाएँ।",
+  "id": "/loona-resume-builder/hi/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

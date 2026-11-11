@@ -1,0 +1,29 @@
+{
+  "name": "Loona मुफ़्त विवाह बायोडाटा बिल्डर",
+  "short_name": "मुफ़्त विवाह बायोडाटा बिल्डर",
+  "description": "शादी का बायोडाटा पूरी तरह मुफ़्त बनाएँ: व्यक्तिगत, पारिवारिक, शिक्षा और वैकल्पिक कुंडली खंड, Simple और Decorative शैलियाँ, लाइव A4 प्रीव्यू और मुफ़्त PDF डाउनलोड — कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, डेटा कभी आपके डिवाइस से बाहर नहीं जाता।",
+  "id": "/loona-resume-builder/hi/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

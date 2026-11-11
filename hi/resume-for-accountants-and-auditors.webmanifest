@@ -1,0 +1,29 @@
+{
+  "name": "Loona अकाउंटेंट और ऑडिटर के रिज़्यूमे का उदाहरण",
+  "short_name": "अकाउंटेंट और ऑडिटर के रिज़्यूमे का उदाहरण",
+  "description": "मुफ़्त अकाउंटेंट और ऑडिटर रिज़्यूमे उदाहरण: Professional टेम्पलेट में एक पूरा काल्पनिक नमूना, भर्तीकर्ता टिप्स और सामान्य प्रश्न। नमूने को मुफ़्त बिल्डर में संपादित करें और अपनी PDF डाउनलोड करें।",
+  "id": "/loona-resume-builder/hi/resume-for-accountants-and-auditors.html",
+  "start_url": "./resume-for-accountants-and-auditors.html",
+  "scope": "./resume-for-accountants-and-auditors.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

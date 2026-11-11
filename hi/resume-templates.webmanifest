@@ -1,0 +1,29 @@
+{
+  "name": "Loona रिज़्यूमे टेम्पलेट & उदाहरण",
+  "short_name": "रिज़्यूमे टेम्पलेट & उदाहरण",
+  "description": "मुफ़्त रिज़्यूमे टेम्पलेट और उदाहरण: 40 पेशा नमूने, 8 टेम्पलेट और 6 करियर स्तर। कोई भी नमूना मुफ़्त बिल्डर में खोलें, उसे अपना बनाएँ और अपनी PDF डाउनलोड करें।",
+  "id": "/loona-resume-builder/hi/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
