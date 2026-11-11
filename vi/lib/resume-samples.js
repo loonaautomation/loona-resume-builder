@@ -114,7 +114,7 @@
         "start": "tháng 8 năm 2020",
         "end": "",
         "current": true,
-        "points": "Dạy đọc, toán và khoa học cho một lớp 26 học sinh, bao gồm 5 em có kế hoạch học tập cá nhân\nNâng trình độ đọc của lớp từ 58% lên 81% trong hai năm nhờ các nhóm đọc có hướng dẫn\nĐiều hành bản tin phụ huynh hàng tuần và các cuộc họp tiến độ theo kỳ cho mọi gia đình\nDẫn dắt trường's câu lạc bộ đọc sách cho 40 học sinh lớp 3-5"
+        "points": "Dạy đọc, toán và khoa học cho một lớp 26 học sinh, bao gồm 5 em có kế hoạch học tập cá nhân\nNâng trình độ đọc của lớp từ 58% lên 81% trong hai năm nhờ các nhóm đọc có hướng dẫn\nĐiều hành bản tin phụ huynh hàng tuần và các cuộc họp tiến độ theo kỳ cho mọi gia đình\nDẫn dắt câu lạc bộ đọc sách của trường cho 40 học sinh lớp 3-5"
       },
       {
         "role": "Giáo viên Tiểu học (Lớp 3)",
@@ -677,7 +677,7 @@
       "location": "Miami, FL",
       "website": ""
     },
-    "summary": "Lập trình viên web với 4 năm kinh nghiệm xây dựng các trang web nhanh, dễ tiếp cận bằng HTML, CSS và JavaScript. Đã xây dựng lại quy trình thanh toán cửa hàng's giúp tăng 18% chuyển đổi và duy trì 12 trang web của khách hàng với 99.9% thời gian hoạt động. Mạnh về thiết kế đáp ứng, hiệu suất và kiến thức cơ bản về SEO.",
+    "summary": "Lập trình viên web với 4 năm kinh nghiệm xây dựng các trang web nhanh, dễ tiếp cận bằng HTML, CSS và JavaScript. Đã xây dựng lại quy trình thanh toán của cửa hàng giúp tăng 18% chuyển đổi và duy trì 12 trang web của khách hàng với 99.9% thời gian hoạt động. Mạnh về thiết kế đáp ứng, hiệu suất và kiến thức cơ bản về SEO.",
     "experience": [
       {
         "role": "Lập trình viên Web",
@@ -994,7 +994,7 @@
         "start": "tháng 1 năm 2020",
         "end": "",
         "current": true,
-        "points": "Xem xét hơn 100 y lệnh thuốc mỗi ngày về an toàn, liều lượng và tương tác\nGiảm 25% các biến cố bất lợi của thuốc nhờ quy trình kiểm tra kép mới\nTư vấn cho bác sĩ và điều dưỡng về lựa chọn thuốc cho bệnh nhân phức tạp\nĐiều hành bệnh viện's các vòng quản lý sử dụng kháng sinh hai lần mỗi tuần"
+        "points": "Xem xét hơn 100 y lệnh thuốc mỗi ngày về an toàn, liều lượng và tương tác\nGiảm 25% các biến cố bất lợi của thuốc nhờ quy trình kiểm tra kép mới\nTư vấn cho bác sĩ và điều dưỡng về lựa chọn thuốc cho bệnh nhân phức tạp\nĐiều hành các vòng quản lý sử dụng kháng sinh của bệnh viện hai lần mỗi tuần"
       },
       {
         "role": "Dược sĩ Nhân viên",
@@ -1047,7 +1047,7 @@
         "start": "tháng 7 năm 2017",
         "end": "tháng 1 năm 2019",
         "current": false,
-        "points": "Cung cấp dịch vụ nha khoa tổng quát cho một phòng khám có 1,500 bệnh nhân\nÁp dụng bọc răng sứ trong ngày, giảm 40% số lần quay lại\nTổ chức các chuyến thăm cộng đồng tại trường học về trẻ em's sức khỏe răng miệng"
+        "points": "Cung cấp dịch vụ nha khoa tổng quát cho một phòng khám có 1,500 bệnh nhân\nÁp dụng bọc răng sứ trong ngày, giảm 40% số lần quay lại\nTổ chức các chuyến thăm cộng đồng tại trường học về sức khỏe răng miệng của trẻ em"
       }
     ],
     "education": [
@@ -1355,7 +1355,7 @@
         "start": "tháng 8 năm 2017",
         "end": "tháng 6 năm 2019",
         "current": false,
-        "points": "Dạy đại số và hình học cho 100 học sinh mỗi năm\nÁp dụng bài kiểm tra hàng tuần giúp giảm một nửa tình trạng thiếu bài tập về nhà\nTổ chức trường's hội chợ toán học đầu tiên với 200 học sinh"
+        "points": "Dạy đại số và hình học cho 100 học sinh mỗi năm\nÁp dụng bài kiểm tra hàng tuần giúp giảm một nửa tình trạng thiếu bài tập về nhà\nTổ chức hội chợ toán học đầu tiên của trường với 200 học sinh"
       }
     ],
     "education": [
@@ -1830,7 +1830,7 @@
         "start": "tháng 1 năm 2025",
         "end": "tháng 6 năm 2025",
         "current": false,
-        "points": "Quản lý công ty's các tài khoản mạng xã hội, tăng người theo dõi từ 2,000 lên 6,500\nXây dựng bảng điều khiển báo cáo giúp giảm một nửa thời gian báo cáo hàng tuần\nViết 20 bài blog thu hút hơn 15,000 lượt đọc"
+        "points": "Quản lý các tài khoản mạng xã hội của công ty, tăng người theo dõi từ 2,000 lên 6,500\nXây dựng bảng điều khiển báo cáo giúp giảm một nửa thời gian báo cáo hàng tuần\nViết 20 bài blog thu hút hơn 15,000 lượt đọc"
       },
       {
         "role": "Trưởng nhóm Tình nguyện viên Sự kiện",
@@ -1962,7 +1962,7 @@
         "start": "tháng 1 năm 2019",
         "end": "",
         "current": true,
-        "points": "Thực hiện các dự án phần mềm trị giá lên tới $8M với tỷ lệ đúng hạn 92%\nXây dựng công ty's PMO từ đầu: mẫu, báo cáo và quản trị\nHướng dẫn 10 quản lý dự án và điều hành cộng đồng PM hàng tháng\nBáo cáo trực tiếp cho CTO về một chương trình 40 người"
+        "points": "Thực hiện các dự án phần mềm trị giá lên tới $8M với tỷ lệ đúng hạn 92%\nXây dựng PMO của công ty từ đầu: mẫu, báo cáo và quản trị\nHướng dẫn 10 quản lý dự án và điều hành cộng đồng PM hàng tháng\nBáo cáo trực tiếp cho CTO về một chương trình 40 người"
       },
       {
         "role": "Quản lý Dự án",
