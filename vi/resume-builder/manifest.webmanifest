@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo CV Miễn phí",
+  "short_name": "Trình tạo CV Miễn phí",
+  "description": "Tạo CV của bạn miễn phí trực tuyến: xem trước A4 trực tiếp, 8 mẫu (Cổ điển, Hiện đại, Tối giản, ATS, Sáng tạo, Chuyên nghiệp, Điều hành, Gọn nhẹ), không giới hạn số mục kinh nghiệm và học vấn, tải PDF miễn phí. Không cần đăng ký, không hình mờ - dữ liệu của bạn không bao giờ rời khỏi thiết bị của bạn.",
+  "id": "/loona-resume-builder/vi/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

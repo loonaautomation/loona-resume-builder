@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mẫu CV & Ví dụ",
+  "short_name": "Mẫu CV & Ví dụ",
+  "description": "Mẫu CV và ví dụ miễn phí: 40 mẫu theo nghề nghiệp, 8 mẫu và 6 cấp độ nghề nghiệp. Mở bất kỳ mẫu nào trong trình tạo miễn phí, biến nó thành của bạn và tải PDF của bạn xuống.",
+  "id": "/loona-resume-builder/vi/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

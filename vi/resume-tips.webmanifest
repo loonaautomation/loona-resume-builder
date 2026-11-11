@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cách Viết CV Giúp Bạn Được Mời Phỏng Vấn",
+  "short_name": "Cách Viết CV Giúp Bạn Được Mời Phỏng Vấn",
+  "description": "Một hướng dẫn thực tế, miễn phí về cách viết CV được người đọc chú ý: cấu trúc, công thức tóm tắt, các gạch đầu dòng thành tích kèm con số, kỹ năng, sai lầm thường gặp và mẹo ATS. Sau đó hãy tạo CV của riêng bạn miễn phí.",
+  "id": "/loona-resume-builder/vi/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

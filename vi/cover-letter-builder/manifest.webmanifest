@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo Thư xin việc Miễn phí",
+  "short_name": "Trình tạo Thư xin việc Miễn phí",
+  "description": "Tạo thư xin việc chuyên nghiệp hoàn toàn miễn phí: biểu mẫu ba đoạn có hướng dẫn, xem trước A4 trực tiếp theo kiểu thư Cổ điển, tải PDF miễn phí - không cần đăng ký, không hình mờ, dữ liệu không bao giờ rời khỏi thiết bị của bạn.",
+  "id": "/loona-resume-builder/vi/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
