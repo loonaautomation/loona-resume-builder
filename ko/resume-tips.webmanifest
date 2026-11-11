@@ -1,0 +1,29 @@
+{
+  "name": "Loona 면접을 부르는 이력서 쓰는 법",
+  "short_name": "면접을 부르는 이력서 쓰는 법",
+  "description": "읽히는 이력서를 쓰는 실용적이고 무료인 가이드예요: 구조, 요약 공식, 숫자가 있는 성과 글머리 기호, 스킬, 흔한 실수와 ATS 팁. 그런 다음 무료로 직접 만들어 보세요.",
+  "id": "/loona-resume-builder/ko/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

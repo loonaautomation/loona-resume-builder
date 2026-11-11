@@ -1,0 +1,29 @@
+{
+  "name": "Loona 무료 이력서 빌더",
+  "short_name": "무료 이력서 빌더",
+  "description": "이력서를 온라인에서 무료로 만드세요: 실시간 A4 미리보기, 템플릿 8종 (클래식, 모던, 미니멀, ATS, 크리에이티브, 프로페셔널, 임원용, 컴팩트), 무제한 경력 및 학력 항목, 무료 PDF 다운로드. 회원가입도, 워터마크도 없어요 — 데이터는 기기를 떠나지 않아요.",
+  "id": "/loona-resume-builder/ko/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

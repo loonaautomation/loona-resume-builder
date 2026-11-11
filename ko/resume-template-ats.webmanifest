@@ -1,0 +1,29 @@
+{
+  "name": "Loona ATS 이력서 템플릿",
+  "short_name": "ATS 이력서 템플릿",
+  "description": "무료 ATS 이력서 템플릿: 어떤 용도인지, 누가 써야 하는지, 언제 쓰지 말아야 하는지, 실시간 샘플까지. 빌더에서 열어 PDF를 다운로드하세요 — 회원가입 없이.",
+  "id": "/loona-resume-builder/ko/resume-template-ats.html",
+  "start_url": "./resume-template-ats.html",
+  "scope": "./resume-template-ats.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

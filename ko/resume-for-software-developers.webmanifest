@@ -1,0 +1,29 @@
+{
+  "name": "Loona 소프트웨어 개발자 이력서 예시",
+  "short_name": "소프트웨어 개발자 이력서 예시",
+  "description": "무료 소프트웨어 개발자 이력서 예시: 모던 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
+  "id": "/loona-resume-builder/ko/resume-for-software-developers.html",
+  "start_url": "./resume-for-software-developers.html",
+  "scope": "./resume-for-software-developers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

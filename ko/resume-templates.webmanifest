@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이력서 템플릿 & 예시",
+  "short_name": "이력서 템플릿 & 예시",
+  "description": "무료 이력서 템플릿과 예시: 직업별 샘플 40개, 템플릿 8개, 커리어 레벨 6개. 어떤 샘플이든 무료 빌더에서 열어 나만의 것으로 만들고 PDF를 다운로드하세요.",
+  "id": "/loona-resume-builder/ko/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
