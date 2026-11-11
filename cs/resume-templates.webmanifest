@@ -1,0 +1,29 @@
+{
+  "name": "Loona Šablony a vzory životopisů",
+  "short_name": "Šablony a vzory životopisů",
+  "description": "Bezplatné šablony a vzory životopisů: 40 vzorů podle profese, 8 šablon a 6 kariérních úrovní. Otevřete libovolný vzor v bezplatném nástroji, přizpůsobte si ho a stáhněte si své PDF.",
+  "id": "/loona-resume-builder/cs/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

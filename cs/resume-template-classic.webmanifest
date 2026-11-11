@@ -1,0 +1,29 @@
+{
+  "name": "Loona Šablona životopisu Classic",
+  "short_name": "Šablona životopisu Classic",
+  "description": "Bezplatná šablona životopisu Classic: k čemu slouží, kdo by ji měl používat, kdy ji nepoužívat, a živý vzor. Otevřete ji v nástroji a stáhněte si své PDF — bez registrace.",
+  "id": "/loona-resume-builder/cs/resume-template-classic.html",
+  "start_url": "./resume-template-classic.html",
+  "scope": "./resume-template-classic.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

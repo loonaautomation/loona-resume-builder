@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bezplatný nástroj pro tvorbu životopisů online",
+  "short_name": "Bezplatný nástroj pro tvorbu",
+  "description": "Vytvořte si životopis zdarma online: živý náhled A4, 8 šablon (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), neomezený počet záznamů o praxi a vzdělání, stažení PDF zdarma. Bez registrace, bez vodoznaku – vaše data nikdy neopustí vaše zařízení.",
+  "id": "/loona-resume-builder/cs/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Šablona životopisu Professional",
+  "short_name": "Šablona životopisu Professional",
+  "description": "Bezplatná šablona životopisu Professional: k čemu slouží, kdo by ji měl používat, kdy ji nepoužívat, a živý vzor. Otevřete ji v nástroji a stáhněte si své PDF — bez registrace.",
+  "id": "/loona-resume-builder/cs/resume-template-professional.html",
+  "start_url": "./resume-template-professional.html",
+  "scope": "./resume-template-professional.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
