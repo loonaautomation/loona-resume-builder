@@ -1,0 +1,29 @@
+{
+  "name": "Loona Szablony i przykłady CV",
+  "short_name": "Szablony i przykłady CV",
+  "description": "Darmowe szablony i przykłady CV: 40 przykładów dla różnych zawodów, 8 szablonów i 6 poziomów kariery. Otwórz dowolny przykład w darmowym kreatorze, dostosuj go do siebie i pobierz swój PDF.",
+  "id": "/loona-resume-builder/pl/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Darmowy kreator biodaty małżeńskiej",
+  "short_name": "Darmowy kreator biodaty małżeńskiej",
+  "description": "Stwórz biodatę małżeńską całkowicie za darmo: sekcje osobiste, rodzinne, edukacyjne i opcjonalna sekcja horoskopu, style prosty i ozdobny, podgląd A4 na żywo i darmowe pobieranie PDF — bez rejestracji, bez znaku wodnego, dane nigdy nie opuszczają Twojego urządzenia.",
+  "id": "/loona-resume-builder/pl/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

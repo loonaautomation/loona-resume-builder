@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przykład CV dla farmaceutów",
+  "short_name": "Przykład CV dla farmaceutów",
+  "description": "Darmowy przykład CV dla farmaceutów: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
+  "id": "/loona-resume-builder/pl/resume-for-pharmacists.html",
+  "start_url": "./resume-for-pharmacists.html",
+  "scope": "./resume-for-pharmacists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

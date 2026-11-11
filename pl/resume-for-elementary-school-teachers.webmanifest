@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przykład CV dla nauczycieli szkół podstawowych",
+  "short_name": "Nauczyciele szkół podstawowych",
+  "description": "Darmowy przykład CV dla nauczycieli szkół podstawowych: kompletny fikcyjny przykład w szablonie klasycznym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
+  "id": "/loona-resume-builder/pl/resume-for-elementary-school-teachers.html",
+  "start_url": "./resume-for-elementary-school-teachers.html",
+  "scope": "./resume-for-elementary-school-teachers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
