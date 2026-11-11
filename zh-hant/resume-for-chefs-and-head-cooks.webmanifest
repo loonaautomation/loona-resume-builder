@@ -1,0 +1,29 @@
+{
+  "name": "Loona 廚師與主廚簡歷範例",
+  "short_name": "廚師與主廚簡歷範例",
+  "description": "免費的廚師與主廚簡歷範例：一份完整的虛構範例，使用創意模板，附招聘人員建議和常見問題。在免費生成器中編輯範例並下載您的 PDF。",
+  "id": "/loona-resume-builder/zh-hant/resume-for-chefs-and-head-cooks.html",
+  "start_url": "./resume-for-chefs-and-head-cooks.html",
+  "scope": "./resume-for-chefs-and-head-cooks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

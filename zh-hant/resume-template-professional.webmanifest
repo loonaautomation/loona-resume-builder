@@ -1,0 +1,29 @@
+{
+  "name": "Loona 專業簡歷模板",
+  "short_name": "專業簡歷模板",
+  "description": "免費專業簡歷模板：它的用途、適合誰、什麼時候不該用，以及一個實時範例。在生成器中開啟它並下載您的 PDF — 無需註冊。",
+  "id": "/loona-resume-builder/zh-hant/resume-template-professional.html",
+  "start_url": "./resume-template-professional.html",
+  "scope": "./resume-template-professional.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

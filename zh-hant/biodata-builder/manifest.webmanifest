@@ -1,0 +1,29 @@
+{
+  "name": "Loona 免費婚戀個人資料生成器",
+  "short_name": "免費婚戀個人資料生成器",
+  "description": "完全免費製作婚戀個人資料：個人、家庭、教育板塊和可選的星盤板塊，簡約與裝飾兩種風格，實時 A4 預覽和免費 PDF 下載 — 無需註冊，無水印，資料不會離開您的裝置。",
+  "id": "/loona-resume-builder/zh-hant/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
