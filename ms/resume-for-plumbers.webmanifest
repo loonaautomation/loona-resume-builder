@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contoh Resume Tukang Paip",
+  "short_name": "Contoh Resume Tukang Paip",
+  "description": "Contoh resume tukang paip percuma: contoh rekaan yang lengkap dalam templat ATS, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
+  "id": "/loona-resume-builder/ms/resume-for-plumbers.html",
+  "start_url": "./resume-for-plumbers.html",
+  "scope": "./resume-for-plumbers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

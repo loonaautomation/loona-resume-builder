@@ -1,0 +1,29 @@
+{
+  "name": "Loona Templat Resume & Contoh",
+  "short_name": "Templat Resume & Contoh",
+  "description": "Templat dan contoh resume percuma: 40 contoh profesion, 8 templat dan 6 peringkat kerjaya. Buka mana-mana contoh dalam pembina percuma, jadikannya milik anda dan muat turun PDF anda.",
+  "id": "/loona-resume-builder/ms/resume-templates.html",
+  "start_url": "./resume-templates.html",
+  "scope": "./resume-templates.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

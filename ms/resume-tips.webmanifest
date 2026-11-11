@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cara Menulis Resume yang Mendapat Temu Duga",
+  "short_name": "Cara Menulis Resume yang Mendapat Temu Duga",
+  "description": "Panduan praktikal dan percuma untuk menulis resume yang dibaca: struktur, formula ringkasan, poin pencapaian dengan nombor, kemahiran, kesilapan biasa dan tip ATS. Kemudian bina resume anda secara percuma.",
+  "id": "/loona-resume-builder/ms/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
