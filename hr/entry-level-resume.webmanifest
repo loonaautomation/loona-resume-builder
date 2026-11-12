@@ -1,0 +1,29 @@
+{
+  "name": "Loona Primjer životopisa za početnike",
+  "short_name": "Primjer životopisa za početnike",
+  "description": "Besplatni primjer životopisa za početnike: potpuni izmišljeni primjer, upute za tu razinu i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
+  "id": "/loona-resume-builder/hr/entry-level-resume.html",
+  "start_url": "./entry-level-resume.html",
+  "scope": "./entry-level-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

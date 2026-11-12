@@ -1,0 +1,29 @@
+{
+  "name": "Loona Besplatni graditelj bračnog biodata",
+  "short_name": "Besplatni graditelj bračnog biodata",
+  "description": "Izradite bračni biodata potpuno besplatno: osobni, obiteljski, obrazovni i neobavezni horoskopski odjeljci, Jednostavan i Ukrasni stil, pregled A4 uživo i besplatno preuzimanje PDF-a - bez registracije, bez vodenog žiga, podaci nikada ne napuštaju vaš uređaj.",
+  "id": "/loona-resume-builder/hr/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
