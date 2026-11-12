@@ -1,0 +1,29 @@
+{
+  "name": "Loona Könyvelési ügyintézők önéletrajz-mintája",
+  "short_name": "Könyvelési ügyintézők önéletrajz-mintája",
+  "description": "Ingyenes könyvelési ügyintéző önéletrajz-minta: teljes, fiktív minta az ATS sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
+  "id": "/loona-resume-builder/hu/resume-for-bookkeeping-clerks.html",
+  "start_url": "./resume-for-bookkeeping-clerks.html",
+  "scope": "./resume-for-bookkeeping-clerks.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

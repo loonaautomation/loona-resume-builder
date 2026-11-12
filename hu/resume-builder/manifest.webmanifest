@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ingyenes Önéletrajz-készítő",
+  "short_name": "Ingyenes Önéletrajz-készítő",
+  "description": "Készítse el önéletrajzát ingyen online: élő A4-es előnézet, 8 sablon (Klasszikus, Modern, Minimalista, ATS, Kreatív, Professzionális, Vezetői, Kompakt), korlátlan tapasztalat- és végzettségbejegyzés, ingyenes PDF-letöltés. Regisztráció nélkül, vízjel nélkül - az adatai soha nem hagyják el az eszközét.",
+  "id": "/loona-resume-builder/hu/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

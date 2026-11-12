@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ingyenes Házassági Adatlapkészítő",
+  "short_name": "Ingyenes Házassági Adatlapkészítő",
+  "description": "Készítsen házassági adatlapot teljesen ingyen: személyes, családi, végzettségi és opcionális horoszkóp szakaszok, Egyszerű és Díszes stílusok, élő A4-es előnézet és ingyenes PDF-letöltés - regisztráció nélkül, vízjel nélkül, az adatai soha nem hagyják el az eszközét.",
+  "id": "/loona-resume-builder/hu/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

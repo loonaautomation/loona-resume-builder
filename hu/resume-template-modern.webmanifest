@@ -1,0 +1,29 @@
+{
+  "name": "Loona Modern önéletrajz-sablon",
+  "short_name": "Modern önéletrajz-sablon",
+  "description": "Ingyenes Modern önéletrajz-sablon: mire való, kinek érdemes használnia, mikor nem érdemes, és egy élő minta. Nyissa meg a készítőben, és töltse le a PDF-jét — regisztráció nélkül.",
+  "id": "/loona-resume-builder/hu/resume-template-modern.html",
+  "start_url": "./resume-template-modern.html",
+  "scope": "./resume-template-modern.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

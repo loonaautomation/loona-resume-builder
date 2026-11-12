@@ -1,0 +1,29 @@
+{
+  "name": "Loona ATS önéletrajz-sablon",
+  "short_name": "ATS önéletrajz-sablon",
+  "description": "Ingyenes ATS önéletrajz-sablon: mire való, kinek érdemes használnia, mikor nem érdemes, és egy élő minta. Nyissa meg a készítőben, és töltse le a PDF-jét — regisztráció nélkül.",
+  "id": "/loona-resume-builder/hu/resume-template-ats.html",
+  "start_url": "./resume-template-ats.html",
+  "scope": "./resume-template-ats.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

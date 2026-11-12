@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kreatív önéletrajz-sablon",
+  "short_name": "Kreatív önéletrajz-sablon",
+  "description": "Ingyenes Kreatív önéletrajz-sablon: mire való, kinek érdemes használnia, mikor nem érdemes, és egy élő minta. Nyissa meg a készítőben, és töltse le a PDF-jét — regisztráció nélkül.",
+  "id": "/loona-resume-builder/hu/resume-template-creative.html",
+  "start_url": "./resume-template-creative.html",
+  "scope": "./resume-template-creative.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

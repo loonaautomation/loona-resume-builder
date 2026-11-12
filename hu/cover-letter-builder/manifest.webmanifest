@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ingyenes Motivációslevél-készítő",
+  "short_name": "Ingyenes Motivációslevél-készítő",
+  "description": "Készítsen professzionális motivációs levelet teljesen ingyen: végigvezetett hárombekezdéses űrlap, élő A4-es előnézet Klasszikus levélstílusban, ingyenes PDF-letöltés - regisztráció nélkül, vízjel nélkül, az adatai soha nem hagyják el az eszközét.",
+  "id": "/loona-resume-builder/hu/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
