@@ -1,0 +1,29 @@
+{
+  "name": "Loona Приклад резюме менеджерів з маркетингу",
+  "short_name": "Приклад резюме менеджерів з маркетингу",
+  "description": "Безкоштовний приклад резюме менеджера з маркетингу: повний вигаданий зразок у шаблоні Креативний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
+  "id": "/loona-resume-builder/uk/resume-for-marketing-managers.html",
+  "start_url": "./resume-for-marketing-managers.html",
+  "scope": "./resume-for-marketing-managers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

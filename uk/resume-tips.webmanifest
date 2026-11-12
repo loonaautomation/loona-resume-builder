@@ -1,0 +1,29 @@
+{
+  "name": "Loona Як написати резюме, яке дає співбесіди",
+  "short_name": "Як написати резюме, яке дає співбесіди",
+  "description": "Практичний безкоштовний посібник із написання резюме, яке читають: структура, формула короткого опису, пункти досягнень із цифрами, навички, поширені помилки та поради щодо ATS. Потім створіть власне безкоштовно.",
+  "id": "/loona-resume-builder/uk/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

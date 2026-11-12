@@ -1,0 +1,29 @@
+{
+  "name": "Loona Приклад резюме фахівця середнього рівня",
+  "short_name": "Приклад резюме фахівця середнього рівня",
+  "description": "Безкоштовний приклад резюме фахівця середнього рівня: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
+  "id": "/loona-resume-builder/uk/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

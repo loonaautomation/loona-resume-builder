@@ -1,0 +1,29 @@
+{
+  "name": "Loona Безкоштовний конструктор шлюбних біоданих",
+  "short_name": "Безкоштовний конструктор шлюбних біоданих",
+  "description": "Створіть шлюбні біодані повністю безкоштовно: особистий, сімейний та освітній розділи й необов’язковий розділ гороскопу, стилі Простий і Декоративний, попередній перегляд A4 у реальному часі та безкоштовне завантаження PDF — без реєстрації, без водяних знаків, дані ніколи не залишають ваш пристрій.",
+  "id": "/loona-resume-builder/uk/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

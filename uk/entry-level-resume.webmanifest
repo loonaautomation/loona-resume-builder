@@ -1,0 +1,29 @@
+{
+  "name": "Loona Приклад резюме початкового рівня",
+  "short_name": "Приклад резюме початкового рівня",
+  "description": "Безкоштовний приклад резюме початкового рівня: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
+  "id": "/loona-resume-builder/uk/entry-level-resume.html",
+  "start_url": "./entry-level-resume.html",
+  "scope": "./entry-level-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

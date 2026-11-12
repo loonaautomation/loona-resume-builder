@@ -1,0 +1,29 @@
+{
+  "name": "Loona Безкоштовний конструктор резюме",
+  "short_name": "Безкоштовний конструктор резюме",
+  "description": "Створіть своє резюме безкоштовно онлайн: попередній перегляд A4 у реальному часі, 8 шаблонів (Класичний, Сучасний, Мінімалістичний, ATS, Креативний, Професійний, Для керівників, Компактний), необмежена кількість записів про досвід і освіту, безкоштовне завантаження PDF. Без реєстрації, без водяних знаків — ваші дані ніколи не залишають ваш пристрій.",
+  "id": "/loona-resume-builder/uk/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

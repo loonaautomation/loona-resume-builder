@@ -1,0 +1,28 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "Створіть професійне резюме повністю безкоштовно: попередній перегляд A4 у реальному часі, 8 шаблонів (Класичний, Сучасний, Мінімалістичний, ATS, Креативний, Професійний, Для керівників, Компактний), безкоштовне завантаження PDF — без реєстрації, без водяних знаків, а ваші дані ніколи не залишають ваш пристрій.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
