@@ -1,0 +1,29 @@
+{
+  "name": "Loona Eksempel på senior-CV",
+  "short_name": "Eksempel på senior-CV",
+  "description": "Gratis eksempel på senior-CV: et komplet fiktivt eksempel, niveauspecifik vejledning og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
+  "id": "/loona-resume-builder/da/senior-resume.html",
+  "start_url": "./senior-resume.html",
+  "scope": "./senior-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

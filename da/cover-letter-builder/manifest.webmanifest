@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gratis Ansøgningsbygger",
+  "short_name": "Gratis Ansøgningsbygger",
+  "description": "Byg en professionel ansøgning helt gratis: guidet formular på tre afsnit, live A4-forhåndsvisning i Klassisk brevstil, gratis PDF-download - ingen tilmelding, intet vandmærke, data forlader aldrig din enhed.",
+  "id": "/loona-resume-builder/da/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
