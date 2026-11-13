@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jinsi ya Kuandika Wasifu wa Kazi Unaopata Usaili",
+  "short_name": "Jinsi ya Kuandika Wasifu wa Kazi Unaopata Usaili",
+  "description": "Mwongozo wa vitendo na wa bure wa kuandika wasifu wa kazi unaosomeka: muundo, fomula ya muhtasari, pointi za mafanikio zenye namba, ujuzi, makosa ya kawaida na vidokezo vya ATS. Kisha jenga wako bure.",
+  "id": "/loona-resume-builder/sw/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

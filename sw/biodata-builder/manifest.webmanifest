@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kijenga Biodata ya Ndoa Bure",
+  "short_name": "Kijenga Biodata ya Ndoa Bure",
+  "description": "Jenga biodata ya ndoa bure kabisa: sehemu za kibinafsi, familia, elimu na unajimu wa hiari, mitindo Rahisi na ya Mapambo, hakiki ya moja kwa moja ya A4 na upakuaji wa PDF bure - bila kujisajili, bila alama ya maji, data haitoki kamwe kwenye kifaa chako.",
+  "id": "/loona-resume-builder/sw/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

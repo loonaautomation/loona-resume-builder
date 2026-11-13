@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kijenga Wasifu wa Kazi Bure",
+  "short_name": "Kijenga Wasifu wa Kazi Bure",
+  "description": "Jenga wasifu wako wa kazi bure mtandaoni: hakiki ya moja kwa moja ya A4, violezo 8 (Klasiki, Kisasa, Rahisi, ATS, Ubunifu, Kitaalamu, Mtendaji, Fupi), maingizo ya uzoefu na elimu yasiyo na kikomo, upakuaji wa PDF bure. Bila kujisajili, bila alama ya maji - data yako haitoki kamwe kwenye kifaa chako.",
+  "id": "/loona-resume-builder/sw/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

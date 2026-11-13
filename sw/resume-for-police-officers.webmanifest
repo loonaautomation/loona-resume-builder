@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mfano wa Wasifu wa Kazi wa Maafisa wa Polisi",
+  "short_name": "Mfano wa Wasifu wa Kazi wa Maafisa wa Polisi",
+  "description": "Mfano wa wasifu wa kazi wa afisa wa polisi bure: mfano kamili wa kubuni katika kiolezo cha ATS, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
+  "id": "/loona-resume-builder/sw/resume-for-police-officers.html",
+  "start_url": "./resume-for-police-officers.html",
+  "scope": "./resume-for-police-officers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
