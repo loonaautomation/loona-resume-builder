@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ako napísať životopis, ktorý vám zabezpečí pohovory",
+  "short_name": "Ako napísať životopis, ktorý",
+  "description": "Praktický bezplatný návod, ako napísať životopis, ktorý si prečítajú: štruktúra, vzorec zhrnutia, odrážky úspechov s číslami, zručnosti, časté chyby a tipy pre ATS. Potom si vytvorte vlastný zadarmo.",
+  "id": "/loona-resume-builder/sk/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

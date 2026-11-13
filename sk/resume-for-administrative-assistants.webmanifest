@@ -1,0 +1,29 @@
+{
+  "name": "Loona Príklad životopisu pre administratívnych asistentov",
+  "short_name": "Administratívni asistenti",
+  "description": "Bezplatný príklad životopisu pre administratívneho asistenta: kompletný fiktívny vzor v minimalistickej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
+  "id": "/loona-resume-builder/sk/resume-for-administrative-assistants.html",
+  "start_url": "./resume-for-administrative-assistants.html",
+  "scope": "./resume-for-administrative-assistants.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

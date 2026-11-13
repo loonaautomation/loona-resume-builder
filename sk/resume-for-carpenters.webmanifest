@@ -1,0 +1,29 @@
+{
+  "name": "Loona Príklad životopisu pre tesárov",
+  "short_name": "Príklad životopisu pre tesárov",
+  "description": "Bezplatný príklad životopisu pre tesára: kompletný fiktívny vzor v šablóne ATS, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
+  "id": "/loona-resume-builder/sk/resume-for-carpenters.html",
+  "start_url": "./resume-for-carpenters.html",
+  "scope": "./resume-for-carpenters.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

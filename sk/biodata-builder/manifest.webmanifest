@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bezplatný nástroj na tvorbu manželských biodát",
+  "short_name": "Bezplatný nástroj na tvorbu manželských biodát",
+  "description": "Vytvorte si manželské biodáta úplne zadarmo: osobné, rodinné, vzdelávacie a nepovinné horoskopové časti, jednoduchý a dekoratívny štýl, živý náhľad A4 a bezplatné stiahnutie PDF - bez registrácie, bez vodoznaku, údaje nikdy neopustia vaše zariadenie.",
+  "id": "/loona-resume-builder/sk/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
