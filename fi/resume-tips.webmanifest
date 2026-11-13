@@ -1,0 +1,29 @@
+{
+  "name": "Loona Miten kirjoittaa ansioluettelo, joka saa haastatteluja",
+  "short_name": "Miten kirjoittaa ansioluettelo, joka saa haastatteluja",
+  "description": "Käytännönläheinen, ilmainen opas ansioluettelon kirjoittamiseen niin, että se luetaan: rakenne, yhteenvedon kaava, numeroidut saavutuskohdat, taidot, yleiset virheet ja ATS-vinkit. Rakenna sitten omasi ilmaiseksi.",
+  "id": "/loona-resume-builder/fi/resume-tips.html",
+  "start_url": "./resume-tips.html",
+  "scope": "./resume-tips.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

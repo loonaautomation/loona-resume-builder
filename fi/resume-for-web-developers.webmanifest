@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verkkokehittäjien ansioluetteloesimerkki",
+  "short_name": "Verkkokehittäjien ansioluetteloesimerkki",
+  "description": "Ilmainen verkkokehittäjän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Luovan mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
+  "id": "/loona-resume-builder/fi/resume-for-web-developers.html",
+  "start_url": "./resume-for-web-developers.html",
+  "scope": "./resume-for-web-developers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

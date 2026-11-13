@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kokeneen ammattilaisen ansioluetteloesimerkki",
+  "short_name": "Kokeneen ammattilaisen ansioluetteloesimerkki",
+  "description": "Ilmainen kokeneen ammattilaisen ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
+  "id": "/loona-resume-builder/fi/senior-resume.html",
+  "start_url": "./senior-resume.html",
+  "scope": "./senior-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
