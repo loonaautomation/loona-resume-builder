@@ -1,0 +1,29 @@
+{
+  "name": "Loona Безплатен конструктор на брачни биографични данни",
+  "short_name": "Безплатен конструктор на брачни биографични данни",
+  "description": "Създайте брачни биографични данни напълно безплатно: секции за лични данни, семейство, образование и по избор хороскоп, стилове „Обикновен“ и „Декоративен“, визуализация на живо във формат A4 и безплатно изтегляне на PDF - без регистрация, без воден знак, данните никога не напускат устройството ви.",
+  "id": "/loona-resume-builder/bg/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

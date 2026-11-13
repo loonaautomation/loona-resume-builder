@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример за автобиография за специалисти със среден опит",
+  "short_name": "Пример за автобиография за специалисти със среден опит",
+  "description": "Безплатен пример за автобиография на специалист със среден опит: пълен измислен образец, насоки според нивото и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
+  "id": "/loona-resume-builder/bg/mid-career-resume.html",
+  "start_url": "./mid-career-resume.html",
+  "scope": "./mid-career-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

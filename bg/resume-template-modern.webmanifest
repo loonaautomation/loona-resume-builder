@@ -1,0 +1,29 @@
+{
+  "name": "Loona Шаблон за автобиография „Модерен“",
+  "short_name": "Шаблон за автобиография „Модерен“",
+  "description": "Безплатен шаблон за автобиография „Модерен“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
+  "id": "/loona-resume-builder/bg/resume-template-modern.html",
+  "start_url": "./resume-template-modern.html",
+  "scope": "./resume-template-modern.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

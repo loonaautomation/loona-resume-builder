@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример за автобиография на специалисти по данни",
+  "short_name": "Пример за автобиография на специалисти по данни",
+  "description": "Безплатен пример за автобиография на специалист по данни: пълен измислен образец в шаблона „Модерен“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
+  "id": "/loona-resume-builder/bg/resume-for-data-scientists.html",
+  "start_url": "./resume-for-data-scientists.html",
+  "scope": "./resume-for-data-scientists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

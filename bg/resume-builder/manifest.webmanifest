@@ -1,0 +1,29 @@
+{
+  "name": "Loona Безплатен конструктор на автобиографии",
+  "short_name": "Безплатен конструктор на автобиографии",
+  "description": "Създайте автобиографията си безплатно онлайн: визуализация на живо във формат A4, 8 шаблона (Класически, Модерен, Минималистичен, ATS, Креативен, Професионален, Изпълнителен, Компактен), неограничен брой записи за опит и образование, безплатно изтегляне на PDF. Без регистрация, без воден знак - данните ви никога не напускат устройството ви.",
+  "id": "/loona-resume-builder/bg/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пример за автобиография на анализатори на данни",
+  "short_name": "Пример за автобиография на анализатори на данни",
+  "description": "Безплатен пример за автобиография на анализатор на данни: пълен измислен образец в шаблона „Компактен“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
+  "id": "/loona-resume-builder/bg/resume-for-data-analysts.html",
+  "start_url": "./resume-for-data-analysts.html",
+  "scope": "./resume-for-data-analysts.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
