@@ -1,0 +1,29 @@
+{
+  "name": "Loona קורות חיים למהנדסי מכונות",
+  "short_name": "קורות חיים למהנדסי מכונות",
+  "description": "דוגמת קורות חיים חינמית למהנדס מכונות: דוגמה בדיונית מלאה בתבנית הקלאסית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
+  "id": "/loona-resume-builder/he/resume-for-mechanical-engineers.html",
+  "start_url": "./resume-for-mechanical-engineers.html",
+  "scope": "./resume-for-mechanical-engineers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

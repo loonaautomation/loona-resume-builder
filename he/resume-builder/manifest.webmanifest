@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free Resume Builder Online",
+  "short_name": "Free Resume Builder Online",
+  "description": "בנו את קורות החיים שלכם בחינם באופן מקוון: תצוגה מקדימה חיה בגודל A4, 8 תבניות (קלאסית, מודרנית, מינימלית, ATS, יצירתית, מקצועית, בכירים, קומפקטית), רשומות ניסיון והשכלה ללא הגבלה, הורדת PDF בחינם. ללא הרשמה, ללא סימן מים - הנתונים שלכם לעולם אינם עוזבים את המכשיר שלכם.",
+  "id": "/loona-resume-builder/he/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

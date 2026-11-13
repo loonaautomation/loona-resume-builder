@@ -1,0 +1,29 @@
+{
+  "name": "Loona תבנית קורות חיים קומפקטית",
+  "short_name": "תבנית קורות חיים קומפקטית",
+  "description": "תבנית קורות חיים קומפקטית חינמית: למה היא מיועדת, מי צריך להשתמש בה, מתי לא להשתמש בה, ודוגמה חיה. פתחו אותה בבונה והורידו את ה-PDF שלכם — ללא הרשמה.",
+  "id": "/loona-resume-builder/he/resume-template-compact.html",
+  "start_url": "./resume-template-compact.html",
+  "scope": "./resume-template-compact.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

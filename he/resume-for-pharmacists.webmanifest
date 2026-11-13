@@ -1,0 +1,29 @@
+{
+  "name": "Loona דוגמת קורות חיים לרוקחים",
+  "short_name": "דוגמת קורות חיים לרוקחים",
+  "description": "דוגמת קורות חיים חינמית לרוקח: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
+  "id": "/loona-resume-builder/he/resume-for-pharmacists.html",
+  "start_url": "./resume-for-pharmacists.html",
+  "scope": "./resume-for-pharmacists.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

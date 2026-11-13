@@ -1,0 +1,29 @@
+{
+  "name": "Loona בונה ביודאטה לנישואין חינמי",
+  "short_name": "בונה ביודאטה לנישואין חינמי",
+  "description": "בנו ביודאטה לנישואין חינם לחלוטין: מקטעים אישיים, משפחה, השכלה והורוסקופ אופציונלי, סגנונות פשוט ומקושט, תצוגה מקדימה חיה בגודל A4 והורדת PDF בחינם - ללא הרשמה, ללא סימן מים, הנתונים לעולם אינם עוזבים את המכשיר שלכם.",
+  "id": "/loona-resume-builder/he/biodata-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
