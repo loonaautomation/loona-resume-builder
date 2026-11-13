@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δωρεάν Δημιουργός Συνοδευτικής Επιστολής",
+  "short_name": "Δωρεάν Δημιουργός Συνοδευτικής Επιστολής",
+  "description": "Φτιάξτε μια επαγγελματική συνοδευτική επιστολή εντελώς δωρεάν: καθοδηγούμενη φόρμα τριών παραγράφων, ζωντανή προεπισκόπηση A4 στο Κλασικό στυλ επιστολής, δωρεάν λήψη PDF - χωρίς εγγραφή, χωρίς υδατογράφημα, τα δεδομένα δεν φεύγουν ποτέ από τη συσκευή σας.",
+  "id": "/loona-resume-builder/el/cover-letter-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

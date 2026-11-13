@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δωρεάν Δημιουργός Βιογραφικού",
+  "short_name": "Δωρεάν Δημιουργός Βιογραφικού",
+  "description": "Φτιάξτε το βιογραφικό σας δωρεάν διαδικτυακά: ζωντανή προεπισκόπηση A4, 8 πρότυπα (Κλασικό, Μοντέρνο, Μινιμαλιστικό, ATS, Δημιουργικό, Επαγγελματικό, Στελέχους, Συμπαγές), απεριόριστες καταχωρίσεις εμπειρίας και εκπαίδευσης, δωρεάν λήψη PDF. Χωρίς εγγραφή, χωρίς υδατογράφημα - τα δεδομένα σας δεν φεύγουν ποτέ από τη συσκευή σας.",
+  "id": "/loona-resume-builder/el/resume-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

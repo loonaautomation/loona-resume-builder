@@ -1,0 +1,29 @@
+{
+  "name": "Loona Παράδειγμα Βιογραφικού Νεοεισερχόμενου",
+  "short_name": "Παράδειγμα Βιογραφικού Νεοεισερχόμενου",
+  "description": "Δωρεάν παράδειγμα βιογραφικού νεοεισερχόμενου: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
+  "id": "/loona-resume-builder/el/fresher-resume.html",
+  "start_url": "./fresher-resume.html",
+  "scope": "./fresher-resume.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

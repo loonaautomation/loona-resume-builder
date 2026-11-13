@@ -1,0 +1,28 @@
+{
+  "name": "Loona Resume Builder",
+  "short_name": "Loona Resume Builder",
+  "description": "Φτιάξτε ένα επαγγελματικό βιογραφικό εντελώς δωρεάν: ζωντανή προεπισκόπηση A4, 8 πρότυπα (Κλασικό, Μοντέρνο, Μινιμαλιστικό, ATS, Δημιουργικό, Επαγγελματικό, Στελέχους, Συμπαγές), δωρεάν λήψη PDF - χωρίς εγγραφή, χωρίς υδατογράφημα, και τα δεδομένα σας δεν φεύγουν ποτέ από τη συσκευή σας.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

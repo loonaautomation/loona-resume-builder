@@ -1,0 +1,29 @@
+{
+  "name": "Loona Παράδειγμα Βιογραφικού Ταμιών Τραπέζης",
+  "short_name": "Παράδειγμα Βιογραφικού Ταμιών Τραπέζης",
+  "description": "Δωρεάν παράδειγμα βιογραφικού ταμία τραπέζης: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
+  "id": "/loona-resume-builder/el/resume-for-bank-tellers.html",
+  "start_url": "./resume-for-bank-tellers.html",
+  "scope": "./resume-for-bank-tellers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

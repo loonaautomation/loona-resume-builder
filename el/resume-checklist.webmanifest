@@ -1,0 +1,29 @@
+{
+  "name": "Loona Λίστα Ελέγχου Βιογραφικού - Έλεγχος ATS & Πληρότητας",
+  "short_name": "Λίστα Ελέγχου Βιογραφικού - Έλεγχος ATS & Πληρότητας",
+  "description": "Μια δωρεάν διαδραστική λίστα ελέγχου βιογραφικού: 20 έλεγχοι ATS και πληρότητας με πρόοδο που αποθηκεύεται στο πρόγραμμα περιήγησής σας. Συνδυάζεται με τον δωρεάν Loona Resume Builder και τον Δημιουργό Συνοδευτικής Επιστολής.",
+  "id": "/loona-resume-builder/el/resume-checklist.html",
+  "start_url": "./resume-checklist.html",
+  "scope": "./resume-checklist.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
