@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kostenloser ATS-Lebenslauf-Check",
+  "short_name": "ATS-Lebenslauf-Check",
+  "description": "Prüfen Sie Ihren Lebenslauf kostenlos: Fügen Sie Ihren Lebenslauf ein, um Punkte für Vollständigkeit, Abschnitte, Aktionsverben und Zahlen zu erhalten, und fügen Sie eine Stellenbeschreibung ein, um Ihren Treffer-Score für Schlüsselwörter zu sehen. Keine Anmeldung - alles läuft in Ihrem Browser, nichts wird hochgeladen.",
+  "id": "/loona-resume-builder/de/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
