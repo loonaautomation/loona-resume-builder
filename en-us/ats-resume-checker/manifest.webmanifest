@@ -1,0 +1,29 @@
+{
+  "name": "Loona Free ATS Resume Checker",
+  "short_name": "ATS Resume Checker",
+  "description": "Check your resume free: paste your resume to score its completeness, sections, action verbs and numbers, and paste a job description to see your keyword match score. No sign-up - everything runs in your browser, nothing is uploaded.",
+  "id": "/loona-resume-builder/en-us/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
