@@ -1,0 +1,29 @@
+{
+  "name": "Loona 無料ATS履歴書チェッカー",
+  "short_name": "ATS履歴書チェッカー",
+  "description": "履歴書を無料でチェック：履歴書を貼り付けて完全性、セクション、アクション動詞、数字をスコア化し、求人票を貼り付けてキーワードのマッチスコアを確認できます。登録不要 ― すべてブラウザ内で動作し、何もアップロードされません。",
+  "id": "/loona-resume-builder/ja/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
