@@ -1,0 +1,29 @@
+{
+  "name": "Loona Безплатна проверка на автобиография за ATS",
+  "short_name": "Проверка на автобиография за ATS",
+  "description": "Проверете автобиографията си безплатно: поставете автобиографията си, за да оцените нейната пълнота, раздели, глаголи за действие и числа, и поставете описание на длъжността, за да видите оценката си за съответствие по ключови думи. Без регистрация — всичко работи във вашия браузър, нищо не се качва.",
+  "id": "/loona-resume-builder/bg/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
