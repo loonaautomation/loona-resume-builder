@@ -1,0 +1,29 @@
+{
+  "name": "Loona मुफ़्त ATS रिज़्यूमे चेकर",
+  "short_name": "ATS रिज़्यूमे चेकर",
+  "description": "अपना रिज़्यूमे मुफ़्त जाँचें: इसकी पूर्णता, सेक्शन, एक्शन वर्ब और संख्याओं का स्कोर पाने के लिए अपना रिज़्यूमे चिपकाएँ, और अपना कीवर्ड मिलान स्कोर देखने के लिए नौकरी का विवरण चिपकाएँ। कोई साइन-अप नहीं - सब कुछ आपके ब्राउज़र में चलता है, कुछ भी अपलोड नहीं होता।",
+  "id": "/loona-resume-builder/hi/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
