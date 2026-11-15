@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikaguzi cha ATS cha Wasifu wa Kazi Bure",
+  "short_name": "Kikaguzi cha ATS cha Wasifu wa Kazi",
+  "description": "Kagua wasifu wako wa kazi bure: bandika wasifu wako wa kazi ili kupata alama ya ukamilifu wake, sehemu, vitenzi vya vitendo na nambari, na ubandike maelezo ya kazi ili kuona alama yako ya ulinganifu wa maneno muhimu. Bila kujisajili - kila kitu kinaendeshwa kwenye kivinjari chako, hakuna kinachopakiwa.",
+  "id": "/loona-resume-builder/sw/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
