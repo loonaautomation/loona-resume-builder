@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δωρεάν έλεγχος βιογραφικού για ATS",
+  "short_name": "Έλεγχος βιογραφικού για ATS",
+  "description": "Ελέγξτε το βιογραφικό σας δωρεάν: επικολλήστε το βιογραφικό σας για να βαθμολογήσετε την πληρότητά του, τις ενότητες, τα ρήματα δράσης και τους αριθμούς, και επικολλήστε μια περιγραφή θέσης για να δείτε τη βαθμολογία αντιστοιχίας λέξεων-κλειδιών. Χωρίς εγγραφή — όλα εκτελούνται στο πρόγραμμα περιήγησής σας, τίποτα δεν ανεβαίνει.",
+  "id": "/loona-resume-builder/el/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
