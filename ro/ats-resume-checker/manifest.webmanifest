@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificator ATS gratuit pentru CV",
+  "short_name": "Verificator ATS pentru CV",
+  "description": "Verifică-ți CV-ul gratuit: lipește CV-ul ca să-i afli scorul de completitudine, secțiuni, verbe de acțiune și cifre, și lipește o descriere a postului ca să vezi scorul de potrivire a cuvintelor-cheie. Fără înregistrare - totul rulează în browserul tău, nimic nu este încărcat.",
+  "id": "/loona-resume-builder/ro/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
