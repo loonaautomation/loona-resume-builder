@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penyemak Resume ATS Percuma",
+  "short_name": "Penyemak Resume ATS",
+  "description": "Semak resume anda secara percuma: tampal resume anda untuk menilai kelengkapan, bahagian, kata kerja tindakan dan nombornya, dan tampal penerangan kerja untuk melihat skor padanan kata kunci anda. Tiada pendaftaran - semuanya berjalan dalam pelayar anda, tiada apa yang dimuat naik.",
+  "id": "/loona-resume-builder/ms/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
