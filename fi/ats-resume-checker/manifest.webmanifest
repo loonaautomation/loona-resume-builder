@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ilmainen ansioluettelon ATS-tarkistin",
+  "short_name": "Ansioluettelon ATS-tarkistin",
+  "description": "Tarkista ansioluettelosi ilmaiseksi: liitä ansioluettelosi saadaksesi pisteet sen täydellisyydestä, osioista, toimintaverbeistä ja luvuista, ja liitä työnkuvaus nähdäksesi avainsanaosuvuutesi pisteet. Ei rekisteröitymistä - kaikki toimii selaimessasi, mitään ei ladata.",
+  "id": "/loona-resume-builder/fi/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
