@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bezplatná kontrola životopisu pre ATS",
+  "short_name": "Kontrola životopisu pre ATS",
+  "description": "Skontrolujte svoj životopis zadarmo: vložte svoj životopis a získajte skóre jeho úplnosti, oddielov, akčných slovies a čísel, a vložte popis pracovnej pozície, aby ste videli svoje skóre zhody kľúčových slov. Bez registrácie – všetko beží vo vašom prehliadači, nič sa nenahráva.",
+  "id": "/loona-resume-builder/sk/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
