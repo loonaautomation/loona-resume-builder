@@ -1,0 +1,29 @@
+{
+  "name": "Loona בודק קורות חיים ATS בחינם",
+  "short_name": "בודק קורות חיים ATS",
+  "description": "בדוק את קורות החיים שלך בחינם: הדבק את קורות החיים שלך כדי לקבל ציון על השלמות, החלקים, פועלי הפעולה והמספרים שלהם, והדבק תיאור משרה כדי לראות את ציון התאמת מילות המפתח שלך. ללא הרשמה — הכל רץ בדפדפן שלך, שום דבר לא מועלה.",
+  "id": "/loona-resume-builder/he/ats-resume-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
