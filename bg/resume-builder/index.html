@@ -349,7 +349,7 @@ function expBlock(e, i){
   h += '<div class="entry-head"><strong>Работа '+(i+1)+'</strong><button type="button" class="btn ghost small" data-remove="experience" data-index="'+i+'">Премахни</button></div>';
   h += '<div class="row">' + fieldHtml('experience','role','Длъжност',e.role,'напр. Продавач-сътрудник') + fieldHtml('experience','company','Компания',e.company,'напр. Bright Retail Group') + '</div>';
   h += '<div class="row">' + fieldHtml('experience','location','Местоположение',e.location,'напр. Lahore') + fieldHtml('experience','start','Начало',e.start,'напр. март 2022') + fieldHtml('experience','end','Край',e.end,'напр. февр. 2024') + '</div>';
-  h += '<label class="check"><input type="checkbox" data-field="current"'+(e.current?' проверено':'')+'> В момента работя тук</label>';
+  h += '<label class="check"><input type="checkbox" data-field="current"'+(e.current?' checked':'')+'> В момента работя тук</label>';
   h += '<div class="row">' + areaHtml('points','Какво сте направили - по едно постижение на ред',e.points,'Увеличаване на продажбите с 20% за една година\nОбучение на 3 нови членове на екипа') + '</div>';
   return h + '</div>';
 }

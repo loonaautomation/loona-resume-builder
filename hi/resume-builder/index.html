@@ -349,7 +349,7 @@ function expBlock(e, i){
   h += '<div class="entry-head"><strong>नौकरी '+(i+1)+'</strong><button type="button" class="btn ghost small" data-remove="experience" data-index="'+i+'">हटाएँ</button></div>';
   h += '<div class="row">' + fieldHtml('experience','role','नौकरी का पद',e.role,'उदा. Sales Assistant') + fieldHtml('experience','company','कंपनी',e.company,'उदा. Bright Retail Group') + '</div>';
   h += '<div class="row">' + fieldHtml('experience','location','स्थान',e.location,'उदा. Lahore') + fieldHtml('experience','start','शुरुआत',e.start,'उदा. मार्च 2022') + fieldHtml('experience','end','अंत',e.end,'उदा. फ़रवरी 2024') + '</div>';
-  h += '<label class="check"><input type="checkbox" data-field="current"'+(e.current?' जाँचे गए':'')+'> मैं वर्तमान में यहाँ काम करता हूँ</label>';
+  h += '<label class="check"><input type="checkbox" data-field="current"'+(e.current?' checked':'')+'> मैं वर्तमान में यहाँ काम करता हूँ</label>';
   h += '<div class="row">' + areaHtml('points','आपने क्या किया — प्रति पंक्ति एक उपलब्धि',e.points,'एक वर्ष में बिक्री 20% बढ़ाई\n3 नए टीम सदस्यों को प्रशिक्षित किया') + '</div>';
   return h + '</div>';
 }

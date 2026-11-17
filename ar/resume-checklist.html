@@ -316,7 +316,7 @@ var ChecklistCore = (function () {
       out += '<div class="check-group panel noprint"><h3>' + esc(g) + '</h3>';
       Core.ITEMS.filter(function (i) { return i.group === g; }).forEach(function (it) {
         var done = !!state[it.id];
-        out += '<label class="check-item' + (done ? ' تم' : '') + '"><input type="checkbox" data-id="' + it.id + '"' + (done ? ' checked' : '') + '><span>' + esc(it.text) + '</span></label>';
+        out += '<label class="check-item' + (done ? ' done' : '') + '"><input type="checkbox" data-id="' + it.id + '"' + (done ? ' checked' : '') + '><span>' + esc(it.text) + '</span></label>';
       });
       out += '</div>';
     });
