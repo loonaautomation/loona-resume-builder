@@ -1,0 +1,29 @@
+{
+  "name": "Loona 免費求職申請追蹤器",
+  "short_name": "求職申請追蹤器",
+  "description": "免費追蹤每一個求職申請：一塊簡單的看板（已保存、已申請、面試、錄用），帶有截止日期、跟進提醒和 CSV/JSON 匯出。付費追蹤工具每月收費 $29-$40——這個完全免費，無需註冊，您的資料永遠不會離開您的裝置。",
+  "id": "/loona-resume-builder/zh-hant/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

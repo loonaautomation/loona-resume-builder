@@ -1,0 +1,29 @@
+{
+  "name": "Loona — безкоштовний трекер заявок на вакансії",
+  "short_name": "Трекер заявок на вакансії",
+  "description": "Відстежуйте кожну заявку на вакансію безкоштовно: проста канбан-дошка (Збережено, Надіслано, Співбесіда, Пропозиція) з дедлайнами, нагадуваннями про повторний контакт та експортом CSV/JSON. Платні трекери беруть $29–$40 на місяць — цей повністю безкоштовний, без реєстрації, і ваші дані ніколи не залишають ваш пристрій.",
+  "id": "/loona-resume-builder/uk/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Urmărirea Aplicațiilor Gratuită",
+  "short_name": "Urmărirea aplicațiilor",
+  "description": "Urmărește fiecare aplicație gratuit: un panou Kanban simplu (Salvate, Aplicate, Interviu, Ofertă) cu termene limită, memento-uri de follow-up și export CSV/JSON. Instrumentele plătite costă 29-40 $ pe lună - acesta este gratuit, nu necesită înregistrare, iar datele tale nu părăsesc niciodată dispozitivul tău.",
+  "id": "/loona-resume-builder/ro/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

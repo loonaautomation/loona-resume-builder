@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình theo dõi Đơn ứng tuyển Miễn phí",
+  "short_name": "Trình theo dõi Đơn ứng tuyển",
+  "description": "Theo dõi mọi đơn ứng tuyển miễn phí: một bảng Kanban đơn giản (Đã lưu, Đã ứng tuyển, Phỏng vấn, Nhận việc) với hạn chót, lời nhắc theo dõi và xuất CSV/JSON. Các công cụ theo dõi trả phí thu $29-$40 mỗi tháng - công cụ này miễn phí, không cần đăng ký, và dữ liệu của bạn không bao giờ rời khỏi thiết bị của bạn.",
+  "id": "/loona-resume-builder/vi/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Monitoraggio delle Candidature Gratuito",
+  "short_name": "Monitoraggio delle candidature",
+  "description": "Tieni traccia di ogni candidatura gratis: una semplice bacheca Kanban (Salvate, Inviate, Colloquio, Offerta) con scadenze, promemoria di follow-up ed esportazione CSV/JSON. Gli strumenti a pagamento costano 29-40 $ al mese - questo è gratis, non richiede registrazione e i tuoi dati non lasciano mai il tuo dispositivo.",
+  "id": "/loona-resume-builder/it/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

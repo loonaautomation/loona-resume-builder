@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pelacak Lamaran Kerja Gratis",
+  "short_name": "Pelacak Lamaran Kerja",
+  "description": "Lacak setiap lamaran kerja secara gratis: papan Kanban sederhana (Tersimpan, Dilamar, Wawancara, Tawaran) dengan tenggat, pengingat tindak lanjut, dan ekspor CSV/JSON. Pelacak berbayar mengenakan biaya $29–$40 per bulan — yang ini gratis, tanpa pendaftaran, dan data Anda tidak pernah meninggalkan perangkat Anda.",
+  "id": "/loona-resume-builder/id/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

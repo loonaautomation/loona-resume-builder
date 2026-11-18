@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gratis Sollicitatie-tracker",
+  "short_name": "Sollicitatie-tracker",
+  "description": "Volg elke sollicitatie gratis: een eenvoudig Kanbanbord (Opgeslagen, Gesolliciteerd, Gesprek, Aanbod) met deadlines, follow-upherinneringen en CSV/JSON-export. Betaalde trackers kosten $29-$40 per maand - deze is gratis, zonder aanmelding, en je gegevens verlaten nooit je apparaat.",
+  "id": "/loona-resume-builder/nl/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona مفت ملازمت کی درخواستوں کا ٹریکر",
+  "short_name": "ملازمت کی درخواستوں کا ٹریکر",
+  "description": "ہر ملازمت کی درخواست مفت ٹریک کریں: ایک سادہ کانبان بورڈ (محفوظ شدہ، درخواست دے دی، انٹرویو، پیشکش) آخری تاریخوں، فالو اپ یاد دہانیوں اور CSV/JSON برآمد کے ساتھ۔ ادائیگی والے ٹریکر ماہانہ $29-$40 لیتے ہیں — یہ مفت ہے، اسے کسی سائن اپ کی ضرورت نہیں، اور آپ کا ڈیٹا کبھی آپ کے آلے سے باہر نہیں جاتا۔",
+  "id": "/loona-resume-builder/ur/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

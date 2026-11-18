@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bezplatné sledovanie žiadostí o prácu",
+  "short_name": "Sledovanie žiadostí o prácu",
+  "description": "Sledujte každú žiadosť o prácu zadarmo: jednoduchá Kanban nástenka (Uložené, Podané, Pohovor, Ponuka) s termínmi, pripomenutiami následného kontaktu a exportom CSV/JSON. Platené nástroje si účtujú $29-$40 mesačne – tento je zadarmo, nevyžaduje registráciu a vaše údaje nikdy neopustia vaše zariadenie.",
+  "id": "/loona-resume-builder/sk/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

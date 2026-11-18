@@ -1,0 +1,29 @@
+{
+  "name": "Loona 무료 구직 지원 트래커",
+  "short_name": "구직 지원 트래커",
+  "description": "모든 구직 지원을 무료로 추적하세요: 마감일, 후속 조치 알림, CSV/JSON 내보내기를 갖춘 간단한 칸반 보드(저장됨, 지원 완료, 면접, 합격 제안). 유료 트래커는 월 $29-$40를 청구하지만, 이 트래커는 무료이고 회원가입이 없으며 데이터가 기기를 떠나지 않아요.",
+  "id": "/loona-resume-builder/ko/job-application-tracker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-resume-builder/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-resume-builder/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
