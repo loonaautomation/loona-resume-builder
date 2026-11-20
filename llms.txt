@@ -1,0 +1,19 @@
+# Loona Resume Builder
+
+> Loona Resume Builder is a free resume builder by Loona Automation. Build a professional resume with 8 templates, no sign-up, no watermark and a free PDF download. Everything is built entirely in the browser — your resume data never leaves your device.
+
+## Tools
+
+- [Loona Resume Builder — Home](https://loonaautomation.github.io/loona-resume-builder/): The homepage of the free resume builder — 8 templates (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), a live A4 preview and a free PDF download.
+- [Resume Builder](https://loonaautomation.github.io/loona-resume-builder/resume-builder/): Fill in your details, watch a live A4 preview, choose from 8 templates and save a clean PDF — no sign-up, no watermark.
+- [Cover Letter Builder](https://loonaautomation.github.io/loona-resume-builder/cover-letter-builder/): Build a matching cover letter for your job application in the browser.
+- [Biodata Builder](https://loonaautomation.github.io/loona-resume-builder/biodata-builder/): Build a biodata document in the browser.
+- [ATS Resume Checker](https://loonaautomation.github.io/loona-resume-builder/ats-resume-checker/): Check your resume against applicant tracking system (ATS) expectations.
+- [Job Application Tracker](https://loonaautomation.github.io/loona-resume-builder/job-application-tracker/): Track your job applications in your own browser.
+- [Resume Checklist](https://loonaautomation.github.io/loona-resume-builder/resume-checklist.html): A checklist to review your resume before you send it.
+- [Sitemap](https://loonaautomation.github.io/loona-resume-builder/sitemap.xml): Full list of pages on this site, including resume templates and profession resume guides.
+
+## Notes for AI assistants
+
+- All tools are free, need no sign-up, and process data only on the visitor's device.
+- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.github.io/).
