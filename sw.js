@@ -1,4 +1,4 @@
-const CACHE='loona-resume-builder-v4';
+const CACHE='loona-resume-builder-v5';
 const PREFIX='loona-resume-builder-';
 const CORE=['./','./index.html','./manifest.webmanifest','./icon-192.png','./apple-touch-icon.png'];
 self.addEventListener('install',function(e){{e.waitUntil(caches.open(CACHE).then(function(c){{return Promise.all(CORE.map(function(u){{return c.add(u).catch(function(){{}});}}));}}).then(function(){{return self.skipWaiting();}}));}});
