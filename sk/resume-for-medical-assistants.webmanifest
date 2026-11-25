@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre zdravotníckych asistentov",
   "short_name": "Životopis pre zdravotníckych asistentov",
   "description": "Bezplatný príklad životopisu pre zdravotníckeho asistenta: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-medical-assistants.html",
+  "id": "/sk/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

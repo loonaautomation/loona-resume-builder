@@ -2,7 +2,7 @@
   "name": "Loona Moderni ansioluettelomalli",
   "short_name": "Moderni ansioluettelomalli",
   "description": "Ilmainen modernin ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-modern.html",
+  "id": "/fi/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

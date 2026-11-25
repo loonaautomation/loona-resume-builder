@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor politieagenten",
   "short_name": "Cv-voorbeeld voor politieagenten",
   "description": "Gratis cv-voorbeeld voor politieagenten: een compleet fictief voorbeeld in het Ats-sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-police-officers.html",
+  "id": "/nl/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

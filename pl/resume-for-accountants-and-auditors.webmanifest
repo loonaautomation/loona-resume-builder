@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla księgowych i audytorów",
   "short_name": "Księgowi i audytorzy",
   "description": "Darmowy przykład CV dla księgowych i audytorów: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-accountants-and-auditors.html",
+  "id": "/pl/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

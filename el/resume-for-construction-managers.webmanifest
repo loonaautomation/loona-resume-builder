@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Διευθυντών Κατασκευαστικών Έργων",
   "short_name": "Παράδειγμα Βιογραφικού Διευθυντών Κατασκευαστικών Έργων",
   "description": "Δωρεάν παράδειγμα βιογραφικού διευθυντή κατασκευών: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-construction-managers.html",
+  "id": "/el/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

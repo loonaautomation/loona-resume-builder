@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية للممرضين المسجلين",
   "short_name": "السيرة الذاتية للممرضين المسجلين",
   "description": "مثال مجاني على السيرة الذاتية لممرض مسجل: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-registered-nurses.html",
+  "id": "/ar/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

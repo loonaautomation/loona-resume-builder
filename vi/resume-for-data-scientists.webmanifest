@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nhà Khoa học Dữ liệu",
   "short_name": "Ví dụ CV Nhà Khoa học Dữ liệu",
   "description": "Ví dụ CV nhà Khoa học Dữ liệu miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Hiện đại, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-data-scientists.html",
+  "id": "/vi/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

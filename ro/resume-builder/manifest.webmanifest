@@ -2,7 +2,7 @@
   "name": "Loona Creator gratuit de CV online",
   "short_name": "Creator gratuit de CV online",
   "description": "Construiește-ți CV-ul gratuit online: previzualizare A4 în timp real, 8 șabloane (Clasic, Modern, Minimalist, ATS, Creativ, Profesional, Executiv, Compact), intrări nelimitate de experiență și educație, descărcare PDF gratuită. Fără înregistrare, fără filigran - datele tale nu părăsesc niciodată dispozitivul tău.",
-  "id": "/loona-resume-builder/ro/resume-builder/",
+  "id": "/ro/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

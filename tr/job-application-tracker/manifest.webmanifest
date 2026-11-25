@@ -2,7 +2,7 @@
   "name": "Loona Ücretsiz İş Başvurusu Takipçisi",
   "short_name": "İş Başvurusu Takipçisi",
   "description": "Her iş başvurusunu ücretsiz takip edin: son tarihler, takip hatırlatmaları ve CSV/JSON dışa aktarma içeren basit bir Kanban panosu (Kaydedildi, Başvuruldu, Mülakat, Teklif). Ücretli araçlar ayda $29–$40 ister — bu ücretsizdir, kayıt gerekmez ve verileriniz cihazınızdan asla ayrılmaz.",
-  "id": "/loona-resume-builder/tr/job-application-tracker/",
+  "id": "/tr/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

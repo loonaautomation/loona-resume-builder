@@ -2,7 +2,7 @@
   "name": "Loona Контрольный список резюме",
   "short_name": "Контрольный список резюме",
   "description": "Бесплатный интерактивный чек-лист резюме: 20 проверок ATS и полноты, прогресс сохраняется в вашем браузере. Отлично дополняет бесплатные Конструктор резюме Loona и Конструктор сопроводительных писем.",
-  "id": "/loona-resume-builder/ru/resume-checklist.html",
+  "id": "/ru/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ingyenes álláspályázat-követő",
   "short_name": "Álláspályázat-követő",
   "description": "Kövesse nyomon minden álláspályázatát ingyen: egy egyszerű Kanban-tábla (Mentve, Elküldve, Interjú, Ajánlat) határidőkkel, utánkövetési emlékeztetőkkel és CSV/JSON-exportálással. A fizetős követők havi $29–$40-t kérnek — ez ingyenes, regisztráció nélkül, és adatai soha nem hagyják el az eszközét.",
-  "id": "/loona-resume-builder/hu/job-application-tracker/",
+  "id": "/hu/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

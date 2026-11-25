@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for regnskapsførere og revisorer",
   "short_name": "CV-eksempel for regnskapsførere og revisorer",
   "description": "Gratis CV-eksempel for regnskapsfører og revisor: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-accountants-and-auditors.html",
+  "id": "/nb/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

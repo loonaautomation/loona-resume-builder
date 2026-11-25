@@ -2,7 +2,7 @@
   "name": "Loona Tesisatçılar Özgeçmiş Örneği",
   "short_name": "Tesisatçılar Özgeçmiş Örneği",
   "description": "Ücretsiz tesisatçı özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-plumbers.html",
+  "id": "/tr/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

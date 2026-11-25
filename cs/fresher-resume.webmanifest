@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro absolventy",
   "short_name": "Vzor životopisu pro absolventy",
   "description": "Bezplatný vzor životopisu pro absolventy: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/fresher-resume.html",
+  "id": "/cs/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

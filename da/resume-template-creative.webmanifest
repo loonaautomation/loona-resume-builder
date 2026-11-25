@@ -2,7 +2,7 @@
   "name": "Loona Kreativ CV-skabelon",
   "short_name": "Kreativ CV-skabelon",
   "description": "Gratis Kreativ CV-skabelon: hvad den er til, hvem der bør bruge den, hvornår den ikke skal bruges, og et live eksempel. Åbn den i byggeren og download din PDF — ingen tilmelding.",
-  "id": "/loona-resume-builder/da/resume-template-creative.html",
+  "id": "/da/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

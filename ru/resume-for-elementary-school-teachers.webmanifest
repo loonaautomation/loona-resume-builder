@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме учителей начальной школы",
   "short_name": "Учителя начальной школы",
   "description": "Бесплатный пример резюме учителя начальной школы: полный вымышленный образец в шаблоне Classic, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-elementary-school-teachers.html",
+  "id": "/ru/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Templat & Contoh Resume",
   "short_name": "Templat & Contoh Resume",
   "description": "Templat dan contoh resume gratis: 40 contoh profesi, 8 templat, dan 6 tingkat karier. Buka contoh mana pun di pembuat gratis, jadikan milik Anda, dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-templates.html",
+  "id": "/id/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

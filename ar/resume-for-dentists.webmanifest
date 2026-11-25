@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لأطباء الأسنان",
   "short_name": "مثال على السيرة الذاتية لأطباء الأسنان",
   "description": "مثال مجاني على السيرة الذاتية لطبيب أسنان: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-dentists.html",
+  "id": "/ar/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

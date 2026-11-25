@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre učiteľov základných škôl",
   "short_name": "Učitelia základných škôl",
   "description": "Bezplatný príklad životopisu pre učiteľa základnej školy: kompletný fiktívny vzor v klasickej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-elementary-school-teachers.html",
+  "id": "/sk/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

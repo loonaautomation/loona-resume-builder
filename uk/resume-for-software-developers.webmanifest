@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме розробників програмного забезпечення",
   "short_name": "Приклад резюме розробників програмного забезпечення",
   "description": "Безкоштовний приклад резюме розробника програмного забезпечення: повний вигаданий зразок у шаблоні Сучасний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-software-developers.html",
+  "id": "/uk/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

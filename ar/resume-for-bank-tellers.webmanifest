@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لصرافي البنوك",
   "short_name": "مثال على السيرة الذاتية لصرافي البنوك",
   "description": "مثال مجاني على السيرة الذاتية لصراف بنك: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-bank-tellers.html",
+  "id": "/ar/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

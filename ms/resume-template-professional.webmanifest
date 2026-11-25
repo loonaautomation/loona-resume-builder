@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Profesional",
   "short_name": "Templat Resume Profesional",
   "description": "Templat resume Profesional percuma: untuk apa ia digunakan, siapa yang patut menggunakannya, bila ia tidak patut digunakan, dan contoh langsung. Bukanya dalam pembina dan muat turun PDF anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/ms/resume-template-professional.html",
+  "id": "/ms/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

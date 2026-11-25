@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro registrované zdravotní sestry",
   "short_name": "Životopis pro registrované zdravotní sestry",
   "description": "Bezplatný vzor životopisu pro registrovanou zdravotní sestru: kompletní fiktivní ukázka v šabloně profesionální, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-registered-nurses.html",
+  "id": "/cs/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

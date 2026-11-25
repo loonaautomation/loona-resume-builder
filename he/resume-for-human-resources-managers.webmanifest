@@ -2,7 +2,7 @@
   "name": "Loona מנהלי משאבי אנוש",
   "short_name": "מנהלי משאבי אנוש",
   "description": "דוגמת קורות חיים חינמית למנהל משאבי אנוש: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-human-resources-managers.html",
+  "id": "/he/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

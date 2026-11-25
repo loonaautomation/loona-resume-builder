@@ -2,7 +2,7 @@
   "name": "Loona Friss diplomás önéletrajz mintája",
   "short_name": "Friss diplomás önéletrajz mintája",
   "description": "Ingyenes friss diplomás önéletrajz-minta: teljes, fiktív minta, szintnek megfelelő útmutatás és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/fresher-resume.html",
+  "id": "/hu/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

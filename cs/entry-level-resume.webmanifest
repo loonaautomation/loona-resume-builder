@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro začínající uchazeče",
   "short_name": "Vzor životopisu pro začínající",
   "description": "Bezplatný vzor životopisu pro začínající uchazeče: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/entry-level-resume.html",
+  "id": "/cs/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CV-skabeloner & eksempler",
   "short_name": "CV-skabeloner & eksempler",
   "description": "Gratis CV-skabeloner og eksempler: 40 professionseksempler, 8 skabeloner og 6 karriereniveauer. Åbn et hvilket som helst eksempel i den gratis bygger, gør det til dit eget og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-templates.html",
+  "id": "/da/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

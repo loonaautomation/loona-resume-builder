@@ -2,7 +2,7 @@
   "name": "Loona Putkiasentajien ansioluetteloesimerkki",
   "short_name": "Putkiasentajien ansioluetteloesimerkki",
   "description": "Ilmainen putkiasentajan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-plumbers.html",
+  "id": "/fi/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

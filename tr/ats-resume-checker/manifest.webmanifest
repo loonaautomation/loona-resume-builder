@@ -2,7 +2,7 @@
   "name": "Loona Ücretsiz ATS Özgeçmiş Denetleyicisi",
   "short_name": "ATS Özgeçmiş Denetleyicisi",
   "description": "Özgeçmişinizi ücretsiz kontrol edin: eksiksizlik, bölümler, eylem fiilleri ve sayılar açısından puan almak için özgeçmişinizi yapıştırın ve anahtar kelime eşleşme puanınızı görmek için bir iş tanımı yapıştırın. Kayıt yok - her şey tarayıcınızda çalışır, hiçbir şey yüklenmez.",
-  "id": "/loona-resume-builder/tr/ats-resume-checker/",
+  "id": "/tr/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

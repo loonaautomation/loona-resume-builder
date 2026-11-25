@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pembantu Guaman",
   "short_name": "Contoh Resume Pembantu Guaman",
   "description": "Contoh resume pembantu guaman percuma: contoh rekaan yang lengkap dalam templat Profesional, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-paralegals.html",
+  "id": "/ms/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

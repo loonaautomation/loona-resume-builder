@@ -2,7 +2,7 @@
   "name": "Loona Creative रिज़्यूमे टेम्पलेट",
   "short_name": "Creative रिज़्यूमे टेम्पलेट",
   "description": "मुफ़्त Creative रिज़्यूमे टेम्पलेट: यह किसके लिए है, किसे इसका उपयोग करना चाहिए, कब नहीं करना चाहिए, और एक लाइव नमूना। इसे बिल्डर में खोलें और अपनी PDF डाउनलोड करें — कोई साइन-अप नहीं।",
-  "id": "/loona-resume-builder/hi/resume-template-creative.html",
+  "id": "/hi/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för dataanalytiker",
   "short_name": "Exempel på CV för dataanalytiker",
   "description": "Gratis exempel på CV för dataanalytiker: ett komplett fiktivt exempel i den Kompakta mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-data-analysts.html",
+  "id": "/sv/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

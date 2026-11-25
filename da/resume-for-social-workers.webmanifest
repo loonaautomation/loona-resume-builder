@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til socialrådgivere",
   "short_name": "Eksempel på CV til socialrådgivere",
   "description": "Gratis eksempel på CV til socialrådgivere: et komplet fiktivt eksempel i Klassisk-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-social-workers.html",
+  "id": "/da/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

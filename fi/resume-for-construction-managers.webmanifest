@@ -2,7 +2,7 @@
   "name": "Loona Rakennuspäälliköiden ansioluetteloesimerkki",
   "short_name": "Rakennuspäälliköiden ansioluetteloesimerkki",
   "description": "Ilmainen rakennuspäällikön ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Ammattimaisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-construction-managers.html",
+  "id": "/fi/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

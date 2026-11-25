@@ -2,7 +2,7 @@
   "name": "Loona Gyógytornászok önéletrajz-mintája",
   "short_name": "Gyógytornászok önéletrajz-mintája",
   "description": "Ingyenes gyógytornász önéletrajz-minta: teljes, fiktív minta a Professzionális sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-physical-therapists.html",
+  "id": "/hu/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

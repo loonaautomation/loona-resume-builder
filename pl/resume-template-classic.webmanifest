@@ -2,7 +2,7 @@
   "name": "Loona Klasyczny szablon CV",
   "short_name": "Klasyczny szablon CV",
   "description": "Darmowy klasyczny szablon CV: do czego służy, kto powinien go używać, kiedy go nie używać oraz przykład na żywo. Otwórz go w kreatorze i pobierz swój PDF — bez rejestracji.",
-  "id": "/loona-resume-builder/pl/resume-template-classic.html",
+  "id": "/pl/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

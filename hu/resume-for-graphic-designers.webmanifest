@@ -2,7 +2,7 @@
   "name": "Loona Grafikusok önéletrajz-mintája",
   "short_name": "Grafikusok önéletrajz-mintája",
   "description": "Ingyenes grafikus önéletrajz-minta: teljes, fiktív minta a Kreatív sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-graphic-designers.html",
+  "id": "/hu/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

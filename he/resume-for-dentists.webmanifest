@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לרופאי שיניים",
   "short_name": "דוגמת קורות חיים לרופאי שיניים",
   "description": "דוגמת קורות חיים חינמית לרופא שיניים: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-dentists.html",
+  "id": "/he/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

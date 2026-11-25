@@ -2,7 +2,7 @@
   "name": "Loona Șablon de CV Executiv",
   "short_name": "Șablon de CV Executiv",
   "description": "Șablon gratuit de CV Executiv: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
-  "id": "/loona-resume-builder/ro/resume-template-executive.html",
+  "id": "/ro/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

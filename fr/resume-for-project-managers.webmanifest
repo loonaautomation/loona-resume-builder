@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Chefs de projet",
   "short_name": "Exemple de CV Chefs de projet",
   "description": "Exemple de CV gratuit de chef de projet : un exemple fictif complet dans le modèle Professional, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-project-managers.html",
+  "id": "/fr/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

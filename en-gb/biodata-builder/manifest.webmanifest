@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-resume-builder/en-gb/biodata-builder/",
+  "id": "/en-gb/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

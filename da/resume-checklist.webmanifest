@@ -2,7 +2,7 @@
   "name": "Loona CV-tjekliste - ATS- & fuldstændighedstjek",
   "short_name": "CV-tjekliste - ATS- & fuldstændighedstjek",
   "description": "En gratis interaktiv CV-tjekliste: 20 ATS- og fuldstændighedstjek med fremskridt, der gemmes i din browser. Passer sammen med den gratis Loona CV-bygger og Ansøgningsbygger.",
-  "id": "/loona-resume-builder/da/resume-checklist.html",
+  "id": "/da/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

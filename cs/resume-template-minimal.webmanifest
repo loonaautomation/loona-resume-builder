@@ -2,7 +2,7 @@
   "name": "Loona Šablona životopisu Minimal",
   "short_name": "Šablona životopisu Minimal",
   "description": "Bezplatná šablona životopisu Minimal: k čemu slouží, kdo by ji měl používat, kdy ji nepoužívat, a živý vzor. Otevřete ji v nástroji a stáhněte si své PDF — bez registrace.",
-  "id": "/loona-resume-builder/cs/resume-template-minimal.html",
+  "id": "/cs/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

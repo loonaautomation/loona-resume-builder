@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Cadre dirigeant",
   "short_name": "Exemple de CV Cadre dirigeant",
   "description": "Exemple de CV gratuit de cadre dirigeant : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/executive-resume.html",
+  "id": "/fr/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

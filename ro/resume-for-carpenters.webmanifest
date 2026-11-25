@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru dulgheri",
   "short_name": "Exemplu de CV pentru dulgheri",
   "description": "Exemplu gratuit de CV de dulgher: un exemplu fictiv complet în șablonul ATS, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-carpenters.html",
+  "id": "/ro/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

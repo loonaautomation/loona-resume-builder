@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Quản lý Nhân sự",
   "short_name": "Ví dụ CV Quản lý Nhân sự",
   "description": "Ví dụ CV quản lý Nhân sự miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Chuyên nghiệp, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-human-resources-managers.html",
+  "id": "/vi/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לסטודנט",
   "short_name": "דוגמת קורות חיים לסטודנט",
   "description": "דוגמת קורות חיים חינמית לסטודנט: דוגמה בדיונית מלאה, הנחיה לפי רמה ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/student-resume.html",
+  "id": "/he/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

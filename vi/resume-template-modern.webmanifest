@@ -2,7 +2,7 @@
   "name": "Loona Mẫu CV Hiện đại",
   "short_name": "Mẫu CV Hiện đại",
   "description": "Mẫu CV Hiện đại miễn phí: nó dùng để làm gì, ai nên sử dụng, khi nào không nên dùng, và một mẫu trực tiếp. Mở nó trong trình tạo và tải PDF của bạn xuống — không cần đăng ký.",
-  "id": "/loona-resume-builder/vi/resume-template-modern.html",
+  "id": "/vi/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

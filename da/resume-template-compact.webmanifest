@@ -2,7 +2,7 @@
   "name": "Loona Kompakt CV-skabelon",
   "short_name": "Kompakt CV-skabelon",
   "description": "Gratis Kompakt CV-skabelon: hvad den er til, hvem der bør bruge den, hvornår den ikke skal bruges, og et live eksempel. Åbn den i byggeren og download din PDF — ingen tilmelding.",
-  "id": "/loona-resume-builder/da/resume-template-compact.html",
+  "id": "/da/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Σχεδιαστών UX",
   "short_name": "Παράδειγμα Βιογραφικού Σχεδιαστών UX",
   "description": "Δωρεάν παράδειγμα βιογραφικού σχεδιαστή UX: ένα πλήρες φανταστικό δείγμα στο Δημιουργικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-ux-designers.html",
+  "id": "/el/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

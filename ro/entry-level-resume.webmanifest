@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru nivel începător",
   "short_name": "Exemplu de CV pentru nivel",
   "description": "Exemplu gratuit de CV pentru nivel începător: un exemplu fictiv complet, îndrumări specifice nivelului și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/entry-level-resume.html",
+  "id": "/ro/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

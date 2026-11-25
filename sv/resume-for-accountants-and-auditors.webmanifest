@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för redovisningsekonomer och revisorer",
   "short_name": "Redovisningsekonomer och revisorer",
   "description": "Gratis exempel på CV för redovisningsekonomer och revisorer: ett komplett fiktivt exempel i den Professionella mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-accountants-and-auditors.html",
+  "id": "/sv/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

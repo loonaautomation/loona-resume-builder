@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wasimamizi wa Masoko",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wasimamizi wa Masoko",
   "description": "Mfano wa wasifu wa kazi wa msimamizi wa masoko bure: mfano kamili wa kubuni katika kiolezo cha Ubunifu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-marketing-managers.html",
+  "id": "/sw/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

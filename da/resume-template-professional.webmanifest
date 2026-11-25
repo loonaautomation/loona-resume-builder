@@ -2,7 +2,7 @@
   "name": "Loona Professionel CV-skabelon",
   "short_name": "Professionel CV-skabelon",
   "description": "Gratis Professionel CV-skabelon: hvad den er til, hvem der bør bruge den, hvornår den ikke skal bruges, og et live eksempel. Åbn den i byggeren og download din PDF — ingen tilmelding.",
-  "id": "/loona-resume-builder/da/resume-template-professional.html",
+  "id": "/da/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

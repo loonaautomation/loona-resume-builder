@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pembantu Tadbir",
   "short_name": "Contoh Resume Pembantu Tadbir",
   "description": "Contoh resume pembantu tadbir percuma: contoh rekaan yang lengkap dalam templat Minimal, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-administrative-assistants.html",
+  "id": "/ms/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

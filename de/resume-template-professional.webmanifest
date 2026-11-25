@@ -2,7 +2,7 @@
   "name": "Loona Professional-Lebenslaufvorlage",
   "short_name": "Professional-Lebenslaufvorlage",
   "description": "Kostenlose professionelle Lebenslaufvorlage: wofür sie ist, wer sie verwenden sollte, wann sie nicht verwendet werden sollte und ein Live-Sample. Öffnen Sie es im Builder und laden Sie Ihre PDF-Datei herunter — keine Anmeldung.",
-  "id": "/loona-resume-builder/de/resume-template-professional.html",
+  "id": "/de/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

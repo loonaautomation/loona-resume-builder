@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til bogholdere",
   "short_name": "Eksempel på CV til bogholdere",
   "description": "Gratis eksempel på CV til bogholdere: et komplet fiktivt eksempel i ATS-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-bookkeeping-clerks.html",
+  "id": "/da/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

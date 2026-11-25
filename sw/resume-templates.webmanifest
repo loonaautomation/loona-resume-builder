@@ -2,7 +2,7 @@
   "name": "Loona Violezo & Mifano ya Wasifu wa Kazi",
   "short_name": "Violezo & Mifano ya Wasifu wa Kazi",
   "description": "Violezo na mifano ya wasifu wa kazi bure: mifano 40 ya taaluma, violezo 8 na ngazi 6 za kazi. Fungua mfano wowote kwenye kijenga bure, uufanye wako na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-templates.html",
+  "id": "/sw/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Avukatlar Özgeçmiş Örneği",
   "short_name": "Avukatlar Özgeçmiş Örneği",
   "description": "Ücretsiz avukat özgeçmiş örneği: Klasik şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-lawyers.html",
+  "id": "/tr/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gratis ATS CV-tjekker",
   "short_name": "ATS CV-tjekker",
   "description": "Tjek dit CV gratis: indsæt dit CV for at få score for dets fuldstændighed, afsnit, handlingsverber og tal, og indsæt en jobbeskrivelse for at se din score for søgeordsmatch. Ingen tilmelding - alt kører i din browser, intet uploades.",
-  "id": "/loona-resume-builder/da/ats-resume-checker/",
+  "id": "/da/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

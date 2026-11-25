@@ -2,7 +2,7 @@
   "name": "Loona रिज़्यूमे चेकलिस्ट — ATS & पूर्णता जाँच",
   "short_name": "रिज़्यूमे चेकलिस्ट — ATS & पूर्णता जाँच",
   "description": "एक मुफ़्त इंटरैक्टिव रिज़्यूमे चेकलिस्ट: 20 ATS और पूर्णता जाँचें, प्रगति आपके ब्राउज़र में सेव होती है। मुफ़्त Loona Resume Builder और Cover Letter Builder के साथ बढ़िया जोड़ी।",
-  "id": "/loona-resume-builder/hi/resume-checklist.html",
+  "id": "/hi/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

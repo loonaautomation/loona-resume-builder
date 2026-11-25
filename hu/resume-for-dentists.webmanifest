@@ -2,7 +2,7 @@
   "name": "Loona Fogorvosok önéletrajz-mintája",
   "short_name": "Fogorvosok önéletrajz-mintája",
   "description": "Ingyenes fogorvos önéletrajz-minta: teljes, fiktív minta a Professzionális sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-dentists.html",
+  "id": "/hu/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

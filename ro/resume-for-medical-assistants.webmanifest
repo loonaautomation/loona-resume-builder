@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru asistenți medicali",
   "short_name": "CV pentru asistenți medicali",
   "description": "Exemplu gratuit de CV de asistent medical: un exemplu fictiv complet în șablonul Profesional, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-medical-assistants.html",
+  "id": "/ro/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lebenslauf-Checkliste",
   "short_name": "Lebenslauf-Checkliste",
   "description": "Eine kostenlose interaktive Lebenslauf-Checkliste: 20 ATS und Vollständigkeitsprüfungen mit Fortschritt, der in Ihrem Browser gespeichert wird. Kombiniert mit dem kostenlosen Loona Resume Builder und Cover Letter Builder.",
-  "id": "/loona-resume-builder/de/resume-checklist.html",
+  "id": "/de/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

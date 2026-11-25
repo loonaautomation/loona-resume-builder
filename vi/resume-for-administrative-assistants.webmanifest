@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Trợ lý Hành chính",
   "short_name": "Ví dụ CV Trợ lý Hành chính",
   "description": "Ví dụ CV trợ lý Hành chính miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Tối giản, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-administrative-assistants.html",
+  "id": "/vi/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Mi-parcours",
   "short_name": "Exemple de CV Mi-parcours",
   "description": "Exemple de CV gratuit de mi-parcours : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/mid-career-resume.html",
+  "id": "/fr/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

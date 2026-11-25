@@ -2,7 +2,7 @@
   "name": "Loona モダン履歴書テンプレート",
   "short_name": "モダン履歴書テンプレート",
   "description": "無料のモダン履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-modern.html",
+  "id": "/ja/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

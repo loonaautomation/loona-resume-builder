@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til børnehavepædagoger",
   "short_name": "Eksempel på CV til børnehavepædagoger",
   "description": "Gratis eksempel på CV til børnehavepædagoger: et komplet fiktivt eksempel i Klassisk-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-preschool-teachers.html",
+  "id": "/da/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

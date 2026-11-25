@@ -2,7 +2,7 @@
   "name": "Loona ATS履歴書テンプレート",
   "short_name": "ATS履歴書テンプレート",
   "description": "無料のATS履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-ats.html",
+  "id": "/ja/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

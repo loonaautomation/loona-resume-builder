@@ -2,7 +2,7 @@
   "name": "Loona İlkokul Öğretmenleri Özgeçmiş Örneği",
   "short_name": "İlkokul Öğretmenleri Özgeçmiş Örneği",
   "description": "Ücretsiz ilkokul öğretmeni özgeçmiş örneği: Klasik şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-elementary-school-teachers.html",
+  "id": "/tr/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

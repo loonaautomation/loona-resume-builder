@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме продавців роздрібної торгівлі",
   "short_name": "Приклад резюме продавців роздрібної торгівлі",
   "description": "Безкоштовний приклад резюме продавця роздрібної торгівлі: повний вигаданий зразок у шаблоні Сучасний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-retail-salespersons.html",
+  "id": "/uk/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

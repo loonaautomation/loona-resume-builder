@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме помічників юриста",
   "short_name": "Приклад резюме помічників юриста",
   "description": "Безкоштовний приклад резюме помічника юриста: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-paralegals.html",
+  "id": "/uk/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

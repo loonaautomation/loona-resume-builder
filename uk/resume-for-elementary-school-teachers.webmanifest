@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме вчителів початкової школи",
   "short_name": "Приклад резюме вчителів початкової школи",
   "description": "Безкоштовний приклад резюме вчителя початкової школи: повний вигаданий зразок у шаблоні Класичний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-elementary-school-teachers.html",
+  "id": "/uk/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

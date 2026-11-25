@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro tesaře",
   "short_name": "Vzor životopisu pro tesaře",
   "description": "Bezplatný vzor životopisu pro tesaře: kompletní fiktivní ukázka v šabloně ATS, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-carpenters.html",
+  "id": "/cs/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

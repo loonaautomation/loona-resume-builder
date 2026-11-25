@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla asystentów medycznych",
   "short_name": "CV dla asystentów medycznych",
   "description": "Darmowy przykład CV dla asystentów medycznych: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-medical-assistants.html",
+  "id": "/pl/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

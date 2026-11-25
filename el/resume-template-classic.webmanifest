@@ -2,7 +2,7 @@
   "name": "Loona Κλασικό Πρότυπο Βιογραφικού",
   "short_name": "Κλασικό Πρότυπο Βιογραφικού",
   "description": "Δωρεάν Κλασικό πρότυπο βιογραφικού: για ποιο σκοπό είναι, ποιος πρέπει να το χρησιμοποιήσει, πότε να μην το χρησιμοποιήσει, και ένα ζωντανό δείγμα. Ανοίξτε το στον δημιουργό και κατεβάστε το PDF σας — χωρίς εγγραφή.",
-  "id": "/loona-resume-builder/el/resume-template-classic.html",
+  "id": "/el/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

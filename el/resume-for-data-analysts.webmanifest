@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Αναλυτών Δεδομένων",
   "short_name": "Παράδειγμα Βιογραφικού Αναλυτών Δεδομένων",
   "description": "Δωρεάν παράδειγμα βιογραφικού αναλυτή δεδομένων: ένα πλήρες φανταστικό δείγμα στο Συμπαγές πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-data-analysts.html",
+  "id": "/el/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

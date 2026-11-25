@@ -2,7 +2,7 @@
   "name": "Loona UX-suunnittelijoiden ansioluetteloesimerkki",
   "short_name": "UX-suunnittelijoiden ansioluetteloesimerkki",
   "description": "Ilmainen UX-suunnittelijan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Luovan mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-ux-designers.html",
+  "id": "/fi/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona প্রকল্প ব্যবস্থাপকদের রিজিউমের উদাহরণ",
   "short_name": "প্রকল্প ব্যবস্থাপকদের রিজিউমের উদাহরণ",
   "description": "বিনামূল্যের প্রকল্প ব্যবস্থাপকের রিজিউমের উদাহরণ: পেশাদার টেমপ্লেটে একটি সম্পূর্ণ কাল্পনিক নমুনা, নিয়োগকারীর টিপস ও প্রায়শই জিজ্ঞাসিত প্রশ্ন। নমুনাটি বিনামূল্যের বিল্ডারে সম্পাদনা করুন এবং আপনার PDF ডাউনলোড করুন।",
-  "id": "/loona-resume-builder/bn/resume-for-project-managers.html",
+  "id": "/bn/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

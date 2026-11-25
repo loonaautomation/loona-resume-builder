@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru asistenți administrativi",
   "short_name": "Asistenți administrativi",
   "description": "Exemplu gratuit de CV de asistent administrativ: un exemplu fictiv complet în șablonul Minimalist, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-administrative-assistants.html",
+  "id": "/ro/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

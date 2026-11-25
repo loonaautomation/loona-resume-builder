@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu právneho asistenta",
   "short_name": "Príklad životopisu právneho asistenta",
   "description": "Bezplatný príklad životopisu pre právneho asistenta: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-paralegals.html",
+  "id": "/sk/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

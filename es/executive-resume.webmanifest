@@ -2,7 +2,7 @@
   "name": "Loona Currículum ejecutivo",
   "short_name": "Currículum ejecutivo",
   "description": "Ejemplo de currículum de ejecutivo gratuito: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
-  "id": "/loona-resume-builder/es/executive-resume.html",
+  "id": "/es/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

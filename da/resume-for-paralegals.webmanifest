@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til juridiske assistenter",
   "short_name": "Eksempel på CV til juridiske assistenter",
   "description": "Gratis eksempel på CV til juridiske assistenter: et komplet fiktivt eksempel i Professionel-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-paralegals.html",
+  "id": "/da/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

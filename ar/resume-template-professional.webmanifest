@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية الاحترافية",
   "short_name": "قالب السيرة الذاتية الاحترافية",
   "description": "قالب سيرة ذاتية مجاني Professional: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-professional.html",
+  "id": "/ar/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

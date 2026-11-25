@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til medicinske assistenter",
   "short_name": "Eksempel på CV til medicinske assistenter",
   "description": "Gratis eksempel på CV til medicinske assistenter: et komplet fiktivt eksempel i Professionel-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-medical-assistants.html",
+  "id": "/da/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

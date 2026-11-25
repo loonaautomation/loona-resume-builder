@@ -2,7 +2,7 @@
   "name": "Loona Ücretsiz Ön Yazı Oluşturucu - Kayıt Yok, Filigran Yok, Ücretsiz PDF",
   "short_name": "Ücretsiz Ön Yazı",
   "description": "Profesyonel bir ön yazıyı tamamen ücretsiz oluşturun: rehberli üç paragraflık form, Klasik mektup stilinde canlı A4 önizleme, ücretsiz PDF indirme - kayıt gerekmez, filigran yok, veriler asla cihazınızdan çıkmaz.",
-  "id": "/loona-resume-builder/tr/cover-letter-builder/",
+  "id": "/tr/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

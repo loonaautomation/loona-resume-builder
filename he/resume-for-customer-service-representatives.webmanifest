@@ -2,7 +2,7 @@
   "name": "Loona Customer Service Representatives Resume",
   "short_name": "Customer Service",
   "description": "דוגמת קורות חיים חינמית לנציג שירות לקוחות: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-customer-service-representatives.html",
+  "id": "/he/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

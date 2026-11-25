@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för undersköterskor",
   "short_name": "CV för undersköterskor",
   "description": "Gratis exempel på CV för undersköterskor: ett komplett fiktivt exempel i den Professionella mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-medical-assistants.html",
+  "id": "/sv/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

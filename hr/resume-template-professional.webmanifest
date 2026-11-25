@@ -2,7 +2,7 @@
   "name": "Loona Profesionalni predložak životopisa",
   "short_name": "Profesionalni predložak životopisa",
   "description": "Besplatni Profesionalni predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-professional.html",
+  "id": "/hr/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

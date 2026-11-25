@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่คลาสสิก",
   "short_name": "เทมเพลตเรซูเม่คลาสสิก",
   "description": "เทมเพลตเรซูเม่คลาสสิกฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-classic.html",
+  "id": "/th/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

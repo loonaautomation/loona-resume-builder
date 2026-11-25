@@ -2,7 +2,7 @@
   "name": "Loona Πρότυπα & Παραδείγματα Βιογραφικού",
   "short_name": "Πρότυπα & Παραδείγματα Βιογραφικού",
   "description": "Δωρεάν πρότυπα και παραδείγματα βιογραφικών: 40 δείγματα επαγγελμάτων, 8 πρότυπα και 6 επίπεδα καριέρας. Ανοίξτε οποιοδήποτε δείγμα στον δωρεάν δημιουργό, κάντε το δικό σας και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-templates.html",
+  "id": "/el/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

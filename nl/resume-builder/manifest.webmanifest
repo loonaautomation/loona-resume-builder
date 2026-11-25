@@ -2,7 +2,7 @@
   "name": "Loona Gratis cv-bouwer",
   "short_name": "Gratis cv-bouwer",
   "description": "Bouw je cv gratis online: live A4-voorbeeld, 8 sjablonen (Klassiek, Modern, Minimalistisch, ATS, Creatief, Professioneel, Zakelijk, Compact), onbeperkt ervaring- en opleidingitems, gratis pdf-download. Geen aanmelding, geen watermerk - je gegevens verlaten nooit je apparaat.",
-  "id": "/loona-resume-builder/nl/resume-builder/",
+  "id": "/nl/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

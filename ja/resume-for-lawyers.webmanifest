@@ -2,7 +2,7 @@
   "name": "Loona 弁護士の履歴書サンプル",
   "short_name": "弁護士の履歴書サンプル",
   "description": "弁護士の無料履歴書サンプル：クラシックテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-lawyers.html",
+  "id": "/ja/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

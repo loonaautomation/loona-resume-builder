@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla sprzedawców detalicznych",
   "short_name": "CV dla sprzedawców detalicznych",
   "description": "Darmowy przykład CV dla sprzedawców detalicznych: kompletny fikcyjny przykład w szablonie nowoczesnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-retail-salespersons.html",
+  "id": "/pl/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

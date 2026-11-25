@@ -2,7 +2,7 @@
   "name": "Loona ক্লাসিক রিজিউমে টেমপ্লেট",
   "short_name": "ক্লাসিক রিজিউমে টেমপ্লেট",
   "description": "বিনামূল্যের ক্লাসিক রিজিউমে টেমপ্লেট: এটি কিসের জন্য, কে এটি ব্যবহার করবেন, কখন ব্যবহার করবেন না, এবং একটি লাইভ নমুনা। এটি বিল্ডারে খুলুন এবং আপনার PDF ডাউনলোড করুন — কোনো সাইন-আপ নেই।",
-  "id": "/loona-resume-builder/bn/resume-template-classic.html",
+  "id": "/bn/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til detailsælgere",
   "short_name": "Eksempel på CV til detailsælgere",
   "description": "Gratis eksempel på CV til detailsælgere: et komplet fiktivt eksempel i Moderne-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-retail-salespersons.html",
+  "id": "/da/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

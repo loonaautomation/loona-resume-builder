@@ -2,7 +2,7 @@
   "name": "Loona Giriş Seviyesi Özgeçmiş Özgeçmiş Örneği",
   "short_name": "Giriş Seviyesi Özgeçmiş Özgeçmiş Örneği",
   "description": "Ücretsiz giriş seviyesi özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/entry-level-resume.html",
+  "id": "/tr/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

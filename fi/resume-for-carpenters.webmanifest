@@ -2,7 +2,7 @@
   "name": "Loona Puuseppien ansioluetteloesimerkki",
   "short_name": "Puuseppien ansioluetteloesimerkki",
   "description": "Ilmainen puusepän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-carpenters.html",
+  "id": "/fi/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for markedsføringssjefer",
   "short_name": "CV-eksempel for markedsføringssjefer",
   "description": "Gratis CV-eksempel for markedsføringssjef: et komplett fiktivt eksempel i Kreativ-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-marketing-managers.html",
+  "id": "/nb/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

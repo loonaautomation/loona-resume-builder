@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla nauczycieli przedszkoli",
   "short_name": "CV dla nauczycieli przedszkoli",
   "description": "Darmowy przykład CV dla nauczycieli przedszkoli: kompletny fikcyjny przykład w szablonie klasycznym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-preschool-teachers.html",
+  "id": "/pl/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

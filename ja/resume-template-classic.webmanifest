@@ -2,7 +2,7 @@
   "name": "Loona クラシック履歴書テンプレート",
   "short_name": "クラシック履歴書テンプレート",
   "description": "無料のクラシック履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-classic.html",
+  "id": "/ja/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

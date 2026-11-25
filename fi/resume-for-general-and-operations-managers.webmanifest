@@ -2,7 +2,7 @@
   "name": "Loona Yleis- ja operatiivisten päälliköiden ansioluetteloesimerkki",
   "short_name": "Yleis- ja operatiivisten päälliköiden ansioluetteloesimerkki",
   "description": "Ilmainen yleis- ja operatiivisen päällikön ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Johtotason mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-general-and-operations-managers.html",
+  "id": "/fi/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Υδραυλικών",
   "short_name": "Παράδειγμα Βιογραφικού Υδραυλικών",
   "description": "Δωρεάν παράδειγμα βιογραφικού υδραυλικού: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-plumbers.html",
+  "id": "/el/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

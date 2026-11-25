@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме випускника",
   "short_name": "Приклад резюме випускника",
   "description": "Безкоштовний приклад резюме випускника: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/fresher-resume.html",
+  "id": "/uk/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exempel på student-CV",
   "short_name": "Exempel på student-CV",
   "description": "Gratis exempel på student-CV: ett komplett fiktivt exempel, nivåspecifik vägledning och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/student-resume.html",
+  "id": "/sv/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

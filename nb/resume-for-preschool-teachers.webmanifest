@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for barnehagelærere",
   "short_name": "CV-eksempel for barnehagelærere",
   "description": "Gratis CV-eksempel for barnehagelærer: et komplett fiktivt eksempel i Klassisk-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-preschool-teachers.html",
+  "id": "/nb/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

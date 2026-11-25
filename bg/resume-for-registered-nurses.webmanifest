@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на медицински сестри",
   "short_name": "Пример за автобиография на медицински сестри",
   "description": "Безплатен пример за автобиография на медицинска сестра: пълен измислен образец в шаблона „Професионален“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-registered-nurses.html",
+  "id": "/bg/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Customer Service Representatives Resume",
   "short_name": "Customer Service",
   "description": "مثال مجاني على السيرة الذاتية لممثل خدمة عملاء: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-customer-service-representatives.html",
+  "id": "/ar/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

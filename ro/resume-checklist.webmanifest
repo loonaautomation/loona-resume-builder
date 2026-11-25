@@ -2,7 +2,7 @@
   "name": "Loona Lista de verificare a CV-ului",
   "short_name": "Lista de verificare a CV-ului",
   "description": "O listă de verificare interactivă gratuită pentru CV: 20 de verificări ATS și de completitudine, cu progres care se salvează în browserul tău. Se potrivește cu creatorul gratuit de CV și cu creatorul de scrisori de intenție Loona.",
-  "id": "/loona-resume-builder/ro/resume-checklist.html",
+  "id": "/ro/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

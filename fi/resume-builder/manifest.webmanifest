@@ -2,7 +2,7 @@
   "name": "Loona Ilmainen ansioluettelon rakentaja",
   "short_name": "Ilmainen ansioluettelon rakentaja",
   "description": "Rakenna ansioluettelosi ilmaiseksi verkossa: reaaliaikainen A4-esikatselu, 8 mallia (Klassinen, Moderni, Minimalistinen, ATS, Luova, Ammattimainen, Johtotason, Kompakti), rajattomasti kokemus- ja koulutusmerkintöjä, ilmainen PDF-lataus. Ei rekisteröitymistä, ei vesileimaa - tietosi eivät koskaan poistu laitteeltasi.",
-  "id": "/loona-resume-builder/fi/resume-builder/",
+  "id": "/fi/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro datové vědce",
   "short_name": "Vzor životopisu pro datové vědce",
   "description": "Bezplatný vzor životopisu pro datového vědce: kompletní fiktivní ukázka v šabloně moderní, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-data-scientists.html",
+  "id": "/cs/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

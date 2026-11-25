@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمديري التسويق",
   "short_name": "السيرة الذاتية لمديري التسويق",
   "description": "مثال مجاني على السيرة الذاتية لمدير تسويق: نموذج خيالي كامل في قالب Creative، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-marketing-managers.html",
+  "id": "/ar/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

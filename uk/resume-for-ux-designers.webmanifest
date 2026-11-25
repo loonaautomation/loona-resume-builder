@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме UX-дизайнерів",
   "short_name": "Приклад резюме UX-дизайнерів",
   "description": "Безкоштовний приклад резюме UX-дизайнера: повний вигаданий зразок у шаблоні Креативний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-ux-designers.html",
+  "id": "/uk/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

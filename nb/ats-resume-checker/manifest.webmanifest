@@ -2,7 +2,7 @@
   "name": "Loona Gratis ATS CV-sjekker",
   "short_name": "ATS CV-sjekker",
   "description": "Sjekk CV-en din gratis: lim inn CV-en din for å få poeng for fullstendighet, seksjoner, handlingsverb og tall, og lim inn en stillingsannonse for å se poengsummen din for nøkkelordsamsvar. Ingen registrering – alt kjører i nettleseren din, ingenting lastes opp.",
-  "id": "/loona-resume-builder/nb/ats-resume-checker/",
+  "id": "/nb/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

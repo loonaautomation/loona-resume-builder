@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Modern",
   "short_name": "Templat Resume Modern",
   "description": "Templat resume Modern gratis: untuk apa, siapa yang sebaiknya menggunakannya, kapan sebaiknya tidak digunakan, dan contoh langsung. Buka di pembuat dan unduh PDF Anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/id/resume-template-modern.html",
+  "id": "/id/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

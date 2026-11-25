@@ -2,7 +2,7 @@
   "name": "Loona 简历检查清单 — ATS & 完整性检查",
   "short_name": "简历检查清单 — ATS & 完整性检查",
   "description": "免费的交互式简历检查清单：20 项 ATS 与完整性检查，进度保存在您的浏览器中。与免费的 Loona 简历生成器和求职信生成器搭配使用。",
-  "id": "/loona-resume-builder/zh/resume-checklist.html",
+  "id": "/zh/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

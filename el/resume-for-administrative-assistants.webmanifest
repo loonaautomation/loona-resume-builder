@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Διοικητικών Βοηθών",
   "short_name": "Παράδειγμα Βιογραφικού Διοικητικών Βοηθών",
   "description": "Δωρεάν παράδειγμα βιογραφικού διοικητικού βοηθού: ένα πλήρες φανταστικό δείγμα στο Μινιμαλιστικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-administrative-assistants.html",
+  "id": "/el/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

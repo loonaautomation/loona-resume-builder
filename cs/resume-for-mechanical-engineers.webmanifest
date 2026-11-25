@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro strojní inženýry",
   "short_name": "Životopis pro strojní inženýry",
   "description": "Bezplatný vzor životopisu pro strojního inženýra: kompletní fiktivní ukázka v šabloně klasické, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-mechanical-engineers.html",
+  "id": "/cs/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

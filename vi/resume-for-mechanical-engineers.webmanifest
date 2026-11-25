@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Kỹ sư Cơ khí",
   "short_name": "Ví dụ CV Kỹ sư Cơ khí",
   "description": "Ví dụ CV kỹ sư Cơ khí miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-mechanical-engineers.html",
+  "id": "/vi/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

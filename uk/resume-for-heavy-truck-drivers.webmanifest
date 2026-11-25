@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме водіїв великовантажних автомобілів",
   "short_name": "Приклад резюме водіїв великовантажних автомобілів",
   "description": "Безкоштовний приклад резюме водія великовантажного автомобіля: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-heavy-truck-drivers.html",
+  "id": "/uk/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

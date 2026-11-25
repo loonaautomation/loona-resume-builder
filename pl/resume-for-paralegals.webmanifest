@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla asystentów prawnych",
   "short_name": "Przykład CV dla asystentów prawnych",
   "description": "Darmowy przykład CV dla asystentów prawnych: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-paralegals.html",
+  "id": "/pl/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

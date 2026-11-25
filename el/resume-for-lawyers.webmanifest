@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Δικηγόρων",
   "short_name": "Παράδειγμα Βιογραφικού Δικηγόρων",
   "description": "Δωρεάν παράδειγμα βιογραφικού δικηγόρου: ένα πλήρες φανταστικό δείγμα στο Κλασικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-lawyers.html",
+  "id": "/el/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

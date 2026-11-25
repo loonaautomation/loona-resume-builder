@@ -2,7 +2,7 @@
   "name": "Loona Minimal CV-mall",
   "short_name": "Minimal CV-mall",
   "description": "Gratis Minimal CV-mall: vad den är till för, vem som ska använda den, när den inte ska användas, och ett liveexempel. Öppna den i byggaren och ladda ned din PDF — ingen registrering.",
-  "id": "/loona-resume-builder/sv/resume-template-minimal.html",
+  "id": "/sv/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

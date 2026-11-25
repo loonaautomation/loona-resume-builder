@@ -2,7 +2,7 @@
   "name": "Loona Lisanslı Hemşireler Özgeçmiş Örneği",
   "short_name": "Lisanslı Hemşireler Özgeçmiş Örneği",
   "description": "Ücretsiz lisanslı hemşire özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-registered-nurses.html",
+  "id": "/tr/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

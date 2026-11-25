@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla dentystów",
   "short_name": "Przykład CV dla dentystów",
   "description": "Darmowy przykład CV dla dentystów: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-dentists.html",
+  "id": "/pl/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

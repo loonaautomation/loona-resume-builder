@@ -2,7 +2,7 @@
   "name": "Loona Yaratıcı Özgeçmiş Şablonu",
   "short_name": "Yaratıcı Özgeçmiş Şablonu",
   "description": "Ücretsiz Yaratıcı özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-creative.html",
+  "id": "/tr/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

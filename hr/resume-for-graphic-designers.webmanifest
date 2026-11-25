@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za grafičke dizajnere",
   "short_name": "Životopis za grafičke dizajnere",
   "description": "Besplatni primjer životopisa za grafičkog dizajnera: potpuni izmišljeni primjer u predlošku Kreativnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-graphic-designers.html",
+  "id": "/hr/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

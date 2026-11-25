@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Karier Menengah",
   "short_name": "Contoh Resume Karier Menengah",
   "description": "Contoh resume karier menengah gratis: contoh fiktif lengkap, panduan khusus tingkat, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/mid-career-resume.html",
+  "id": "/id/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

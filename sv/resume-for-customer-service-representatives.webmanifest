@@ -2,7 +2,7 @@
   "name": "Loona CV för kundtjänstmedarbetare",
   "short_name": "CV för kundtjänstmedarbetare",
   "description": "Gratis exempel på CV för kundtjänstmedarbetare: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-customer-service-representatives.html",
+  "id": "/sv/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

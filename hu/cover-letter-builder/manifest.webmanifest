@@ -2,7 +2,7 @@
   "name": "Loona Ingyenes Motivációslevél-készítő",
   "short_name": "Ingyenes Motivációslevél-készítő",
   "description": "Készítsen professzionális motivációs levelet teljesen ingyen: végigvezetett hárombekezdéses űrlap, élő A4-es előnézet Klasszikus levélstílusban, ingyenes PDF-letöltés - regisztráció nélkül, vízjel nélkül, az adatai soha nem hagyják el az eszközét.",
-  "id": "/loona-resume-builder/hu/cover-letter-builder/",
+  "id": "/hu/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

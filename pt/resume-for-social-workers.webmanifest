@@ -2,7 +2,7 @@
   "name": "Loona Exemplo de Currículo de Assistentes",
   "short_name": "Exemplo de Currículo de",
   "description": "Exemplo de currículo de assistente social grátis: um exemplo fictício completo no modelo Classic, dicas de recrutadores e perguntas frequentes. Edite o exemplo no criador gratuito e transfira o seu PDF.",
-  "id": "/loona-resume-builder/pt/resume-for-social-workers.html",
+  "id": "/pt/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

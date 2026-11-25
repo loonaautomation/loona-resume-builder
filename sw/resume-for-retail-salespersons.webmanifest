@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wauzaji wa Rejareja",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wauzaji wa Rejareja",
   "description": "Mfano wa wasifu wa kazi wa muuzaji wa rejareja bure: mfano kamili wa kubuni katika kiolezo cha Kisasa, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-retail-salespersons.html",
+  "id": "/sw/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

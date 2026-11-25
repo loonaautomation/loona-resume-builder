@@ -2,7 +2,7 @@
   "name": "Loona Verificatore ATS del curriculum gratuito",
   "short_name": "Verificatore ATS del curriculum",
   "description": "Controlla il tuo curriculum gratis: incolla il curriculum per ottenere il punteggio di completezza, sezioni, verbi d'azione e numeri, e incolla una descrizione dell'offerta per vedere il punteggio di corrispondenza delle parole chiave. Senza registrazione - tutto gira nel browser, non viene caricato nulla.",
-  "id": "/loona-resume-builder/it/ats-resume-checker/",
+  "id": "/it/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

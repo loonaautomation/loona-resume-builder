@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za znanstvenike za podatke",
   "short_name": "Primjer životopisa za znanstvenike za podatke",
   "description": "Besplatni primjer životopisa za znanstvenika za podatke: potpuni izmišljeni primjer u predlošku Modernom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-data-scientists.html",
+  "id": "/hr/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

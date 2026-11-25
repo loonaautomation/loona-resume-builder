@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية البسيط",
   "short_name": "قالب السيرة الذاتية البسيط",
   "description": "قالب سيرة ذاتية مجاني Minimal: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-minimal.html",
+  "id": "/ar/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

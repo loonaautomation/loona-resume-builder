@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru polițiști",
   "short_name": "Exemplu de CV pentru polițiști",
   "description": "Exemplu gratuit de CV de polițist: un exemplu fictiv complet în șablonul ATS, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-police-officers.html",
+  "id": "/ro/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

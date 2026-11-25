@@ -2,7 +2,7 @@
   "name": "Loona Modelo de Currículo Classic",
   "short_name": "Modelo de Currículo Classic",
   "description": "Modelo de currículo Classic grátis: para que serve, quem o deve usar, quando não o deve usar, e um exemplo ao vivo. Abra-o no criador e transfira o seu PDF — sem registro.",
-  "id": "/loona-resume-builder/pt-br/resume-template-classic.html",
+  "id": "/pt-br/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

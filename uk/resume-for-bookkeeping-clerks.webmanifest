@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме бухгалтерів-обліковців",
   "short_name": "Приклад резюме бухгалтерів-обліковців",
   "description": "Безкоштовний приклад резюме бухгалтера-обліковця: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-bookkeeping-clerks.html",
+  "id": "/uk/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 履歴書テンプレート&サンプル",
   "short_name": "履歴書テンプレート&サンプル",
   "description": "無料の履歴書テンプレートとサンプル：40の職種サンプル、8つのテンプレート、6つのキャリアレベル。どれでも無料ビルダーで開いて自分のものにし、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-templates.html",
+  "id": "/ja/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

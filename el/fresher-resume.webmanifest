@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Νεοεισερχόμενου",
   "short_name": "Παράδειγμα Βιογραφικού Νεοεισερχόμενου",
   "description": "Δωρεάν παράδειγμα βιογραφικού νεοεισερχόμενου: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/fresher-resume.html",
+  "id": "/el/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

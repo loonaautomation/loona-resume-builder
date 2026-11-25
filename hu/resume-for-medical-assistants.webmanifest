@@ -2,7 +2,7 @@
   "name": "Loona Egészségügyi asszisztensek önéletrajz-mintája",
   "short_name": "Egészségügyi asszisztensek önéletrajz-mintája",
   "description": "Ingyenes egészségügyi asszisztens önéletrajz-minta: teljes, fiktív minta a Professzionális sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-medical-assistants.html",
+  "id": "/hu/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pembina Surat Iringan Percuma",
   "short_name": "Pembina Surat Iringan Percuma",
   "description": "Bina surat iringan profesional sepenuhnya percuma: borang tiga perenggan berpandu, pratonton A4 langsung dalam gaya surat Klasik, muat turun PDF percuma - tanpa pendaftaran, tanpa tera air, data tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-resume-builder/ms/cover-letter-builder/",
+  "id": "/ms/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

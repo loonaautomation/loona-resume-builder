@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV cho Chuyên gia Cao cấp",
   "short_name": "Ví dụ CV cho Chuyên gia Cao cấp",
   "description": "Ví dụ CV cho chuyên gia cao cấp miễn phí: một mẫu hư cấu hoàn chỉnh, hướng dẫn theo cấp độ và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/senior-resume.html",
+  "id": "/vi/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

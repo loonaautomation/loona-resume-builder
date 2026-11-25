@@ -2,7 +2,7 @@
   "name": "Loona Modelli & esempi di curriculum",
   "short_name": "Modelli & esempi di curriculum",
   "description": "Modelli ed esempi di curriculum gratuiti: 40 esempi per professione, 8 modelli e 6 livelli di carriera. Aprire qualsiasi esempio nel generatore gratuito, renderlo proprio e scaricare il PDF.",
-  "id": "/loona-resume-builder/it/resume-templates.html",
+  "id": "/it/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

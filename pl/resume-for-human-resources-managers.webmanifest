@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kierowników HR",
   "short_name": "Kierownicy HR",
   "description": "Darmowy przykład CV dla kierowników HR: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-human-resources-managers.html",
+  "id": "/pl/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักพัฒนาซอฟต์แวร์",
   "short_name": "เรซูเม่สำหรับนักพัฒนาซอฟต์แวร์",
   "description": "ตัวอย่างเรซูเม่นักพัฒนาซอฟต์แวร์ฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตโมเดิร์น เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-software-developers.html",
+  "id": "/th/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

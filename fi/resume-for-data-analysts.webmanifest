@@ -2,7 +2,7 @@
   "name": "Loona Data-analyytikoiden ansioluetteloesimerkki",
   "short_name": "Data-analyytikoiden ansioluetteloesimerkki",
   "description": "Ilmainen data-analyytikon ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Kompaktin mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-data-analysts.html",
+  "id": "/fi/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

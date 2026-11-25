@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wabunifu wa Michoro",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wabunifu wa Michoro",
   "description": "Mfano wa wasifu wa kazi wa mbunifu wa michoro bure: mfano kamili wa kubuni katika kiolezo cha Ubunifu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-graphic-designers.html",
+  "id": "/sw/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

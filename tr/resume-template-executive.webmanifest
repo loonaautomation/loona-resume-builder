@@ -2,7 +2,7 @@
   "name": "Loona Yönetici Özgeçmiş Şablonu",
   "short_name": "Yönetici Özgeçmiş Şablonu",
   "description": "Ücretsiz Yönetici özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-executive.html",
+  "id": "/tr/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

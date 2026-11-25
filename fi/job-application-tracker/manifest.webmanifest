@@ -2,7 +2,7 @@
   "name": "Loona Ilmainen työhakemusten seuranta",
   "short_name": "Työhakemusten seuranta",
   "description": "Seuraa jokaista työhakemusta ilmaiseksi: yksinkertainen Kanban-taulu (Tallennettu, Haettu, Haastattelu, Tarjous), jossa on määräajat, seurantamuistutukset ja CSV-/JSON-vienti. Maksulliset seurannat veloittavat $29-$40 kuukaudessa - tämä on ilmainen, ei vaadi rekisteröitymistä, eivätkä tietosi koskaan poistu laitteeltasi.",
-  "id": "/loona-resume-builder/fi/job-application-tracker/",
+  "id": "/fi/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

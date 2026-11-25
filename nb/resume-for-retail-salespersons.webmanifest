@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for butikkselgere",
   "short_name": "CV-eksempel for butikkselgere",
   "description": "Gratis CV-eksempel for butikkselger: et komplett fiktivt eksempel i Moderne-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-retail-salespersons.html",
+  "id": "/nb/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

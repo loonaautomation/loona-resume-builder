@@ -2,7 +2,7 @@
   "name": "Loona Ağır Vasıta Kamyon Şoförleri Özgeçmiş Örneği",
   "short_name": "Ağır Vasıta Kamyon",
   "description": "Ücretsiz ağır vasıta kamyon şoförü özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-heavy-truck-drivers.html",
+  "id": "/tr/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

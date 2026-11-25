@@ -2,7 +2,7 @@
   "name": "Loona Μοντέρνο Πρότυπο Βιογραφικού",
   "short_name": "Μοντέρνο Πρότυπο Βιογραφικού",
   "description": "Δωρεάν Μοντέρνο πρότυπο βιογραφικού: για ποιο σκοπό είναι, ποιος πρέπει να το χρησιμοποιήσει, πότε να μην το χρησιμοποιήσει, και ένα ζωντανό δείγμα. Ανοίξτε το στον δημιουργό και κατεβάστε το PDF σας — χωρίς εγγραφή.",
-  "id": "/loona-resume-builder/el/resume-template-modern.html",
+  "id": "/el/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

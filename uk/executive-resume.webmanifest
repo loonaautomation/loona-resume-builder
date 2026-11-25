@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме керівника",
   "short_name": "Приклад резюме керівника",
   "description": "Безкоштовний приклад резюме керівника: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/executive-resume.html",
+  "id": "/uk/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za iskusne stručnjake",
   "short_name": "Primjer životopisa za iskusne stručnjake",
   "description": "Besplatni primjer životopisa za iskusne stručnjake: potpuni izmišljeni primjer, upute za tu razinu i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/senior-resume.html",
+  "id": "/hr/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

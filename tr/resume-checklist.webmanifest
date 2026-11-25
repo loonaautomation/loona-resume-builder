@@ -2,7 +2,7 @@
   "name": "Loona Özgeçmiş Kontrol Listesi - Ücretsiz ATS ve Tamlık Kontrolü",
   "short_name": "Özgeçmiş Kontrol Listesi",
   "description": "Ücretsiz etkileşimli bir özgeçmiş kontrol listesi: ilerlemesi tarayıcınızda saklanan 20 ATS ve eksiksizlik kontrolü. Ücretsiz Loona Özgeçmiş Oluşturucu ve Ön Yazı Oluşturucu ile birlikte çalışır.",
-  "id": "/loona-resume-builder/tr/resume-checklist.html",
+  "id": "/tr/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

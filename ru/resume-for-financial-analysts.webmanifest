@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме финансовых аналитиков",
   "short_name": "Резюме финансовых аналитиков",
   "description": "Бесплатный пример резюме финансового аналитика: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-financial-analysts.html",
+  "id": "/ru/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

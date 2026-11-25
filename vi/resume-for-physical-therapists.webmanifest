@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Chuyên viên Vật lý Trị liệu",
   "short_name": "Ví dụ CV Chuyên viên Vật lý Trị liệu",
   "description": "Ví dụ CV chuyên viên Vật lý Trị liệu miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Chuyên nghiệp, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-physical-therapists.html",
+  "id": "/vi/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

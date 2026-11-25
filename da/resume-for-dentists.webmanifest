@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til tandlæger",
   "short_name": "Eksempel på CV til tandlæger",
   "description": "Gratis eksempel på CV til tandlæger: et komplet fiktivt eksempel i Professionel-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-dentists.html",
+  "id": "/da/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

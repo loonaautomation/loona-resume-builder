@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV cho Sinh viên mới tốt nghiệp",
   "short_name": "Ví dụ CV cho Sinh viên mới tốt nghiệp",
   "description": "Ví dụ CV cho sinh viên mới tốt nghiệp miễn phí: một mẫu hư cấu hoàn chỉnh, hướng dẫn theo cấp độ và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/fresher-resume.html",
+  "id": "/vi/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

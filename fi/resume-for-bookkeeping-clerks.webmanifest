@@ -2,7 +2,7 @@
   "name": "Loona Kirjanpitotyöntekijöiden ansioluetteloesimerkki",
   "short_name": "Kirjanpitotyöntekijöiden ansioluetteloesimerkki",
   "description": "Ilmainen kirjanpitotyöntekijän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-bookkeeping-clerks.html",
+  "id": "/fi/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

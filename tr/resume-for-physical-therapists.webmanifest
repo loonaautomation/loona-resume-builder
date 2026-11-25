@@ -2,7 +2,7 @@
   "name": "Loona Fizyoterapistler Özgeçmiş Örneği",
   "short_name": "Fizyoterapistler Özgeçmiş Örneği",
   "description": "Ücretsiz fizyoterapist özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-physical-therapists.html",
+  "id": "/tr/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

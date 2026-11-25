@@ -2,7 +2,7 @@
   "name": "Loona Modelo de Currículo Minimal",
   "short_name": "Modelo de Currículo Minimal",
   "description": "Modelo de currículo Minimal grátis: para que serve, quem o deve usar, quando não o deve usar, e um exemplo em direto. Abra-o no criador e transfira o seu PDF — sem registo.",
-  "id": "/loona-resume-builder/pt-pt/resume-template-minimal.html",
+  "id": "/pt-pt/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

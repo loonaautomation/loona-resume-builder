@@ -2,7 +2,7 @@
   "name": "Loona Izvršni predložak životopisa",
   "short_name": "Izvršni predložak životopisa",
   "description": "Besplatni Izvršni predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-executive.html",
+  "id": "/hr/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للسباكين",
   "short_name": "مثال على السيرة الذاتية للسباكين",
   "description": "مثال مجاني على السيرة الذاتية لسباك: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-plumbers.html",
+  "id": "/ar/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro zkušené profesionály",
   "short_name": "Vzor životopisu pro zkušené",
   "description": "Bezplatný vzor životopisu pro zkušené profesionály: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/mid-career-resume.html",
+  "id": "/cs/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

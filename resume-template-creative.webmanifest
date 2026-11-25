@@ -2,7 +2,7 @@
   "name": "Loona Creative Resume Template",
   "short_name": "Creative Resume Template",
   "description": "Free Creative resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/resume-template-creative.html",
+  "id": "/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

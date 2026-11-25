@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til administrative assistenter",
   "short_name": "Eksempel på CV til administrative assistenter",
   "description": "Gratis eksempel på CV til administrative assistenter: et komplet fiktivt eksempel i Minimalistisk-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-administrative-assistants.html",
+  "id": "/da/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

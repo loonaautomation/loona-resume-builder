@@ -2,7 +2,7 @@
   "name": "Loona Executive Resume Resume Example",
   "short_name": "Executive Resume Resume Example",
   "description": "Free executive resume example: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the free builder and download your PDF.",
-  "id": "/loona-resume-builder/en-gb/executive-resume.html",
+  "id": "/en-gb/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

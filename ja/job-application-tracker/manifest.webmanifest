@@ -2,7 +2,7 @@
   "name": "Loona 無料求人応募トラッカー",
   "short_name": "求人応募トラッカー",
   "description": "すべての求人応募を無料で追跡：締切、フォローアップリマインダー、CSV/JSONエクスポートを備えたシンプルなカンバンボード（保存済み、応募済み、面接、内定）。有料トラッカーは月額$29～$40を請求しますが、これは無料で登録不要、データが端末の外に出ることはありません。",
-  "id": "/loona-resume-builder/ja/job-application-tracker/",
+  "id": "/ja/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

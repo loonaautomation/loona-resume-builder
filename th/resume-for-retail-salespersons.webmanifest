@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับพนักงานขายปลีก",
   "short_name": "เรซูเม่สำหรับพนักงานขายปลีก",
   "description": "ตัวอย่างเรซูเม่พนักงานขายปลีกฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตโมเดิร์น เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-retail-salespersons.html",
+  "id": "/th/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

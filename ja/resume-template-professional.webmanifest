@@ -2,7 +2,7 @@
   "name": "Loona プロフェッショナル履歴書テンプレート",
   "short_name": "プロフェッショナル履歴書テンプレート",
   "description": "無料のプロフェッショナル履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-professional.html",
+  "id": "/ja/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

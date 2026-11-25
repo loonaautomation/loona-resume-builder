@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме юриста",
   "short_name": "Пример резюме юриста",
   "description": "Бесплатный пример резюме юриста: полный вымышленный образец в шаблоне Classic, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-lawyers.html",
+  "id": "/ru/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

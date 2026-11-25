@@ -2,7 +2,7 @@
   "name": "Loona Entry-Level Resume Resume Example",
   "short_name": "Entry-Level Resume Resume",
   "description": "مثال مجاني على السيرة الذاتية للمبتدئين: نموذج خيالي كامل، وإرشادات خاصة بالمستوى، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/entry-level-resume.html",
+  "id": "/ar/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 职业中期简历范例",
   "short_name": "职业中期简历范例",
   "description": "免费的职业中期简历范例：一份完整的虚构范例，附针对该级别的指导和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/mid-career-resume.html",
+  "id": "/zh/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักออกแบบกราฟิก",
   "short_name": "เรซูเม่สำหรับนักออกแบบกราฟิก",
   "description": "ตัวอย่างเรซูเม่นักออกแบบกราฟิกฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตสร้างสรรค์ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-graphic-designers.html",
+  "id": "/th/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

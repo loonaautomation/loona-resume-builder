@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Νοσηλευτών",
   "short_name": "Παράδειγμα Βιογραφικού Νοσηλευτών",
   "description": "Δωρεάν παράδειγμα βιογραφικού νοσηλευτή: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-registered-nurses.html",
+  "id": "/el/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

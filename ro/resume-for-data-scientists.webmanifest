@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru specialiști în știința datelor",
   "short_name": "Exemplu de CV pentru specialiști în știința datelor",
   "description": "Exemplu gratuit de CV de specialist în știința datelor: un exemplu fictiv complet în șablonul Modern, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-data-scientists.html",
+  "id": "/ro/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

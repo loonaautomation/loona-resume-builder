@@ -2,7 +2,7 @@
   "name": "Loona Darmowe sprawdzanie CV pod ATS",
   "short_name": "Sprawdzanie CV pod ATS",
   "description": "Sprawdź swoje CV za darmo: wklej swoje CV, aby ocenić jego kompletność, sekcje, czasowniki czynności i liczby, i wklej opis stanowiska, aby zobaczyć wynik dopasowania słów kluczowych. Bez rejestracji — wszystko działa w Twojej przeglądarce, nic nie jest wysyłane.",
-  "id": "/loona-resume-builder/pl/ats-resume-checker/",
+  "id": "/pl/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

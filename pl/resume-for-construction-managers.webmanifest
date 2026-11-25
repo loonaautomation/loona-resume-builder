@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kierowników budowy",
   "short_name": "CV dla kierowników budowy",
   "description": "Darmowy przykład CV dla kierowników budowy: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-construction-managers.html",
+  "id": "/pl/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

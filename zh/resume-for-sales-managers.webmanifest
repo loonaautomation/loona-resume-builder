@@ -2,7 +2,7 @@
   "name": "Loona 销售经理简历范例",
   "short_name": "销售经理简历范例",
   "description": "免费的销售经理简历范例：一份完整的虚构范例，使用高管模板，附招聘人员建议和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/resume-for-sales-managers.html",
+  "id": "/zh/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

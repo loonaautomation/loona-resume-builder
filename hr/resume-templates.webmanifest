@@ -2,7 +2,7 @@
   "name": "Loona Predlošci i primjeri životopisa",
   "short_name": "Predlošci i primjeri životopisa",
   "description": "Besplatni predlošci i primjeri životopisa: 40 primjera po zanimanjima, 8 predložaka i 6 razina karijere. Otvorite bilo koji primjer u besplatnom alatu, prilagodite ga sebi i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-templates.html",
+  "id": "/hr/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Danh sách Kiểm tra CV - Kiểm tra ATS & Tính đầy đủ",
   "short_name": "Danh sách Kiểm tra CV - Kiểm tra ATS & Tính đầy đủ",
   "description": "Một danh sách kiểm tra CV tương tác miễn phí: 20 mục kiểm tra về ATS và tính đầy đủ với tiến độ được lưu trong trình duyệt của bạn. Kết hợp với Loona Resume Builder và Trình tạo Thư xin việc miễn phí.",
-  "id": "/loona-resume-builder/vi/resume-checklist.html",
+  "id": "/vi/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

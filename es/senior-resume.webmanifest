@@ -2,7 +2,7 @@
   "name": "Loona Currículum senior",
   "short_name": "Currículum senior",
   "description": "Ejemplo de currículum de senior gratuito: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
-  "id": "/loona-resume-builder/es/senior-resume.html",
+  "id": "/es/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

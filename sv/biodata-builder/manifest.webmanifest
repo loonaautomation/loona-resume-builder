@@ -2,7 +2,7 @@
   "name": "Loona Gratis biodata-byggare för äktenskap",
   "short_name": "Gratis biodata-byggare för äktenskap",
   "description": "Bygg en biodata för äktenskap helt gratis: avsnitt för person, familj, utbildning och valfritt horoskop, stilarna Enkel och Dekorativ, liveförhandsgranskning i A4 och gratis PDF-nedladdning - ingen registrering, ingen vattenstämpel, uppgifter lämnar aldrig din enhet.",
-  "id": "/loona-resume-builder/sv/biodata-builder/",
+  "id": "/sv/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

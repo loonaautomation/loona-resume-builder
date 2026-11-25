@@ -2,7 +2,7 @@
   "name": "Loona Besplatni alat za životopis na mreži",
   "short_name": "Besplatni alat za životopis na",
   "description": "Izradite svoj životopis besplatno na mreži: pregled A4 uživo, 8 predložaka (Klasični, Moderni, Minimalistički, ATS, Kreativni, Profesionalni, Izvršni, Kompaktni), neograničene stavke iskustva i obrazovanja, besplatno preuzimanje PDF-a. Bez registracije, bez vodenog žiga - vaši podaci nikada ne napuštaju vaš uređaj.",
-  "id": "/loona-resume-builder/hr/resume-builder/",
+  "id": "/hr/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на полицейски служители",
   "short_name": "Пример за автобиография на полицейски служители",
   "description": "Безплатен пример за автобиография на полицейски служител: пълен измислен образец в шаблона „ATS“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-police-officers.html",
+  "id": "/bg/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for dataforskere",
   "short_name": "CV-eksempel for dataforskere",
   "description": "Gratis CV-eksempel for dataforsker: et komplett fiktivt eksempel i Moderne-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-data-scientists.html",
+  "id": "/nb/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

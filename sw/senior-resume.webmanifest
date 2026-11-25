@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Mwandamizi",
   "short_name": "Mfano wa Wasifu wa Kazi wa Mwandamizi",
   "description": "Mfano wa wasifu wa kazi wa mwandamizi bure: mfano kamili wa kubuni, mwongozo maalum wa ngazi na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/senior-resume.html",
+  "id": "/sw/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

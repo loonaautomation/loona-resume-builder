@@ -2,7 +2,7 @@
   "name": "Loona Șablon de CV ATS",
   "short_name": "Șablon de CV ATS",
   "description": "Șablon gratuit de CV ATS: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
-  "id": "/loona-resume-builder/ro/resume-template-ats.html",
+  "id": "/ro/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

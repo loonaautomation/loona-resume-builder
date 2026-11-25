@@ -2,7 +2,7 @@
   "name": "Loona コンパクト履歴書テンプレート",
   "short_name": "コンパクト履歴書テンプレート",
   "description": "無料のコンパクト履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-compact.html",
+  "id": "/ja/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

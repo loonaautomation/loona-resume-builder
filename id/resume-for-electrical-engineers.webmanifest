@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Insinyur Elektro",
   "short_name": "Contoh Resume Insinyur Elektro",
   "description": "Contoh resume insinyur elektro gratis: contoh fiktif lengkap dalam templat Modern, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-electrical-engineers.html",
+  "id": "/id/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

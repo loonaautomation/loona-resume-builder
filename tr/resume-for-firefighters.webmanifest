@@ -2,7 +2,7 @@
   "name": "Loona İtfaiyeciler Özgeçmiş Örneği",
   "short_name": "İtfaiyeciler Özgeçmiş Örneği",
   "description": "Ücretsiz itfaiyeci özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-firefighters.html",
+  "id": "/tr/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

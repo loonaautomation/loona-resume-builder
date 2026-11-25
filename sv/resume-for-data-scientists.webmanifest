@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för datavetare",
   "short_name": "Exempel på CV för datavetare",
   "description": "Gratis exempel på CV för datavetare: ett komplett fiktivt exempel i den Moderna mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-data-scientists.html",
+  "id": "/sv/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

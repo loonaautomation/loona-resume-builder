@@ -2,7 +2,7 @@
   "name": "Loona Cum să scrii un CV care obține interviuri",
   "short_name": "Cum să scrii un CV care obține",
   "description": "Un ghid practic și gratuit pentru a scrie un CV care este citit: structură, o formulă de rezumat, puncte de realizări cu cifre, competențe, greșeli frecvente și sfaturi ATS. Apoi construiește-l pe al tău gratuit.",
-  "id": "/loona-resume-builder/ro/resume-tips.html",
+  "id": "/ro/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

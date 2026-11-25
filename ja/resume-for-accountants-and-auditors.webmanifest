@@ -2,7 +2,7 @@
   "name": "Loona 会計士・監査人の履歴書サンプル",
   "short_name": "会計士・監査人の履歴書サンプル",
   "description": "会計士・監査人の無料履歴書サンプル：プロフェッショナルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-accountants-and-auditors.html",
+  "id": "/ja/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

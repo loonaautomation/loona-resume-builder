@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za učitelje razredne nastave",
   "short_name": "Učitelji razredne nastave",
   "description": "Besplatni primjer životopisa za učitelja razredne nastave: potpuni izmišljeni primjer u predlošku Klasičnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-elementary-school-teachers.html",
+  "id": "/hr/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

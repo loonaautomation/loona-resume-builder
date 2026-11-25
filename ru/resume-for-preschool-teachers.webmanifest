@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме воспитателя дошкольного учреждения",
   "short_name": "Резюме воспитателя дошкольного учреждения",
   "description": "Бесплатный пример резюме воспитателя дошкольного учреждения: полный вымышленный образец в шаблоне Classic, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-preschool-teachers.html",
+  "id": "/ru/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

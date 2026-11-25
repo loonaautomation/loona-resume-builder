@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Ηλεκτρολόγων Μηχανικών",
   "short_name": "Παράδειγμα Βιογραφικού Ηλεκτρολόγων Μηχανικών",
   "description": "Δωρεάν παράδειγμα βιογραφικού ηλεκτρολόγου μηχανικού: ένα πλήρες φανταστικό δείγμα στο Μοντέρνο πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-electrical-engineers.html",
+  "id": "/el/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

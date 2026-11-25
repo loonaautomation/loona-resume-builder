@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for barneskolelærere",
   "short_name": "CV-eksempel for barneskolelærere",
   "description": "Gratis CV-eksempel for barneskolelærer: et komplett fiktivt eksempel i Klassisk-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-elementary-school-teachers.html",
+  "id": "/nb/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

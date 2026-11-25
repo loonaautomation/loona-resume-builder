@@ -2,7 +2,7 @@
   "name": "Loona Cv-sjablonen & voorbeelden",
   "short_name": "Cv-sjablonen & voorbeelden",
   "description": "Gratis cv-sjablonen en voorbeelden: 40 beroepsvoorbeelden, 8 sjablonen en 6 carrièreniveaus. Open een voorbeeld in de gratis bouwer, maak het van jou en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-templates.html",
+  "id": "/nl/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

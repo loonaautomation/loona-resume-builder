@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu učiteľa materskej školy",
   "short_name": "Životopis učiteľov materských škôl",
   "description": "Bezplatný príklad životopisu pre učiteľa materskej školy: kompletný fiktívny vzor v klasickej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-preschool-teachers.html",
+  "id": "/sk/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Klassinen ansioluettelomalli",
   "short_name": "Klassinen ansioluettelomalli",
   "description": "Ilmainen klassisen ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-classic.html",
+  "id": "/fi/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

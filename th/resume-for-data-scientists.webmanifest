@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักวิทยาศาสตร์ข้อมูล",
   "short_name": "ตัวอย่างเรซูเม่สำหรับนักวิทยาศาสตร์ข้อมูล",
   "description": "ตัวอย่างเรซูเม่นักวิทยาศาสตร์ข้อมูลฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตโมเดิร์น เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-data-scientists.html",
+  "id": "/th/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

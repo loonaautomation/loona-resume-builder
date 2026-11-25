@@ -2,7 +2,7 @@
   "name": "Loona Шаблон за автобиография „Компактен“",
   "short_name": "Шаблон за автобиография „Компактен“",
   "description": "Безплатен шаблон за автобиография „Компактен“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
-  "id": "/loona-resume-builder/bg/resume-template-compact.html",
+  "id": "/bg/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

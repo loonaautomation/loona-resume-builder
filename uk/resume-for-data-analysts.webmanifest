@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме аналітиків даних",
   "short_name": "Приклад резюме аналітиків даних",
   "description": "Безкоштовний приклад резюме аналітика даних: повний вигаданий зразок у шаблоні Компактний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-data-analysts.html",
+  "id": "/uk/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona নির্বাহীদের রিজিউমে রিজিউমের উদাহরণ",
   "short_name": "নির্বাহীদের রিজিউমে রিজিউমের উদাহরণ",
   "description": "বিনামূল্যের নির্বাহীর রিজিউমের উদাহরণ: একটি সম্পূর্ণ কাল্পনিক নমুনা, স্তর-নির্দিষ্ট নির্দেশনা ও প্রায়শই জিজ্ঞাসিত প্রশ্ন। নমুনাটি বিনামূল্যের বিল্ডারে সম্পাদনা করুন এবং আপনার PDF ডাউনলোড করুন।",
-  "id": "/loona-resume-builder/bn/executive-resume.html",
+  "id": "/bn/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

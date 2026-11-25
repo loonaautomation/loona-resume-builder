@@ -2,7 +2,7 @@
   "name": "Loona Leder-CV-skabelon",
   "short_name": "Leder-CV-skabelon",
   "description": "Gratis Lederskabelon til CV: hvad den er til, hvem der bør bruge den, hvornår den ikke skal bruges, og et live eksempel. Åbn den i byggeren og download din PDF — ingen tilmelding.",
-  "id": "/loona-resume-builder/da/resume-template-executive.html",
+  "id": "/da/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

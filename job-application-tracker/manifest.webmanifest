@@ -2,7 +2,7 @@
   "name": "Loona Free Job Application Tracker",
   "short_name": "Job Application Tracker",
   "description": "Track every job application free: a simple Kanban board (Wishlist, Applied, Interview, Offer) with deadlines, follow-up reminders and CSV/JSON export. Paid trackers charge $29-$40 a month - this one is free, needs no sign-up, and your data never leaves your device.",
-  "id": "/loona-resume-builder/job-application-tracker/",
+  "id": "/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

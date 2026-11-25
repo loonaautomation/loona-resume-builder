@@ -2,7 +2,7 @@
   "name": "Loona Szenior önéletrajz mintája",
   "short_name": "Szenior önéletrajz mintája",
   "description": "Ingyenes szenior önéletrajz-minta: teljes, fiktív minta, szintnek megfelelő útmutatás és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/senior-resume.html",
+  "id": "/hu/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

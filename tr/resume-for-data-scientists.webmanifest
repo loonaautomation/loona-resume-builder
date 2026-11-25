@@ -2,7 +2,7 @@
   "name": "Loona Veri Bilimcileri Özgeçmiş Örneği",
   "short_name": "Veri Bilimcileri Özgeçmiş Örneği",
   "description": "Ücretsiz veri bilimci özgeçmiş örneği: Modern şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-data-scientists.html",
+  "id": "/tr/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

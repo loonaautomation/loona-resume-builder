@@ -2,7 +2,7 @@
   "name": "Loona Yazılım Geliştiriciler Özgeçmiş Örneği",
   "short_name": "Yazılım Geliştiriciler Özgeçmiş Örneği",
   "description": "Ücretsiz yazılım geliştirici özgeçmiş örneği: Modern şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-software-developers.html",
+  "id": "/tr/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

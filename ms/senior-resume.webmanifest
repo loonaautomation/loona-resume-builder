@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Senior",
   "short_name": "Contoh Resume Senior",
   "description": "Contoh resume senior percuma: contoh rekaan yang lengkap, panduan khusus peringkat dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/senior-resume.html",
+  "id": "/ms/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

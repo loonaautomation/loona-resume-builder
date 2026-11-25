@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่สร้างสรรค์",
   "short_name": "เทมเพลตเรซูเม่สร้างสรรค์",
   "description": "เทมเพลตเรซูเม่สร้างสรรค์ฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-creative.html",
+  "id": "/th/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

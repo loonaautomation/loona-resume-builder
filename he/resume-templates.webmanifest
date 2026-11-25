@@ -2,7 +2,7 @@
   "name": "Loona Resume Templates & Examples",
   "short_name": "Resume Templates & Examples",
   "description": "תבניות ודוגמאות קורות חיים בחינם: 40 דוגמאות לפי מקצוע, 8 תבניות ו-6 רמות קריירה. פתחו כל דוגמה בבונה החינמי, הפכו אותה לשלכם והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-templates.html",
+  "id": "/he/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

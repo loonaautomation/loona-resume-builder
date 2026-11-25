@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים למנהלי בנייה",
   "short_name": "קורות חיים למנהלי בנייה",
   "description": "דוגמת קורות חיים חינמית למנהל בנייה: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-construction-managers.html",
+  "id": "/he/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

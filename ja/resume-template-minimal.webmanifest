@@ -2,7 +2,7 @@
   "name": "Loona ミニマル履歴書テンプレート",
   "short_name": "ミニマル履歴書テンプレート",
   "description": "無料のミニマル履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-minimal.html",
+  "id": "/ja/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

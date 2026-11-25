@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме социального работника",
   "short_name": "Пример резюме социального работника",
   "description": "Бесплатный пример резюме социального работника: полный вымышленный образец в шаблоне Classic, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-social-workers.html",
+  "id": "/ru/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

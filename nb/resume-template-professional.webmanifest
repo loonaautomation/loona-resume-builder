@@ -2,7 +2,7 @@
   "name": "Loona Profesjonell CV-mal",
   "short_name": "Profesjonell CV-mal",
   "description": "Gratis profesjonell CV-mal: hva den er til, hvem som bør bruke den, når du ikke bør bruke den, og et direkte eksempel. Åpne den i byggeren og last ned PDF-en din — ingen registrering.",
-  "id": "/loona-resume-builder/nb/resume-template-professional.html",
+  "id": "/nb/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

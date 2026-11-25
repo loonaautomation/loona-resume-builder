@@ -2,7 +2,7 @@
   "name": "Loona Modern Resume Template",
   "short_name": "Modern Resume Template",
   "description": "Free Modern resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/resume-template-modern.html",
+  "id": "/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

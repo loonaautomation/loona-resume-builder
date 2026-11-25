@@ -2,7 +2,7 @@
   "name": "Loona Modèle de CV Classic",
   "short_name": "Modèle de CV Classic",
   "description": "Modèle de CV Classic gratuit : à quoi il sert, qui devrait l’utiliser, quand ne pas l’utiliser, et un exemple en direct. Ouvrez-le dans le générateur et téléchargez votre PDF — sans inscription.",
-  "id": "/loona-resume-builder/fr/resume-template-classic.html",
+  "id": "/fr/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

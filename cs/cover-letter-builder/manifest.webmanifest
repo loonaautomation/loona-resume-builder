@@ -2,7 +2,7 @@
   "name": "Loona Bezplatný nástroj pro tvorbu motivačních dopisů",
   "short_name": "Bezplatný nástroj pro tvorbu motivačních dopisů",
   "description": "Vytvořte si profesionální motivační dopis zcela zdarma: formulář o třech odstavcích s průvodcem, živý náhled A4 ve stylu dopisu Classic, stažení PDF zdarma – bez registrace, bez vodoznaku, data nikdy neopustí vaše zařízení.",
-  "id": "/loona-resume-builder/cs/cover-letter-builder/",
+  "id": "/cs/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

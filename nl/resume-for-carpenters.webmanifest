@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor timmerlieden",
   "short_name": "Cv-voorbeeld voor timmerlieden",
   "description": "Gratis cv-voorbeeld voor timmerlieden: een compleet fictief voorbeeld in het Ats-sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-carpenters.html",
+  "id": "/nl/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

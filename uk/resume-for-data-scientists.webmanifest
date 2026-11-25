@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме фахівців із даних",
   "short_name": "Приклад резюме фахівців із даних",
   "description": "Безкоштовний приклад резюме фахівця з даних: повний вигаданий зразок у шаблоні Сучасний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-data-scientists.html",
+  "id": "/uk/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

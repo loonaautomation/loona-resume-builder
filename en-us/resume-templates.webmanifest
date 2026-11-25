@@ -2,7 +2,7 @@
   "name": "Loona Resume Templates & Examples",
   "short_name": "Resume Templates & Examples",
   "description": "Free resume templates and examples: 40 profession samples, 8 templates and 6 career levels. Open any sample in the free builder, make it yours and download your PDF.",
-  "id": "/loona-resume-builder/en-us/resume-templates.html",
+  "id": "/en-us/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

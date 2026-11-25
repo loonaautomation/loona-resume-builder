@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro fyzioterapeuty",
   "short_name": "Životopis pro fyzioterapeuty",
   "description": "Bezplatný vzor životopisu pro fyzioterapeuta: kompletní fiktivní ukázka v šabloně profesionální, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-physical-therapists.html",
+  "id": "/cs/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

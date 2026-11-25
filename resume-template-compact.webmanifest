@@ -2,7 +2,7 @@
   "name": "Loona Compact Resume Template",
   "short_name": "Compact Resume Template",
   "description": "Free Compact resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/resume-template-compact.html",
+  "id": "/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

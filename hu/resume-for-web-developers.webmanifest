@@ -2,7 +2,7 @@
   "name": "Loona Webfejlesztők önéletrajz-mintája",
   "short_name": "Webfejlesztők önéletrajz-mintája",
   "description": "Ingyenes webfejlesztő önéletrajz-minta: teljes, fiktív minta a Kreatív sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-web-developers.html",
+  "id": "/hu/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

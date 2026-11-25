@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za voditelje gradnje",
   "short_name": "Životopis za voditelje gradnje",
   "description": "Besplatni primjer životopisa za voditelja gradnje: potpuni izmišljeni primjer u predlošku Profesionalnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-construction-managers.html",
+  "id": "/hr/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

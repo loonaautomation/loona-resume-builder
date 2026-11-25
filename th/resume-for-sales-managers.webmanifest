@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับผู้จัดการฝ่ายขาย",
   "short_name": "ตัวอย่างเรซูเม่สำหรับผู้จัดการฝ่ายขาย",
   "description": "ตัวอย่างเรซูเม่ผู้จัดการฝ่ายขายฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตผู้บริหาร เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-sales-managers.html",
+  "id": "/th/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

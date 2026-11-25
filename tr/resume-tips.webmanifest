@@ -2,7 +2,7 @@
   "name": "Loona Mülakat Kazandıran Bir Özgeçmiş Nasıl Yazılır - Ücretsiz Rehber",
   "short_name": "Mülakat Kazandıran Bir",
   "description": "Okunan bir özgeçmiş yazmak için pratik ve ücretsiz bir rehber: yapı, bir özet formülü, sayılarla başarı maddeleri, beceriler, yaygın hatalar ve ATS ipuçları. Sonra sizinkini ücretsiz oluşturun.",
-  "id": "/loona-resume-builder/tr/resume-tips.html",
+  "id": "/tr/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

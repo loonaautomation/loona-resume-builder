@@ -2,7 +2,7 @@
   "name": "Loona Darmowe śledzenie aplikacji o pracę",
   "short_name": "Śledzenie aplikacji o pracę",
   "description": "Śledź każdą aplikację o pracę za darmo: prosta tablica Kanban (Zapisane, Zaaplikowano, Rozmowa kwalifikacyjna, Oferta) z terminami, przypomnieniami o kontakcie zwrotnym i eksportem CSV/JSON. Płatne trackery pobierają $29-$40 miesięcznie — to narzędzie jest darmowe, nie wymaga rejestracji, a Twoje dane nigdy nie opuszczają Twojego urządzenia.",
-  "id": "/loona-resume-builder/pl/job-application-tracker/",
+  "id": "/pl/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

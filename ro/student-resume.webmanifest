@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru studenți",
   "short_name": "Exemplu de CV pentru studenți",
   "description": "Exemplu gratuit de CV pentru studenți: un exemplu fictiv complet, îndrumări specifice nivelului și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/student-resume.html",
+  "id": "/ro/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

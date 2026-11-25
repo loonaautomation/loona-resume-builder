@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för brandmän",
   "short_name": "Exempel på CV för brandmän",
   "description": "Gratis exempel på CV för brandmän: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-firefighters.html",
+  "id": "/sv/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

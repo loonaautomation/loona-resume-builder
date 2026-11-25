@@ -2,7 +2,7 @@
   "name": "Loona CV-maler & eksempler",
   "short_name": "CV-maler & eksempler",
   "description": "Gratis CV-maler og eksempler: 40 yrkeseksempler, 8 maler og 6 karrierenivåer. Åpne et hvilket som helst eksempel i den gratis byggeren, gjør det til ditt eget og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-templates.html",
+  "id": "/nb/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

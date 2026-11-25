@@ -2,7 +2,7 @@
   "name": "Loona Шаблон за автобиография „Професионален“",
   "short_name": "Шаблон за автобиография „Професионален“",
   "description": "Безплатен шаблон за автобиография „Професионален“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
-  "id": "/loona-resume-builder/bg/resume-template-professional.html",
+  "id": "/bg/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

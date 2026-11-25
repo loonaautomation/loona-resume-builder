@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме сотрудника полиции",
   "short_name": "Пример резюме сотрудника полиции",
   "description": "Бесплатный пример резюме сотрудника полиции: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-police-officers.html",
+  "id": "/ru/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

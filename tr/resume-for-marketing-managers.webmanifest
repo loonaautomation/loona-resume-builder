@@ -2,7 +2,7 @@
   "name": "Loona Pazarlama Yöneticileri Özgeçmiş Örneği",
   "short_name": "Pazarlama Yöneticileri Özgeçmiş Örneği",
   "description": "Ücretsiz pazarlama yöneticisi özgeçmiş örneği: Yaratıcı şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-marketing-managers.html",
+  "id": "/tr/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

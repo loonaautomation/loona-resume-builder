@@ -2,7 +2,7 @@
   "name": "Loona Exekutiv CV-mall",
   "short_name": "Exekutiv CV-mall",
   "description": "Gratis Exekutiv CV-mall: vad den är till för, vem som ska använda den, när den inte ska användas, och ett liveexempel. Öppna den i byggaren och ladda ned din PDF — ingen registrering.",
-  "id": "/loona-resume-builder/sv/resume-template-executive.html",
+  "id": "/sv/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

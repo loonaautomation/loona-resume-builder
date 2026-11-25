@@ -2,7 +2,7 @@
   "name": "Loona 平面设计师简历范例",
   "short_name": "平面设计师简历范例",
   "description": "免费的平面设计师简历范例：一份完整的虚构范例，使用创意模板，附招聘人员建议和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/resume-for-graphic-designers.html",
+  "id": "/zh/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Jeune diplômé",
   "short_name": "Exemple de CV Jeune diplômé",
   "description": "Exemple de CV gratuit de jeune diplômé : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/fresher-resume.html",
+  "id": "/fr/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

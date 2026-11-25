@@ -2,7 +2,7 @@
   "name": "Loona ফ্রেশারদের রিজিউমে রিজিউমের উদাহরণ",
   "short_name": "ফ্রেশারদের রিজিউমে রিজিউমের উদাহরণ",
   "description": "বিনামূল্যের ফ্রেশারের রিজিউমের উদাহরণ: একটি সম্পূর্ণ কাল্পনিক নমুনা, স্তর-নির্দিষ্ট নির্দেশনা ও প্রায়শই জিজ্ঞাসিত প্রশ্ন। নমুনাটি বিনামূল্যের বিল্ডারে সম্পাদনা করুন এবং আপনার PDF ডাউনলোড করুন।",
-  "id": "/loona-resume-builder/bn/fresher-resume.html",
+  "id": "/bn/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

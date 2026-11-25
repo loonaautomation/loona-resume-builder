@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме представників служби підтримки клієнтів",
   "short_name": "Приклад резюме представників служби підтримки клієнтів",
   "description": "Безкоштовний приклад резюме представника служби підтримки клієнтів: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-customer-service-representatives.html",
+  "id": "/uk/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

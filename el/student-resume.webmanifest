@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Φοιτητή",
   "short_name": "Παράδειγμα Βιογραφικού Φοιτητή",
   "description": "Δωρεάν παράδειγμα βιογραφικού φοιτητή: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/student-resume.html",
+  "id": "/el/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hur du skriver ett CV som ger intervjuer",
   "short_name": "Hur du skriver ett CV som ger",
   "description": "En praktisk, gratis guide till att skriva ett CV som blir läst: struktur, en formel för sammanfattningen, prestationspunkter med siffror, färdigheter, vanliga misstag och ATS-tips. Bygg sedan ditt eget gratis.",
-  "id": "/loona-resume-builder/sv/resume-tips.html",
+  "id": "/sv/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

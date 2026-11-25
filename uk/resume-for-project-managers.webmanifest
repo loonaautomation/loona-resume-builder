@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме менеджерів проєктів",
   "short_name": "Приклад резюме менеджерів проєктів",
   "description": "Безкоштовний приклад резюме менеджера проєктів: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-project-managers.html",
+  "id": "/uk/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

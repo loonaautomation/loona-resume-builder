@@ -2,7 +2,7 @@
   "name": "Loona Gratis CV-bygger",
   "short_name": "Gratis CV-bygger",
   "description": "Bygg CV-en din gratis på nett: direkte A4-forhåndsvisning, 8 maler (Klassisk, Moderne, Minimalistisk, ATS, Kreativ, Profesjonell, Leder, Kompakt), ubegrenset antall erfarings- og utdanningsoppføringer, gratis nedlasting som PDF. Ingen registrering, ingen vannmerke – dataene dine forlater aldri enheten din.",
-  "id": "/loona-resume-builder/nb/resume-builder/",
+  "id": "/nb/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kompakt Özgeçmiş Şablonu",
   "short_name": "Kompakt Özgeçmiş Şablonu",
   "description": "Ücretsiz Kompakt özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-compact.html",
+  "id": "/tr/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

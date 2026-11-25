@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักออกแบบ UX",
   "short_name": "ตัวอย่างเรซูเม่สำหรับนักออกแบบ UX",
   "description": "ตัวอย่างเรซูเม่นักออกแบบ UX ฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตสร้างสรรค์ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-ux-designers.html",
+  "id": "/th/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

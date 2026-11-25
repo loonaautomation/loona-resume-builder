@@ -2,7 +2,7 @@
   "name": "Loona Pembina Resume Percuma",
   "short_name": "Pembina Resume Percuma",
   "description": "Bina resume anda percuma dalam talian: pratonton A4 langsung, 8 templat (Klasik, Moden, Minimal, ATS, Kreatif, Profesional, Eksekutif, Kompak), entri pengalaman dan pendidikan tanpa had, muat turun PDF percuma. Tanpa pendaftaran, tanpa tera air - data anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-resume-builder/ms/resume-builder/",
+  "id": "/ms/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

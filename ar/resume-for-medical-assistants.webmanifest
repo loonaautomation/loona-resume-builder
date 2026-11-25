@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية للمساعدين الطبيين",
   "short_name": "السيرة الذاتية للمساعدين الطبيين",
   "description": "مثال مجاني على السيرة الذاتية لمساعد طبي: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-medical-assistants.html",
+  "id": "/ar/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

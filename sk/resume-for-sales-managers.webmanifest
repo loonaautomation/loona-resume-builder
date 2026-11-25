@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu obchodného manažéra",
   "short_name": "Príklad životopisu obchodného manažéra",
   "description": "Bezplatný príklad životopisu pre obchodného manažéra: kompletný fiktívny vzor v manažérskej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-sales-managers.html",
+  "id": "/sk/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

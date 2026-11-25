@@ -2,7 +2,7 @@
   "name": "Loona Modello di curriculum Executive",
   "short_name": "Modello di curriculum",
   "description": "Modello di curriculum Executive gratuito: a cosa serve, chi dovrebbe usarlo, quando non usarlo e un esempio dal vivo. Aprirlo nel generatore e scaricare il PDF — senza registrazione.",
-  "id": "/loona-resume-builder/it/resume-template-executive.html",
+  "id": "/it/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

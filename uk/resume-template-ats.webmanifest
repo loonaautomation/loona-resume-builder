@@ -2,7 +2,7 @@
   "name": "Loona Шаблон резюме ATS",
   "short_name": "Шаблон резюме ATS",
   "description": "Безкоштовний шаблон резюме ATS: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-ats.html",
+  "id": "/uk/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

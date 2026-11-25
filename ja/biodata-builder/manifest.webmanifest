@@ -2,7 +2,7 @@
   "name": "Loona 無料の結婚用バイオデータビルダー",
   "short_name": "無料の結婚用バイオデータビルダー",
   "description": "結婚用バイオデータを完全無料で作成できます。個人・家族・学歴と任意の星占いセクション、シンプルとデコラティブのスタイル、A4ライブプレビュー、無料PDFダウンロード ― 登録不要、透かしなし、データが端末の外に出ることはありません。",
-  "id": "/loona-resume-builder/ja/biodata-builder/",
+  "id": "/ja/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

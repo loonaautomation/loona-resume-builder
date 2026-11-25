@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים למורים לגיל הרך",
   "short_name": "קורות חיים למורים לגיל הרך",
   "description": "דוגמת קורות חיים חינמית למורה לגיל הרך: דוגמה בדיונית מלאה בתבנית הקלאסית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-preschool-teachers.html",
+  "id": "/he/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

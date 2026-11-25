@@ -2,7 +2,7 @@
   "name": "Loona ATS-Lebenslaufvorlage",
   "short_name": "ATS-Lebenslaufvorlage",
   "description": "Kostenlose ATS-Lebenslaufvorlage: wofür sie ist, wer sie verwenden sollte, wann sie nicht verwendet werden sollte und eine Live-Probe. Öffnen Sie es im Builder und laden Sie Ihre PDF-Datei herunter — keine Anmeldung.",
-  "id": "/loona-resume-builder/de/resume-template-ats.html",
+  "id": "/de/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

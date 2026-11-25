@@ -2,7 +2,7 @@
   "name": "Loona Executive रिज़्यूमे टेम्पलेट",
   "short_name": "Executive रिज़्यूमे टेम्पलेट",
   "description": "मुफ़्त Executive रिज़्यूमे टेम्पलेट: यह किसके लिए है, किसे इसका उपयोग करना चाहिए, कब नहीं करना चाहिए, और एक लाइव नमूना। इसे बिल्डर में खोलें और अपनी PDF डाउनलोड करें — कोई साइन-अप नहीं।",
-  "id": "/loona-resume-builder/hi/resume-template-executive.html",
+  "id": "/hi/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

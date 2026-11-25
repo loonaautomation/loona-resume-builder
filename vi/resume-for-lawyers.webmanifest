@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Luật sư",
   "short_name": "Ví dụ CV Luật sư",
   "description": "Ví dụ CV luật sư miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-lawyers.html",
+  "id": "/vi/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

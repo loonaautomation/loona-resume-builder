@@ -2,7 +2,7 @@
   "name": "Loona Diş Hekimleri Özgeçmiş Örneği",
   "short_name": "Diş Hekimleri Özgeçmiş Örneği",
   "description": "Ücretsiz diş hekimi özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-dentists.html",
+  "id": "/tr/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

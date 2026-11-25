@@ -2,7 +2,7 @@
   "name": "Loona Modelo de Currículo Creative",
   "short_name": "Modelo de Currículo Creative",
   "description": "Modelo de currículo Creative grátis: para que serve, quem o deve usar, quando não o deve usar, e um exemplo ao vivo. Abra-o no criador e transfira o seu PDF — sem registro.",
-  "id": "/loona-resume-builder/pt-br/resume-template-creative.html",
+  "id": "/pt-br/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

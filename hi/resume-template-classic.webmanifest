@@ -2,7 +2,7 @@
   "name": "Loona Classic रिज़्यूमे टेम्पलेट",
   "short_name": "Classic रिज़्यूमे टेम्पलेट",
   "description": "मुफ़्त Classic रिज़्यूमे टेम्पलेट: यह किसके लिए है, किसे इसका उपयोग करना चाहिए, कब नहीं करना चाहिए, और एक लाइव नमूना। इसे बिल्डर में खोलें और अपनी PDF डाउनलोड करें — कोई साइन-अप नहीं।",
-  "id": "/loona-resume-builder/hi/resume-template-classic.html",
+  "id": "/hi/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

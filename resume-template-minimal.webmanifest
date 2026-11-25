@@ -2,7 +2,7 @@
   "name": "Loona Minimal Resume Template",
   "short_name": "Minimal Resume Template",
   "description": "Free Minimal resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/resume-template-minimal.html",
+  "id": "/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

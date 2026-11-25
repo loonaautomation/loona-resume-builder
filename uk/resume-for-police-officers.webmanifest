@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме поліцейських",
   "short_name": "Приклад резюме поліцейських",
   "description": "Безкоштовний приклад резюме поліцейського: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-police-officers.html",
+  "id": "/uk/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

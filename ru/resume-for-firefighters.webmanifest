@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме пожарных",
   "short_name": "Пример резюме пожарных",
   "description": "Бесплатный пример резюме пожарного: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-firefighters.html",
+  "id": "/ru/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

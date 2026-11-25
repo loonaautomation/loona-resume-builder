@@ -2,7 +2,7 @@
   "name": "Loona Jak napisać CV, które zdobywa rozmowy kwalifikacyjne",
   "short_name": "Jak napisać CV, które zdobywa",
   "description": "Praktyczny, darmowy przewodnik po pisaniu CV, które zostanie przeczytane: struktura, formuła podsumowania, punkty osiągnięć z liczbami, umiejętności, typowe błędy i wskazówki ATS. Potem stwórz swoje za darmo.",
-  "id": "/loona-resume-builder/pl/resume-tips.html",
+  "id": "/pl/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

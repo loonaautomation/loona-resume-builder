@@ -2,7 +2,7 @@
   "name": "Loona Esempio di curriculum per addetti alle",
   "short_name": "Esempio di curriculum per",
   "description": "Esempio gratuito di curriculum per addetti alle vendite al dettaglio: un esempio fittizio completo nel modello Modern, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
-  "id": "/loona-resume-builder/it/resume-for-retail-salespersons.html",
+  "id": "/it/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

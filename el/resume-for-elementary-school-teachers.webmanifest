@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Δασκάλων Δημοτικού",
   "short_name": "Παράδειγμα Βιογραφικού Δασκάλων Δημοτικού",
   "description": "Δωρεάν παράδειγμα βιογραφικού δασκάλου δημοτικού: ένα πλήρες φανταστικό δείγμα στο Κλασικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-elementary-school-teachers.html",
+  "id": "/el/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

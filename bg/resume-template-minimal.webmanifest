@@ -2,7 +2,7 @@
   "name": "Loona Шаблон за автобиография „Минималистичен“",
   "short_name": "Шаблон за автобиография „Минималистичен“",
   "description": "Безплатен шаблон за автобиография „Минималистичен“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
-  "id": "/loona-resume-builder/bg/resume-template-minimal.html",
+  "id": "/bg/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

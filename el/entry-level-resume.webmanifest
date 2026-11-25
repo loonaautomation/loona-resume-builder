@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Αρχάριου Επιπέδου",
   "short_name": "Παράδειγμα Βιογραφικού Αρχάριου Επιπέδου",
   "description": "Δωρεάν παράδειγμα βιογραφικού αρχάριου επιπέδου: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/entry-level-resume.html",
+  "id": "/el/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

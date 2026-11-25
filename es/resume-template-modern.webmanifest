@@ -2,7 +2,7 @@
   "name": "Loona Plantilla de currículum Modern",
   "short_name": "Plantilla de currículum Modern",
   "description": "Plantilla de currículum Modern gratuita: para qué sirve, quién debería utilizarla, cuándo no utilizarla y un ejemplo en vivo. Abrirla en el creador y descargar el PDF — sin registro.",
-  "id": "/loona-resume-builder/es/resume-template-modern.html",
+  "id": "/es/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

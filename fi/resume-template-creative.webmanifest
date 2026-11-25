@@ -2,7 +2,7 @@
   "name": "Loona Luova ansioluettelomalli",
   "short_name": "Luova ansioluettelomalli",
   "description": "Ilmainen luovan ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-creative.html",
+  "id": "/fi/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

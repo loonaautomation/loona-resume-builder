@@ -2,7 +2,7 @@
   "name": "Loona 中堅キャリアの履歴書サンプル",
   "short_name": "中堅キャリアの履歴書サンプル",
   "description": "中堅キャリアの無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/mid-career-resume.html",
+  "id": "/ja/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

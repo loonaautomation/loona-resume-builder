@@ -2,7 +2,7 @@
   "name": "Loona How to Write a Resume That Gets Interviews",
   "short_name": "How to Write a Resume That",
   "description": "מדריך מעשי וחינמי לכתיבת קורות חיים שבאמת נקראים: מבנה, נוסחת תקציר, נקודות הישגים עם מספרים, מיומנויות, טעויות נפוצות וטיפים ל-ATS. אחר כך בנו את שלכם בחינם.",
-  "id": "/loona-resume-builder/he/resume-tips.html",
+  "id": "/he/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

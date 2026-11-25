@@ -2,7 +2,7 @@
   "name": "Loona Pályakezdő önéletrajz mintája",
   "short_name": "Pályakezdő önéletrajz mintája",
   "description": "Ingyenes pályakezdő önéletrajz-minta: teljes, fiktív minta, szintnek megfelelő útmutatás és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/entry-level-resume.html",
+  "id": "/hu/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

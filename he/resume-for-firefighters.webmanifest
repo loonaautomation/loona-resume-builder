@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לכבאים",
   "short_name": "דוגמת קורות חיים לכבאים",
   "description": "דוגמת קורות חיים חינמית לכבאי: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-firefighters.html",
+  "id": "/he/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

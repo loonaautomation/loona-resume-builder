@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla stolarzy",
   "short_name": "Przykład CV dla stolarzy",
   "description": "Darmowy przykład CV dla stolarzy: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-carpenters.html",
+  "id": "/pl/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Manajer Konstruksi",
   "short_name": "Contoh Resume Manajer Konstruksi",
   "description": "Contoh resume manajer konstruksi gratis: contoh fiktif lengkap dalam templat Profesional, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-construction-managers.html",
+  "id": "/id/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

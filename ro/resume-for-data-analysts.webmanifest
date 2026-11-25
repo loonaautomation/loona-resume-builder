@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru analiști de date",
   "short_name": "Exemplu de CV pentru analiști de date",
   "description": "Exemplu gratuit de CV de analist de date: un exemplu fictiv complet în șablonul Compact, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-data-analysts.html",
+  "id": "/ro/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

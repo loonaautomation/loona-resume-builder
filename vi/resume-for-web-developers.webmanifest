@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Lập trình viên Web",
   "short_name": "Ví dụ CV Lập trình viên Web",
   "description": "Ví dụ CV lập trình viên Web miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Sáng tạo, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-web-developers.html",
+  "id": "/vi/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

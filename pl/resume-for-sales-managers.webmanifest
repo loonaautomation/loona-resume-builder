@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kierowników sprzedaży",
   "short_name": "Przykład CV dla kierowników sprzedaży",
   "description": "Darmowy przykład CV dla kierowników sprzedaży: kompletny fikcyjny przykład w szablonie dla kadry kierowniczej, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-sales-managers.html",
+  "id": "/pl/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Lính cứu hỏa",
   "short_name": "Ví dụ CV Lính cứu hỏa",
   "description": "Ví dụ CV lính cứu hỏa miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu ATS, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-firefighters.html",
+  "id": "/vi/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме водителя большегрузного автомобиля",
   "short_name": "Резюме водителя большегрузного автомобиля",
   "description": "Бесплатный пример резюме водителя большегрузного автомобиля: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-heavy-truck-drivers.html",
+  "id": "/ru/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

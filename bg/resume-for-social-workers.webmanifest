@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на социални работници",
   "short_name": "Пример за автобиография на социални работници",
   "description": "Безплатен пример за автобиография на социален работник: пълен измислен образец в шаблона „Класически“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-social-workers.html",
+  "id": "/bg/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Сучасний шаблон резюме",
   "short_name": "Сучасний шаблон резюме",
   "description": "Безкоштовний сучасний шаблон резюме: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-modern.html",
+  "id": "/uk/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

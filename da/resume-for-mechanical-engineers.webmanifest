@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til maskiningeniører",
   "short_name": "Eksempel på CV til maskiningeniører",
   "description": "Gratis eksempel på CV til maskiningeniører: et komplet fiktivt eksempel i Klassisk-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-mechanical-engineers.html",
+  "id": "/da/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

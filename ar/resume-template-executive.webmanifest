@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية التنفيذية",
   "short_name": "قالب السيرة الذاتية التنفيذية",
   "description": "قالب سيرة ذاتية مجاني Executive: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-executive.html",
+  "id": "/ar/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

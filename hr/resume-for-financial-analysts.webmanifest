@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za financijske analitičare",
   "short_name": "Životopis za financijske analitičare",
   "description": "Besplatni primjer životopisa za financijskog analitičara: potpuni izmišljeni primjer u predlošku Profesionalnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-financial-analysts.html",
+  "id": "/hr/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

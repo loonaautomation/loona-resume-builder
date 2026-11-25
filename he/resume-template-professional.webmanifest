@@ -2,7 +2,7 @@
   "name": "Loona תבנית קורות חיים מקצועית",
   "short_name": "תבנית קורות חיים מקצועית",
   "description": "תבנית קורות חיים מקצועית חינמית: למה היא מיועדת, מי צריך להשתמש בה, מתי לא להשתמש בה, ודוגמה חיה. פתחו אותה בבונה והורידו את ה-PDF שלכם — ללא הרשמה.",
-  "id": "/loona-resume-builder/he/resume-template-professional.html",
+  "id": "/he/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

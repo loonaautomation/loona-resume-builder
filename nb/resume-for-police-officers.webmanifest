@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for politibetjenter",
   "short_name": "CV-eksempel for politibetjenter",
   "description": "Gratis CV-eksempel for politibetjent: et komplett fiktivt eksempel i ATS-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-police-officers.html",
+  "id": "/nb/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

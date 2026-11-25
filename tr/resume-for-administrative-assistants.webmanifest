@@ -2,7 +2,7 @@
   "name": "Loona İdari Asistanlar Özgeçmiş Örneği",
   "short_name": "İdari Asistanlar Özgeçmiş Örneği",
   "description": "Ücretsiz idari asistan özgeçmiş örneği: Minimal şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-administrative-assistants.html",
+  "id": "/tr/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

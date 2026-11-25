@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Γενικών Διευθυντών και Διευθυντών Λειτουργιών",
   "short_name": "Παράδειγμα Βιογραφικού Γενικών Διευθυντών και Διευθυντών Λειτουργιών",
   "description": "Δωρεάν παράδειγμα βιογραφικού γενικού διευθυντή και διευθυντή λειτουργιών: ένα πλήρες φανταστικό δείγμα στο πρότυπο Στελέχους, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-general-and-operations-managers.html",
+  "id": "/el/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

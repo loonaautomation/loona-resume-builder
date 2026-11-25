@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro seniory",
   "short_name": "Vzor životopisu pro seniory",
   "description": "Bezplatný vzor životopisu pro seniorní profesionály: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/senior-resume.html",
+  "id": "/cs/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

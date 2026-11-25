@@ -2,7 +2,7 @@
   "name": "Loona 임원 이력서 이력서 예시",
   "short_name": "임원 이력서 이력서 예시",
   "description": "무료 임원 이력서 예시: 완전한 가상 샘플, 레벨별 안내와 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/executive-resume.html",
+  "id": "/ko/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

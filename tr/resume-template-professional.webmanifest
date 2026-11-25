@@ -2,7 +2,7 @@
   "name": "Loona Profesyonel Özgeçmiş Şablonu",
   "short_name": "Profesyonel Özgeçmiş Şablonu",
   "description": "Ücretsiz Profesyonel özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-professional.html",
+  "id": "/tr/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

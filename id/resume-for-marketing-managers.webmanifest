@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Manajer Pemasaran",
   "short_name": "Contoh Resume Manajer Pemasaran",
   "description": "Contoh resume manajer pemasaran gratis: contoh fiktif lengkap dalam templat Kreatif, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-marketing-managers.html",
+  "id": "/id/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

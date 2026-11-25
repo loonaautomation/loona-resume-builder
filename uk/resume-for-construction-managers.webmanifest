@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме керівників будівництва",
   "short_name": "Приклад резюме керівників будівництва",
   "description": "Безкоштовний приклад резюме керівника будівництва: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-construction-managers.html",
+  "id": "/uk/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

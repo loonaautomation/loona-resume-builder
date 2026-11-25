@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Kỹ sư Điện",
   "short_name": "Ví dụ CV Kỹ sư Điện",
   "description": "Ví dụ CV kỹ sư Điện miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Hiện đại, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-electrical-engineers.html",
+  "id": "/vi/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

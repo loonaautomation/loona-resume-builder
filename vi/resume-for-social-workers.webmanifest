@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nhân viên Công tác Xã hội",
   "short_name": "Ví dụ CV Nhân viên Công tác Xã hội",
   "description": "Ví dụ CV nhân viên Công tác Xã hội miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-social-workers.html",
+  "id": "/vi/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

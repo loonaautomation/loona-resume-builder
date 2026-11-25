@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu projektového manažéra",
   "short_name": "Životopis projektových manažérov",
   "description": "Bezplatný príklad životopisu pre projektového manažéra: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-project-managers.html",
+  "id": "/sk/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

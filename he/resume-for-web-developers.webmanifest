@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים למפתחי אתרים",
   "short_name": "דוגמת קורות חיים למפתחי אתרים",
   "description": "דוגמת קורות חיים חינמית למפתח אתרים: דוגמה בדיונית מלאה בתבנית היצירתית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-web-developers.html",
+  "id": "/he/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمديري المشاريع",
   "short_name": "السيرة الذاتية لمديري المشاريع",
   "description": "مثال مجاني على السيرة الذاتية لمدير مشاريع: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-project-managers.html",
+  "id": "/ar/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

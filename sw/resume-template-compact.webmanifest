@@ -2,7 +2,7 @@
   "name": "Loona Kiolezo cha Wasifu wa Kazi Fupi",
   "short_name": "Kiolezo cha Wasifu wa Kazi Fupi",
   "description": "Kiolezo cha wasifu wa kazi cha Fupi bure: ni cha nini, nani anapaswa kukitumia, wakati gani asikitumie, na mfano hai. Kifungue kwenye kijenga na upakue PDF yako — bila kujisajili.",
-  "id": "/loona-resume-builder/sw/resume-template-compact.html",
+  "id": "/sw/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

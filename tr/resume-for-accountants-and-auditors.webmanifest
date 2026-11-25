@@ -2,7 +2,7 @@
   "name": "Loona Muhasebeciler ve Denetçiler Özgeçmiş Örneği",
   "short_name": "Muhasebeciler ve Denetçiler",
   "description": "Ücretsiz muhasebeci ve denetçi özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-accountants-and-auditors.html",
+  "id": "/tr/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

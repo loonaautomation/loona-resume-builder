@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu softvérového vývojára",
   "short_name": "Životopis softvérových vývojárov",
   "description": "Bezplatný príklad životopisu pre vývojára softvéru: kompletný fiktívny vzor v modernej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-software-developers.html",
+  "id": "/sk/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

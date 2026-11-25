@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för HR-chefer",
   "short_name": "HR-chefer",
   "description": "Gratis exempel på CV för HR-chefer: ett komplett fiktivt exempel i den Professionella mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-human-resources-managers.html",
+  "id": "/sv/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

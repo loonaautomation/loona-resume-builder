@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לפקידי בנק",
   "short_name": "דוגמת קורות חיים לפקידי בנק",
   "description": "דוגמת קורות חיים חינמית לפקיד בנק: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-bank-tellers.html",
+  "id": "/he/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية التنفيذية",
   "short_name": "السيرة الذاتية التنفيذية",
   "description": "مثال مجاني على السيرة الذاتية للتنفيذيين: نموذج خيالي كامل، وإرشادات خاصة بالمستوى، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/executive-resume.html",
+  "id": "/ar/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

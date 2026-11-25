@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV cho Người có Kinh nghiệm",
   "short_name": "Ví dụ CV cho Người có Kinh nghiệm",
   "description": "Ví dụ CV cho người có kinh nghiệm miễn phí: một mẫu hư cấu hoàn chỉnh, hướng dẫn theo cấp độ và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/mid-career-resume.html",
+  "id": "/vi/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

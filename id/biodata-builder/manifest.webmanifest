@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Biodata Pernikahan Gratis",
   "short_name": "Pembuat Biodata Pernikahan Gratis",
   "description": "Buat biodata pernikahan sepenuhnya gratis: bagian pribadi, keluarga, pendidikan, dan horoskop opsional, gaya Sederhana dan Dekoratif, pratinjau A4 langsung, dan unduhan PDF gratis - tanpa pendaftaran, tanpa tanda air, data tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-resume-builder/id/biodata-builder/",
+  "id": "/id/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til bankmedarbejdere",
   "short_name": "Eksempel på CV til bankmedarbejdere",
   "description": "Gratis eksempel på CV til bankmedarbejdere: et komplet fiktivt eksempel i ATS-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-bank-tellers.html",
+  "id": "/da/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

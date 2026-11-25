@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме продавца розничной торговли",
   "short_name": "Резюме продавца розничной торговли",
   "description": "Бесплатный пример резюме продавца-консультанта: полный вымышленный образец в шаблоне Modern, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-retail-salespersons.html",
+  "id": "/ru/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

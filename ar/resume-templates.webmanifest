@@ -2,7 +2,7 @@
   "name": "Loona Resume Templates & Examples",
   "short_name": "Resume Templates & Examples",
   "description": "قوالب وأمثلة مجانية للسيرة الذاتية: 40 نموذجًا للمهن، و8 قوالب، و6 مستويات مهنية. افتح أي نموذج في المنشئ المجاني، واجعله خاصًا بك ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-templates.html",
+  "id": "/ar/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

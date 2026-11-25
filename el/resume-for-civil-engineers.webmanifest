@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Πολιτικών Μηχανικών",
   "short_name": "Παράδειγμα Βιογραφικού Πολιτικών Μηχανικών",
   "description": "Δωρεάν παράδειγμα βιογραφικού πολιτικού μηχανικού: ένα πλήρες φανταστικό δείγμα στο Κλασικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-civil-engineers.html",
+  "id": "/el/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

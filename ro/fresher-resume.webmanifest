@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru absolvenți fără experiență",
   "short_name": "Exemplu de CV pentru absolvenți fără experiență",
   "description": "Exemplu gratuit de CV pentru absolvenți fără experiență: un exemplu fictiv complet, îndrumări specifice nivelului și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/fresher-resume.html",
+  "id": "/ro/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

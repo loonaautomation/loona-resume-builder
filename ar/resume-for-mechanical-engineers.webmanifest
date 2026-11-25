@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية للمهندسين الميكانيكيين",
   "short_name": "السيرة الذاتية للمهندسين الميكانيكيين",
   "description": "مثال مجاني على السيرة الذاتية لمهندس ميكانيكا: نموذج خيالي كامل في قالب Classic، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-mechanical-engineers.html",
+  "id": "/ar/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للمناصب العليا",
   "short_name": "مثال على السيرة الذاتية للمناصب العليا",
   "description": "مثال مجاني على السيرة الذاتية لكبار المهنيين: نموذج خيالي كامل، وإرشادات خاصة بالمستوى، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/senior-resume.html",
+  "id": "/ar/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

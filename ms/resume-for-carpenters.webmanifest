@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Tukang Kayu",
   "short_name": "Contoh Resume Tukang Kayu",
   "description": "Contoh resume tukang kayu percuma: contoh rekaan yang lengkap dalam templat ATS, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-carpenters.html",
+  "id": "/ms/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

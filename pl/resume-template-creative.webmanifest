@@ -2,7 +2,7 @@
   "name": "Loona Kreatywny szablon CV",
   "short_name": "Kreatywny szablon CV",
   "description": "Darmowy kreatywny szablon CV: do czego służy, kto powinien go używać, kiedy go nie używać oraz przykład na żywo. Otwórz go w kreatorze i pobierz swój PDF — bez rejestracji.",
-  "id": "/loona-resume-builder/pl/resume-template-creative.html",
+  "id": "/pl/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

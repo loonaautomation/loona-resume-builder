@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للمهندسين المدنيين",
   "short_name": "مثال على السيرة الذاتية للمهندسين المدنيين",
   "description": "مثال مجاني على السيرة الذاتية لمهندس مدني: نموذج خيالي كامل في قالب Classic، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-civil-engineers.html",
+  "id": "/ar/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

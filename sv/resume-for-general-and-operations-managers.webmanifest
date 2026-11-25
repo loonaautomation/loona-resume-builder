@@ -2,7 +2,7 @@
   "name": "Loona CV för verksamhetschefer",
   "short_name": "CV för verksamhetschefer",
   "description": "Gratis exempel på CV för verksamhetschefer: ett komplett fiktivt exempel i den Exekutiva mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-general-and-operations-managers.html",
+  "id": "/sv/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

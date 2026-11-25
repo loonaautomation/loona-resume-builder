@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre bankových pokladníkov",
   "short_name": "Príklad životopisu pre bankových pokladníkov",
   "description": "Bezplatný príklad životopisu pre bankového pokladníka: kompletný fiktívny vzor v šablóne ATS, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-bank-tellers.html",
+  "id": "/sk/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

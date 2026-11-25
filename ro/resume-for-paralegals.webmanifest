@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru asistenți juridici",
   "short_name": "Exemplu de CV pentru asistenți juridici",
   "description": "Exemplu gratuit de CV de asistent juridic: un exemplu fictiv complet în șablonul Profesional, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-paralegals.html",
+  "id": "/ro/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

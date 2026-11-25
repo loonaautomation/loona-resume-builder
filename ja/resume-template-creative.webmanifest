@@ -2,7 +2,7 @@
   "name": "Loona クリエイティブ履歴書テンプレート",
   "short_name": "クリエイティブ履歴書テンプレート",
   "description": "無料のクリエイティブ履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-creative.html",
+  "id": "/ja/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

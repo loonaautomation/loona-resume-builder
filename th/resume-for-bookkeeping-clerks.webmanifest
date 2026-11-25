@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับพนักงานบัญชี",
   "short_name": "เรซูเม่สำหรับพนักงานบัญชี",
   "description": "ตัวอย่างเรซูเม่พนักงานบัญชีฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลต ATS เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-bookkeeping-clerks.html",
+  "id": "/th/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

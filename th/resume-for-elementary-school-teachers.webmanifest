@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับครูประถมศึกษา",
   "short_name": "ครูประถมศึกษา",
   "description": "ตัวอย่างเรซูเม่ครูประถมศึกษาฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตคลาสสิก เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-elementary-school-teachers.html",
+  "id": "/th/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

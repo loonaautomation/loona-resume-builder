@@ -2,7 +2,7 @@
   "name": "Loona المساعدون الإداريون",
   "short_name": "المساعدون الإداريون",
   "description": "مثال مجاني على السيرة الذاتية لمساعد إداري: نموذج خيالي كامل في قالب Minimal، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-administrative-assistants.html",
+  "id": "/ar/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

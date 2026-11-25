@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Concepteurs UX",
   "short_name": "Exemple de CV Concepteurs UX",
   "description": "Exemple de CV gratuit de concepteur UX : un exemple fictif complet dans le modèle Creative, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-ux-designers.html",
+  "id": "/fr/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لموظفي مسك الدفاتر",
   "short_name": "السيرة الذاتية لموظفي مسك الدفاتر",
   "description": "مثال مجاني على السيرة الذاتية لموظف مسك دفاتر: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-bookkeeping-clerks.html",
+  "id": "/ar/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

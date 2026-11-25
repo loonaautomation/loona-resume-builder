@@ -2,7 +2,7 @@
   "name": "Loona Graafisten suunnittelijoiden ansioluetteloesimerkki",
   "short_name": "Graafisten suunnittelijoiden ansioluetteloesimerkki",
   "description": "Ilmainen graafisen suunnittelijan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Luovan mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-graphic-designers.html",
+  "id": "/fi/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

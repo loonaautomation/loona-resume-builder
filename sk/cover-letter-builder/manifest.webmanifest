@@ -2,7 +2,7 @@
   "name": "Loona Bezplatný nástroj na tvorbu motivačných listov",
   "short_name": "Bezplatný nástroj na tvorbu motivačných listov",
   "description": "Vytvorte si profesionálny motivačný list úplne zadarmo: sprievodný formulár s tromi odsekmi, živý náhľad A4 v klasickom štýle listu, bezplatné stiahnutie PDF - bez registrácie, bez vodoznaku, údaje nikdy neopustia vaše zariadenie.",
-  "id": "/loona-resume-builder/sk/cover-letter-builder/",
+  "id": "/sk/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

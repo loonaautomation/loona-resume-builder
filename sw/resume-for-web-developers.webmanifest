@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wasanidi wa Wavuti",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wasanidi wa Wavuti",
   "description": "Mfano wa wasifu wa kazi wa msanidi wa wavuti bure: mfano kamili wa kubuni katika kiolezo cha Ubunifu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-web-developers.html",
+  "id": "/sw/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

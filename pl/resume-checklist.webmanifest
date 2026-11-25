@@ -2,7 +2,7 @@
   "name": "Loona Lista kontrolna CV",
   "short_name": "Lista kontrolna CV",
   "description": "Darmowa interaktywna lista kontrolna CV: 20 kontroli ATS i kompletności z postępem zapisywanym w Twojej przeglądarce. Współpracuje z darmowymi kreatorami Loona Resume Builder i Cover Letter Builder.",
-  "id": "/loona-resume-builder/pl/resume-checklist.html",
+  "id": "/pl/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Currículum de nivel inicial",
   "short_name": "Currículum de nivel inicial",
   "description": "Ejemplo de currículum de nivel inicial gratuito: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
-  "id": "/loona-resume-builder/es/entry-level-resume.html",
+  "id": "/es/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме інженерів-електриків",
   "short_name": "Приклад резюме інженерів-електриків",
   "description": "Безкоштовний приклад резюме інженера-електрика: повний вигаданий зразок у шаблоні Сучасний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-electrical-engineers.html",
+  "id": "/uk/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mẫu CV Cổ điển",
   "short_name": "Mẫu CV Cổ điển",
   "description": "Mẫu CV Cổ điển miễn phí: nó dùng để làm gì, ai nên sử dụng, khi nào không nên dùng, và một mẫu trực tiếp. Mở nó trong trình tạo và tải PDF của bạn xuống — không cần đăng ký.",
-  "id": "/loona-resume-builder/vi/resume-template-classic.html",
+  "id": "/vi/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

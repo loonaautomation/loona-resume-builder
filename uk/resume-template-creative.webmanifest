@@ -2,7 +2,7 @@
   "name": "Loona Креативний шаблон резюме",
   "short_name": "Креативний шаблон резюме",
   "description": "Безкоштовний креативний шаблон резюме: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-creative.html",
+  "id": "/uk/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona How to Write a Resume That Gets Interviews",
   "short_name": "How to Write a Resume That",
   "description": "دليل عملي مجاني لكتابة سيرة ذاتية تُقرأ: البنية، وصيغة ملخص، ونقاط إنجاز بالأرقام، والمهارات، والأخطاء الشائعة، ونصائح ATS. ثم ابنِ سيرتك مجانًا.",
-  "id": "/loona-resume-builder/ar/resume-tips.html",
+  "id": "/ar/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

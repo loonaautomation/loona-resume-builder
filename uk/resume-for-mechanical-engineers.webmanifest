@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме інженерів-механіків",
   "short_name": "Приклад резюме інженерів-механіків",
   "description": "Безкоштовний приклад резюме інженера-механіка: повний вигаданий зразок у шаблоні Класичний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-mechanical-engineers.html",
+  "id": "/uk/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

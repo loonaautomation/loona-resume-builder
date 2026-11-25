@@ -2,7 +2,7 @@
   "name": "Loona CV-mal for ledere",
   "short_name": "CV-mal for ledere",
   "description": "Gratis CV-mal for ledere: hva den er til, hvem som bør bruke den, når du ikke bør bruke den, og et direkte eksempel. Åpne den i byggeren og last ned PDF-en din — ingen registrering.",
-  "id": "/loona-resume-builder/nb/resume-template-executive.html",
+  "id": "/nb/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

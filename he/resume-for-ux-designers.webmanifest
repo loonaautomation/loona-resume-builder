@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים למעצבי UX",
   "short_name": "דוגמת קורות חיים למעצבי UX",
   "description": "דוגמת קורות חיים חינמית למעצב UX: דוגמה בדיונית מלאה בתבנית היצירתית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-ux-designers.html",
+  "id": "/he/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

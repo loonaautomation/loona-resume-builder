@@ -2,7 +2,7 @@
   "name": "Loona Vastavalmistuneen ansioluetteloesimerkki",
   "short_name": "Vastavalmistuneen ansioluetteloesimerkki",
   "description": "Ilmainen vastavalmistuneen ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/fresher-resume.html",
+  "id": "/fi/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

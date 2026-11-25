@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Επαγγελματία Μέσης Καριέρας",
   "short_name": "Παράδειγμα Βιογραφικού Επαγγελματία Μέσης Καριέρας",
   "description": "Δωρεάν παράδειγμα βιογραφικού επαγγελματία μέσης καριέρας: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/mid-career-resume.html",
+  "id": "/el/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

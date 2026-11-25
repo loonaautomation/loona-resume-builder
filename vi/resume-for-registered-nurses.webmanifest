@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Điều dưỡng viên",
   "short_name": "Ví dụ CV Điều dưỡng viên",
   "description": "Ví dụ CV điều dưỡng viên miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Chuyên nghiệp, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-registered-nurses.html",
+  "id": "/vi/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

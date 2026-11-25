@@ -2,7 +2,7 @@
   "name": "Loona Poliisien ansioluetteloesimerkki",
   "short_name": "Poliisien ansioluetteloesimerkki",
   "description": "Ilmainen poliisin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-police-officers.html",
+  "id": "/fi/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме студента",
   "short_name": "Приклад резюме студента",
   "description": "Безкоштовний приклад резюме студента: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/student-resume.html",
+  "id": "/uk/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

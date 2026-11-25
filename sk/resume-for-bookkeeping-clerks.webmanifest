@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre účtovných referentov",
   "short_name": "Životopis pre účtovných referentov",
   "description": "Bezplatný príklad životopisu pre účtovného referenta: kompletný fiktívny vzor v šablóne ATS, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-bookkeeping-clerks.html",
+  "id": "/sk/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pankkivirkailijoiden ansioluetteloesimerkki",
   "short_name": "Pankkivirkailijoiden ansioluetteloesimerkki",
   "description": "Ilmainen pankkivirkailijan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-bank-tellers.html",
+  "id": "/fi/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

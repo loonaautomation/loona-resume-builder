@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لعلماء البيانات",
   "short_name": "مثال على السيرة الذاتية لعلماء البيانات",
   "description": "مثال مجاني على السيرة الذاتية لعالم بيانات: نموذج خيالي كامل في قالب Modern، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-data-scientists.html",
+  "id": "/ar/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

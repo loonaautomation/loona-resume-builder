@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Κοινωνικών Λειτουργών",
   "short_name": "Παράδειγμα Βιογραφικού Κοινωνικών Λειτουργών",
   "description": "Δωρεάν παράδειγμα βιογραφικού κοινωνικού λειτουργού: ένα πλήρες φανταστικό δείγμα στο Κλασικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-social-workers.html",
+  "id": "/el/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

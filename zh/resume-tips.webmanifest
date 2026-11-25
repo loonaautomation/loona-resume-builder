@@ -2,7 +2,7 @@
   "name": "Loona 如何写出能赢得面试机会的简历",
   "short_name": "如何写出能赢得面试机会的简历",
   "description": "一份实用、免费的指南，教您写出会被认真阅读的简历：结构、简介公式、带数字的成就要点、技能、常见错误和 ATS 技巧。然后免费制作您自己的简历。",
-  "id": "/loona-resume-builder/zh/resume-tips.html",
+  "id": "/zh/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

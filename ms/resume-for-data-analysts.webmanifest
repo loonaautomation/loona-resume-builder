@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Penganalisis Data",
   "short_name": "Contoh Resume Penganalisis Data",
   "description": "Contoh resume penganalisis data percuma: contoh rekaan yang lengkap dalam templat Kompak, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-data-analysts.html",
+  "id": "/ms/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

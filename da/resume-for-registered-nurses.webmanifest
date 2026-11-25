@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til sygeplejersker",
   "short_name": "Eksempel på CV til sygeplejersker",
   "description": "Gratis eksempel på CV til sygeplejersker: et komplet fiktivt eksempel i Professionel-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-registered-nurses.html",
+  "id": "/da/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Önéletrajz-ellenőrzőlista - ATS & teljességi ellenőrzés",
   "short_name": "Önéletrajz-ellenőrzőlista - ATS & teljességi ellenőrzés",
   "description": "Ingyenes interaktív önéletrajz-ellenőrzőlista: 20 ATS- és teljességi ellenőrzés, amelynek állása mentődik a böngészőjében. Jól párosítható az ingyenes Loona Önéletrajz-készítővel és Motivációslevél-készítővel.",
-  "id": "/loona-resume-builder/hu/resume-checklist.html",
+  "id": "/hu/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

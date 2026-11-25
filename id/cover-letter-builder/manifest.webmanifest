@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Surat Lamaran Gratis",
   "short_name": "Pembuat Surat Lamaran Gratis",
   "description": "Buat surat lamaran profesional sepenuhnya gratis: formulir tiga paragraf berpanduan, pratinjau A4 langsung dalam gaya surat Klasik, unduhan PDF gratis - tanpa pendaftaran, tanpa tanda air, data tidak pernah meninggalkan perangkat Anda.",
-  "id": "/loona-resume-builder/id/cover-letter-builder/",
+  "id": "/id/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

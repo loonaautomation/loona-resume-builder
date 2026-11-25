@@ -2,7 +2,7 @@
   "name": "Loona 数据科学家简历范例",
   "short_name": "数据科学家简历范例",
   "description": "免费的数据科学家简历范例：一份完整的虚构范例，使用现代模板，附招聘人员建议和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/resume-for-data-scientists.html",
+  "id": "/zh/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

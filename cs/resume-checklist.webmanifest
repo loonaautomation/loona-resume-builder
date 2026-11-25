@@ -2,7 +2,7 @@
   "name": "Loona Resume Checklist",
   "short_name": "Kontrolní seznam životopisu",
   "description": "Bezplatný interaktivní kontrolní seznam pro životopis: 20 kontrol ATS a úplnosti s průběhem, který se ukládá ve vašem prohlížeči. Hodí se k bezplatným nástrojům Loona Resume Builder a Cover Letter Builder.",
-  "id": "/loona-resume-builder/cs/resume-checklist.html",
+  "id": "/cs/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

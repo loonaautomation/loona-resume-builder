@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме медичних асистентів",
   "short_name": "Приклад резюме медичних асистентів",
   "description": "Безкоштовний приклад резюме медичного асистента: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-medical-assistants.html",
+  "id": "/uk/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

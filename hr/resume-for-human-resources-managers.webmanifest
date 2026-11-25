@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za voditelje ljudskih resursa",
   "short_name": "Voditelji ljudskih resursa",
   "description": "Besplatni primjer životopisa za voditelja ljudskih resursa: potpuni izmišljeni primjer u predlošku Profesionalnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-human-resources-managers.html",
+  "id": "/hr/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

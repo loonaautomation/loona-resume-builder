@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Διευθυντών Έργων",
   "short_name": "Παράδειγμα Βιογραφικού Διευθυντών Έργων",
   "description": "Δωρεάν παράδειγμα βιογραφικού διευθυντή έργων: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-project-managers.html",
+  "id": "/el/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

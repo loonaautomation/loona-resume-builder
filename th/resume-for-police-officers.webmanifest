@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับเจ้าหน้าที่ตำรวจ",
   "short_name": "ตัวอย่างเรซูเม่สำหรับเจ้าหน้าที่ตำรวจ",
   "description": "ตัวอย่างเรซูเม่เจ้าหน้าที่ตำรวจฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลต ATS เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-police-officers.html",
+  "id": "/th/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

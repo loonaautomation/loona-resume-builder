@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме специалистов по данным",
   "short_name": "Пример резюме специалистов по данным",
   "description": "Бесплатный пример резюме специалиста по данным: полный вымышленный образец в шаблоне Modern, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-data-scientists.html",
+  "id": "/ru/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

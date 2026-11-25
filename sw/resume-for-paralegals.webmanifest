@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wasaidizi wa Kisheria",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wasaidizi wa Kisheria",
   "description": "Mfano wa wasifu wa kazi wa msaidizi wa kisheria bure: mfano kamili wa kubuni katika kiolezo cha Kitaalamu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-paralegals.html",
+  "id": "/sw/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

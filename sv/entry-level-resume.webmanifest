@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för nybörjarnivå",
   "short_name": "Exempel på CV för nybörjarnivå",
   "description": "Gratis exempel på CV för nybörjarnivå: ett komplett fiktivt exempel, nivåspecifik vägledning och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/entry-level-resume.html",
+  "id": "/sv/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

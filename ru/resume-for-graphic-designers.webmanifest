@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме графического дизайнера",
   "short_name": "Резюме графического дизайнера",
   "description": "Бесплатный пример резюме графического дизайнера: полный вымышленный образец в шаблоне Creative, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-graphic-designers.html",
+  "id": "/ru/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

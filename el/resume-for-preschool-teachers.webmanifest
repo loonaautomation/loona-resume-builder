@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Νηπιαγωγών",
   "short_name": "Παράδειγμα Βιογραφικού Νηπιαγωγών",
   "description": "Δωρεάν παράδειγμα βιογραφικού νηπιαγωγού: ένα πλήρες φανταστικό δείγμα στο Κλασικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-preschool-teachers.html",
+  "id": "/el/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

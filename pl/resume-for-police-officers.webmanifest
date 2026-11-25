@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla policjantów",
   "short_name": "Przykład CV dla policjantów",
   "description": "Darmowy przykład CV dla policjantów: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-police-officers.html",
+  "id": "/pl/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

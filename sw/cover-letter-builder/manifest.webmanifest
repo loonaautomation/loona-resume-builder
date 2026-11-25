@@ -2,7 +2,7 @@
   "name": "Loona Kijenga Barua ya Maombi Bure",
   "short_name": "Kijenga Barua ya Maombi Bure",
   "description": "Jenga barua ya maombi ya kitaalamu bure kabisa: fomu inayoongozwa ya aya tatu, hakiki ya moja kwa moja ya A4 katika mtindo wa barua wa Klasiki, upakuaji wa PDF bure - bila kujisajili, bila alama ya maji, data haitoki kamwe kwenye kifaa chako.",
-  "id": "/loona-resume-builder/sw/cover-letter-builder/",
+  "id": "/sw/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

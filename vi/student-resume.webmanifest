@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV cho Sinh viên",
   "short_name": "Ví dụ CV cho Sinh viên",
   "description": "Ví dụ CV cho sinh viên miễn phí: một mẫu hư cấu hoàn chỉnh, hướng dẫn theo cấp độ và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/student-resume.html",
+  "id": "/vi/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

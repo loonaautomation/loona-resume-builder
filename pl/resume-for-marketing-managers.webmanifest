@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kierowników marketingu",
   "short_name": "CV dla kierowników marketingu",
   "description": "Darmowy przykład CV dla kierowników marketingu: kompletny fikcyjny przykład w szablonie kreatywnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-marketing-managers.html",
+  "id": "/pl/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

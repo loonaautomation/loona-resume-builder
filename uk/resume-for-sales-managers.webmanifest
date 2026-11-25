@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме менеджерів з продажу",
   "short_name": "Приклад резюме менеджерів з продажу",
   "description": "Безкоштовний приклад резюме менеджера з продажу: повний вигаданий зразок у шаблоні Для керівників, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-sales-managers.html",
+  "id": "/uk/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

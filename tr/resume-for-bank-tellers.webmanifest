@@ -2,7 +2,7 @@
   "name": "Loona Banka Veznedarları Özgeçmiş Örneği",
   "short_name": "Banka Veznedarları Özgeçmiş Örneği",
   "description": "Ücretsiz banka veznedarı özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-bank-tellers.html",
+  "id": "/tr/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

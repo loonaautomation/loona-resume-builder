@@ -2,7 +2,7 @@
   "name": "Loona Sosyal Hizmet Uzmanları Özgeçmiş Örneği",
   "short_name": "Sosyal Hizmet Uzmanları Özgeçmiş Örneği",
   "description": "Ücretsiz sosyal hizmet uzmanı özgeçmiş örneği: Klasik şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-social-workers.html",
+  "id": "/tr/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

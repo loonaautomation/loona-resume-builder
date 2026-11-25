@@ -2,7 +2,7 @@
   "name": "Loona Шаблон за автобиография „Креативен“",
   "short_name": "Шаблон за автобиография „Креативен“",
   "description": "Безплатен шаблон за автобиография „Креативен“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
-  "id": "/loona-resume-builder/bg/resume-template-creative.html",
+  "id": "/bg/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

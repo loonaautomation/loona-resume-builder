@@ -2,7 +2,7 @@
   "name": "Loona Hallinnollisten assistenttien ansioluetteloesimerkki",
   "short_name": "Hallinnollisten assistenttien ansioluetteloesimerkki",
   "description": "Ilmainen hallinnollisen assistentin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Minimalistisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-administrative-assistants.html",
+  "id": "/fi/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Alakoulun opettajien ansioluetteloesimerkki",
   "short_name": "Alakoulun opettajien ansioluetteloesimerkki",
   "description": "Ilmainen alakoulun opettajan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Klassisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-elementary-school-teachers.html",
+  "id": "/fi/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

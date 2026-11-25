@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nhân viên Chăm sóc Khách hàng",
   "short_name": "Ví dụ CV Nhân viên Chăm sóc Khách hàng",
   "description": "Ví dụ CV nhân viên Chăm sóc Khách hàng miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu ATS, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-customer-service-representatives.html",
+  "id": "/vi/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

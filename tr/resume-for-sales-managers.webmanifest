@@ -2,7 +2,7 @@
   "name": "Loona Satış Yöneticileri Özgeçmiş Örneği",
   "short_name": "Satış Yöneticileri Özgeçmiş Örneği",
   "description": "Ücretsiz satış yöneticisi özgeçmiş örneği: Yönetici şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-sales-managers.html",
+  "id": "/tr/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

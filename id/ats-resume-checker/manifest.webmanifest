@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Resume ATS Gratis",
   "short_name": "Pemeriksa Resume ATS",
   "description": "Periksa resume Anda gratis: tempel resume Anda untuk menilai kelengkapan, bagian, kata kerja aksi, dan angkanya, dan tempel deskripsi pekerjaan untuk melihat skor kecocokan kata kunci Anda. Tanpa pendaftaran - semuanya berjalan di browser Anda, tidak ada yang diunggah.",
-  "id": "/loona-resume-builder/id/ats-resume-checker/",
+  "id": "/id/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

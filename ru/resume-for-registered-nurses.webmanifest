@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме медицинской сестры",
   "short_name": "Резюме медицинской сестры",
   "description": "Бесплатный пример резюме дипломированной медицинской сестры: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-registered-nurses.html",
+  "id": "/ru/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

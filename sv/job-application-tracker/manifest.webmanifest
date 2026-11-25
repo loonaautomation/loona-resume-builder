@@ -2,7 +2,7 @@
   "name": "Loona Gratis spårare för jobbansökningar",
   "short_name": "Spårare för jobbansökningar",
   "description": "Spåra varje jobbansökan gratis: en enkel Kanban-tavla (Sparad, Ansökt, Intervju, Erbjudande) med deadlines, uppföljningspåminnelser och CSV-/JSON-export. Betalda spårare tar $29-$40 i månaden - den här är gratis, kräver ingen registrering, och dina data lämnar aldrig din enhet.",
-  "id": "/loona-resume-builder/sv/job-application-tracker/",
+  "id": "/sv/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

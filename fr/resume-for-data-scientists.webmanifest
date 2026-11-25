@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Scientifiques des données",
   "short_name": "Exemple de CV Scientifiques",
   "description": "Exemple de CV gratuit de scientifique des données : un exemple fictif complet dans le modèle Modern, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-data-scientists.html",
+  "id": "/fr/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

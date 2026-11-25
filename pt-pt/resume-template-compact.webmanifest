@@ -2,7 +2,7 @@
   "name": "Loona Modelo de Currículo Compact",
   "short_name": "Modelo de Currículo Compact",
   "description": "Modelo de currículo Compact grátis: para que serve, quem o deve usar, quando não o deve usar, e um exemplo em direto. Abra-o no criador e transfira o seu PDF — sem registo.",
-  "id": "/loona-resume-builder/pt-pt/resume-template-compact.html",
+  "id": "/pt-pt/resume-template-compact.html",
   "start_url": "./resume-template-compact.html",
   "scope": "./resume-template-compact.html",
   "display": "standalone",

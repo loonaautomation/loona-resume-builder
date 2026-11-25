@@ -2,7 +2,7 @@
   "name": "Loona Шаблон за автобиография „Класически“",
   "short_name": "Шаблон за автобиография „Класически“",
   "description": "Безплатен шаблон за автобиография „Класически“: за какво служи, кой трябва да го използва, кога да не го използва и жив образец. Отворете го в конструктора и изтеглете своя PDF — без регистрация.",
-  "id": "/loona-resume-builder/bg/resume-template-classic.html",
+  "id": "/bg/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

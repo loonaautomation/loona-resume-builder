@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับผู้มีประสบการณ์ระดับกลาง",
   "short_name": "ตัวอย่างเรซูเม่สำหรับผู้มีประสบก",
   "description": "ตัวอย่างเรซูเม่ผู้มีประสบการณ์ระดับกลางฟรี: ตัวอย่างสมมติที่สมบูรณ์ คำแนะนำเฉพาะระดับ และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/mid-career-resume.html",
+  "id": "/th/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

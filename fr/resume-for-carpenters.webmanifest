@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Charpentiers",
   "short_name": "Exemple de CV Charpentiers",
   "description": "Exemple de CV gratuit de charpentier : un exemple fictif complet dans le modèle Ats, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-carpenters.html",
+  "id": "/fr/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

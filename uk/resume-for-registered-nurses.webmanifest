@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме дипломованих медсестер",
   "short_name": "Приклад резюме дипломованих медсестер",
   "description": "Безкоштовний приклад резюме дипломованої медсестри: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-registered-nurses.html",
+  "id": "/uk/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

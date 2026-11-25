@@ -2,7 +2,7 @@
   "name": "Loona Kokeneen ammattilaisen ansioluetteloesimerkki",
   "short_name": "Kokeneen ammattilaisen ansioluetteloesimerkki",
   "description": "Ilmainen kokeneen ammattilaisen ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/senior-resume.html",
+  "id": "/fi/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

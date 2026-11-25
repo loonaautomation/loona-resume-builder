@@ -2,7 +2,7 @@
   "name": "Loona Gratis ATS-cv-checker",
   "short_name": "ATS-cv-checker",
   "description": "Controleer je cv gratis: plak je cv om een score te krijgen voor volledigheid, secties, actiewerkwoorden en cijfers, en plak een vacaturetekst om je matchscore voor trefwoorden te zien. Geen aanmelding - alles draait in je browser, er wordt niets geüpload.",
-  "id": "/loona-resume-builder/nl/ats-resume-checker/",
+  "id": "/nl/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

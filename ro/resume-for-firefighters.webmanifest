@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru pompieri",
   "short_name": "Exemplu de CV pentru pompieri",
   "description": "Exemplu gratuit de CV de pompier: un exemplu fictiv complet în șablonul ATS, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-firefighters.html",
+  "id": "/ro/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

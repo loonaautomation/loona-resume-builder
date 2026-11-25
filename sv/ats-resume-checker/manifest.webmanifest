@@ -2,7 +2,7 @@
   "name": "Loona Gratis ATS-kontroll för CV",
   "short_name": "ATS-kontroll för CV",
   "description": "Kontrollera ditt CV gratis: klistra in ditt CV för att få poäng för dess fullständighet, avsnitt, handlingsverb och siffror, och klistra in en jobbannons för att se din poäng för nyckelordsmatchning. Ingen registrering - allt körs i din webbläsare, ingenting laddas upp.",
-  "id": "/loona-resume-builder/sv/ats-resume-checker/",
+  "id": "/sv/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

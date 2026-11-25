@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Προγραμματιστών Λογισμικού",
   "short_name": "Παράδειγμα Βιογραφικού Προγραμματιστών Λογισμικού",
   "description": "Δωρεάν παράδειγμα βιογραφικού προγραμματιστή λογισμικού: ένα πλήρες φανταστικό δείγμα στο Μοντέρνο πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-software-developers.html",
+  "id": "/el/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

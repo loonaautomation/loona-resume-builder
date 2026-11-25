@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for fysioterapeuter",
   "short_name": "CV-eksempel for fysioterapeuter",
   "description": "Gratis CV-eksempel for fysioterapeut: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-physical-therapists.html",
+  "id": "/nb/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

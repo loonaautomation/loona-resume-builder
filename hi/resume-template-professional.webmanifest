@@ -2,7 +2,7 @@
   "name": "Loona Professional रिज़्यूमे टेम्पलेट",
   "short_name": "Professional रिज़्यूमे टेम्पलेट",
   "description": "मुफ़्त Professional रिज़्यूमे टेम्पलेट: यह किसके लिए है, किसे इसका उपयोग करना चाहिए, कब नहीं करना चाहिए, और एक लाइव नमूना। इसे बिल्डर में खोलें और अपनी PDF डाउनलोड करें — कोई साइन-अप नहीं।",
-  "id": "/loona-resume-builder/hi/resume-template-professional.html",
+  "id": "/hi/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

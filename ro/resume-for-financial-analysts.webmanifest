@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru analiști financiari",
   "short_name": "CV pentru analiști financiari",
   "description": "Exemplu gratuit de CV de analist financiar: un exemplu fictiv complet în șablonul Profesional, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-financial-analysts.html",
+  "id": "/ro/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

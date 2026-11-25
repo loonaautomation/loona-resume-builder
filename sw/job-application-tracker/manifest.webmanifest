@@ -2,7 +2,7 @@
   "name": "Loona Kifuatiliaji Bure cha Maombi ya Kazi",
   "short_name": "Kifuatiliaji cha Maombi ya Kazi",
   "description": "Fuatilia kila ombi la kazi bure: ubao rahisi wa Kanban (Imehifadhiwa, Imetumwa, Usaili, Ofa) wenye tarehe za mwisho, vikumbusho vya ufuatiliaji na uhamishaji wa CSV/JSON. Vifuatiliaji vya kulipia hutoza $29-$40 kwa mwezi - hiki ni bure, hakihitaji kujisajili, na data yako haitoki kamwe kwenye kifaa chako.",
-  "id": "/loona-resume-builder/sw/job-application-tracker/",
+  "id": "/sw/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

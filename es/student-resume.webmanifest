@@ -2,7 +2,7 @@
   "name": "Loona Currículum de estudiante",
   "short_name": "Currículum de estudiante",
   "description": "Ejemplo de currículum de estudiante gratuito: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
-  "id": "/loona-resume-builder/es/student-resume.html",
+  "id": "/es/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

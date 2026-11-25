@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме інженерів-будівельників",
   "short_name": "Приклад резюме інженерів-будівельників",
   "description": "Безкоштовний приклад резюме інженера-будівельника: повний вигаданий зразок у шаблоні Класичний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-civil-engineers.html",
+  "id": "/uk/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

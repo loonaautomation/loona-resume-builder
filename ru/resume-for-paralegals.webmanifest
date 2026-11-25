@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме помощника юриста",
   "short_name": "Пример резюме помощника юриста",
   "description": "Бесплатный пример резюме помощника юриста: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-paralegals.html",
+  "id": "/ru/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

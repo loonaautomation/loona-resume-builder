@@ -2,7 +2,7 @@
   "name": "Loona Gratis CV-byggare online",
   "short_name": "Gratis CV-byggare online",
   "description": "Bygg ditt CV gratis online: liveförhandsgranskning i A4, 8 mallar (Klassisk, Modern, Minimal, ATS, Kreativ, Professionell, Exekutiv, Kompakt), obegränsat antal erfarenhets- och utbildningsposter, gratis PDF-nedladdning. Ingen registrering, ingen vattenstämpel - dina uppgifter lämnar aldrig din enhet.",
-  "id": "/loona-resume-builder/sv/resume-builder/",
+  "id": "/sv/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

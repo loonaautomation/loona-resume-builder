@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме вихователів дошкільних закладів",
   "short_name": "Приклад резюме вихователів дошкільних закладів",
   "description": "Безкоштовний приклад резюме вихователя дошкільного закладу: повний вигаданий зразок у шаблоні Класичний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-preschool-teachers.html",
+  "id": "/uk/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

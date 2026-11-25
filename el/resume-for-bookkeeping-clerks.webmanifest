@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Υπαλλήλων Λογιστηρίου",
   "short_name": "Παράδειγμα Βιογραφικού Υπαλλήλων Λογιστηρίου",
   "description": "Δωρεάν παράδειγμα βιογραφικού υπαλλήλου λογιστηρίου: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-bookkeeping-clerks.html",
+  "id": "/el/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

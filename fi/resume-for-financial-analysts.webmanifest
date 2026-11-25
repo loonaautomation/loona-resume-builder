@@ -2,7 +2,7 @@
   "name": "Loona Talousanalyytikoiden ansioluetteloesimerkki",
   "short_name": "Talousanalyytikoiden ansioluetteloesimerkki",
   "description": "Ilmainen talousanalyytikon ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Ammattimaisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-financial-analysts.html",
+  "id": "/fi/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

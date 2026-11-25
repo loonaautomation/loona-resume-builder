@@ -2,7 +2,7 @@
   "name": "Loona エグゼクティブ履歴書テンプレート",
   "short_name": "エグゼクティブ履歴書テンプレート",
   "description": "無料のエグゼクティブ履歴書テンプレート：用途、対象者、使わない方がよい場面、ライブサンプル。ビルダーで開いてPDFをダウンロード ― 登録不要です。",
-  "id": "/loona-resume-builder/ja/resume-template-executive.html",
+  "id": "/ja/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

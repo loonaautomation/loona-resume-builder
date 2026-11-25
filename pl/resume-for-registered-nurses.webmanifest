@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla pielęgniarek dyplomowanych",
   "short_name": "CV dla pielęgniarek dyplomowanych",
   "description": "Darmowy przykład CV dla pielęgniarek dyplomowanych: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-registered-nurses.html",
+  "id": "/pl/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

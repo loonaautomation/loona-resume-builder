@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме банківських касирів",
   "short_name": "Приклад резюме банківських касирів",
   "description": "Безкоштовний приклад резюме банківського касира: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-bank-tellers.html",
+  "id": "/uk/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

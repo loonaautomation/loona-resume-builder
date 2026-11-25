@@ -2,7 +2,7 @@
   "name": "Loona Banki pénztárosok önéletrajz-mintája",
   "short_name": "Banki pénztárosok önéletrajz-mintája",
   "description": "Ingyenes banki pénztáros önéletrajz-minta: teljes, fiktív minta az ATS sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-bank-tellers.html",
+  "id": "/hu/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kostenloser Bewerbungs-Tracker",
   "short_name": "Bewerbungs-Tracker",
   "description": "Verfolgen Sie jede Bewerbung kostenlos: eine einfache Kanban-Übersicht (Gespeichert, Beworben, Vorstellungsgespräch, Angebot) mit Fristen, Erinnerungen für Nachfassaktionen und CSV-/JSON-Export. Bezahlte Tracker verlangen $29-$40 im Monat – dieser ist kostenlos, braucht keine Anmeldung, und Ihre Daten verlassen Ihr Gerät nie.",
-  "id": "/loona-resume-builder/de/job-application-tracker/",
+  "id": "/de/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro elektrikáře",
   "short_name": "Vzor životopisu pro elektrikáře",
   "description": "Bezplatný vzor životopisu pro elektrikáře: kompletní fiktivní ukázka v šabloně ATS, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-electricians.html",
+  "id": "/cs/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

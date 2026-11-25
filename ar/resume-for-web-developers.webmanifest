@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لمطوري الويب",
   "short_name": "مثال على السيرة الذاتية لمطوري الويب",
   "description": "مثال مجاني على السيرة الذاتية لمطور ويب: نموذج خيالي كامل في قالب Creative، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-web-developers.html",
+  "id": "/ar/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

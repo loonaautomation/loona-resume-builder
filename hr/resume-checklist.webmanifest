@@ -2,7 +2,7 @@
   "name": "Loona Resume Checklist",
   "short_name": "Kontrolni popis životopisa",
   "description": "Besplatni interaktivni kontrolni popis životopisa: 20 ATS provjera i provjera potpunosti s napretkom koji se sprema u vašem pregledniku. Odlično ide uz besplatni Loona alat za životopis i alat za motivacijsko pismo.",
-  "id": "/loona-resume-builder/hr/resume-checklist.html",
+  "id": "/hr/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

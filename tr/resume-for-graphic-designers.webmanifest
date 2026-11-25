@@ -2,7 +2,7 @@
   "name": "Loona Grafik Tasarımcılar Özgeçmiş Örneği",
   "short_name": "Grafik Tasarımcılar Özgeçmiş Örneği",
   "description": "Ücretsiz grafik tasarımcı özgeçmiş örneği: Yaratıcı şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-graphic-designers.html",
+  "id": "/tr/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

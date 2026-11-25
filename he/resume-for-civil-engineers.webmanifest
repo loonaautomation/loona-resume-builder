@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים למהנדסים אזרחיים",
   "short_name": "דוגמת קורות חיים למהנדסים אזרחיים",
   "description": "דוגמת קורות חיים חינמית למהנדס אזרחי: דוגמה בדיונית מלאה בתבנית הקלאסית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-civil-engineers.html",
+  "id": "/he/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

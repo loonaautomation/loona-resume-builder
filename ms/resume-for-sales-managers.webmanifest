@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pengurus Jualan",
   "short_name": "Contoh Resume Pengurus Jualan",
   "description": "Contoh resume pengurus jualan percuma: contoh rekaan yang lengkap dalam templat Eksekutif, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-sales-managers.html",
+  "id": "/ms/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

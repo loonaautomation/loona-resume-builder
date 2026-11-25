@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru asistenți medicali generaliști",
   "short_name": "CV pentru asistenți medicali generaliști",
   "description": "Exemplu gratuit de CV de asistent medical generalist: un exemplu fictiv complet în șablonul Profesional, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-registered-nurses.html",
+  "id": "/ro/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

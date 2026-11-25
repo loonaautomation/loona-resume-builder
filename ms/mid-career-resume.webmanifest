@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pertengahan Kerjaya",
   "short_name": "Contoh Resume Pertengahan Kerjaya",
   "description": "Contoh resume pertengahan kerjaya percuma: contoh rekaan yang lengkap, panduan khusus peringkat dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/mid-career-resume.html",
+  "id": "/ms/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

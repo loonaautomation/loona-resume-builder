@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме генеральних та операційних менеджерів",
   "short_name": "Приклад резюме генеральних та операційних менеджерів",
   "description": "Безкоштовний приклад резюме генерального та операційного менеджера: повний вигаданий зразок у шаблоні Для керівників, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-general-and-operations-managers.html",
+  "id": "/uk/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fysioterapeuttien ansioluetteloesimerkki",
   "short_name": "Fysioterapeuttien ansioluetteloesimerkki",
   "description": "Ilmainen fysioterapeutin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Ammattimaisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-physical-therapists.html",
+  "id": "/fi/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

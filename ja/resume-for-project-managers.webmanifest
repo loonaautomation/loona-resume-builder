@@ -2,7 +2,7 @@
   "name": "Loona プロジェクトマネージャーの履歴書サンプル",
   "short_name": "プロジェクトマネージャーの履歴書サンプル",
   "description": "プロジェクトマネージャーの無料履歴書サンプル：プロフェッショナルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-project-managers.html",
+  "id": "/ja/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

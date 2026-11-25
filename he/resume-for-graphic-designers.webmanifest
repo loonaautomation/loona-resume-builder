@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים למעצבים גרפיים",
   "short_name": "קורות חיים למעצבים גרפיים",
   "description": "דוגמת קורות חיים חינמית למעצב גרפי: דוגמה בדיונית מלאה בתבנית היצירתית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-graphic-designers.html",
+  "id": "/he/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

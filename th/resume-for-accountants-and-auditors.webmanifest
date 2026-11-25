@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักบัญชีและผู้ตรวจสอบบัญชี",
   "short_name": "นักบัญชีและผู้ตรวจสอบบัญชี",
   "description": "ตัวอย่างเรซูเม่นักบัญชีและผู้ตรวจสอบบัญชีฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-accountants-and-auditors.html",
+  "id": "/th/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

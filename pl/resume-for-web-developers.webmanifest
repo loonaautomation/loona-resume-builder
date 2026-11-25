@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla twórców stron internetowych",
   "short_name": "Przykład CV dla twórców stron internetowych",
   "description": "Darmowy przykład CV dla twórców stron internetowych: kompletny fikcyjny przykład w szablonie kreatywnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-web-developers.html",
+  "id": "/pl/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

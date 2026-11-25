@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمعلمي رياض الأطفال",
   "short_name": "السيرة الذاتية لمعلمي رياض الأطفال",
   "description": "مثال مجاني على السيرة الذاتية لمعلم رياض أطفال: نموذج خيالي كامل في قالب Classic، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-preschool-teachers.html",
+  "id": "/ar/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

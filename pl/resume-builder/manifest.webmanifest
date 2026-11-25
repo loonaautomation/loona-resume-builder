@@ -2,7 +2,7 @@
   "name": "Loona Darmowy kreator CV online",
   "short_name": "Darmowy kreator CV online",
   "description": "Stwórz swoje CV za darmo online: podgląd A4 na żywo, 8 szablonów (klasyczny, nowoczesny, minimalistyczny, ATS, kreatywny, profesjonalny, dla kadry kierowniczej, kompaktowy), nieograniczone wpisy doświadczenia i wykształcenia, darmowe pobieranie PDF. Bez rejestracji, bez znaku wodnego — Twoje dane nigdy nie opuszczają Twojego urządzenia.",
-  "id": "/loona-resume-builder/pl/resume-builder/",
+  "id": "/pl/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla specjalistów data science",
   "short_name": "Przykład CV dla specjalistów data science",
   "description": "Darmowy przykład CV dla specjalistów data science: kompletny fikcyjny przykład w szablonie nowoczesnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-data-scientists.html",
+  "id": "/pl/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

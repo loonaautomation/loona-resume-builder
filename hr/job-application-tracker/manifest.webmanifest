@@ -2,7 +2,7 @@
   "name": "Loona besplatno praćenje prijava za posao",
   "short_name": "Prijave za posao",
   "description": "Pratite svaku prijavu za posao besplatno: jednostavna Kanban ploča (Spremljeno, Prijavljeno, Razgovor, Ponuda) s rokovima, podsjetnicima za naknadni kontakt i izvozom u CSV/JSON. Plaćeni alati naplaćuju $29–$40 mjesečno — ovaj je besplatan, bez registracije, a vaši podaci nikada ne napuštaju vaš uređaj.",
-  "id": "/loona-resume-builder/hr/job-application-tracker/",
+  "id": "/hr/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

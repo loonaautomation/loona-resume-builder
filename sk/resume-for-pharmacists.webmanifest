@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu farmaceuta",
   "short_name": "Príklad životopisu farmaceuta",
   "description": "Bezplatný príklad životopisu pre lekárnika: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-pharmacists.html",
+  "id": "/sk/resume-for-pharmacists.html",
   "start_url": "./resume-for-pharmacists.html",
   "scope": "./resume-for-pharmacists.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Perakende Satış Temsilcileri Özgeçmiş Örneği",
   "short_name": "Perakende Satış Temsilcileri",
   "description": "Ücretsiz perakende satış temsilcisi özgeçmiş örneği: Modern şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-retail-salespersons.html",
+  "id": "/tr/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

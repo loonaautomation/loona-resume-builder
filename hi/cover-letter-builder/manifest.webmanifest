@@ -2,7 +2,7 @@
   "name": "Loona मुफ़्त कवर लेटर बिल्डर",
   "short_name": "मुफ़्त कवर लेटर बिल्डर",
   "description": "एक पेशेवर कवर लेटर पूरी तरह मुफ़्त बनाएँ: मार्गदर्शित तीन-पैराग्राफ़ फ़ॉर्म, Classic लेटर शैली में लाइव A4 प्रीव्यू, मुफ़्त PDF डाउनलोड — कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं, डेटा कभी आपके डिवाइस से बाहर नहीं जाता।",
-  "id": "/loona-resume-builder/hi/cover-letter-builder/",
+  "id": "/hi/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

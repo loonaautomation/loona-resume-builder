@@ -2,7 +2,7 @@
   "name": "Loona Rakennusinsinöörien ansioluetteloesimerkki",
   "short_name": "Rakennusinsinöörien ansioluetteloesimerkki",
   "description": "Ilmainen rakennusinsinöörin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Klassisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-civil-engineers.html",
+  "id": "/fi/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

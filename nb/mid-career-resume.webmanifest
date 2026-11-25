@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel midt i karrieren",
   "short_name": "CV-eksempel midt i karrieren",
   "description": "Gratis CV-eksempel for erfaren: et komplett fiktivt eksempel, nivåspesifikk veiledning og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/mid-career-resume.html",
+  "id": "/nb/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

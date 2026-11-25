@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pembangun Perisian",
   "short_name": "Contoh Resume Pembangun Perisian",
   "description": "Contoh resume pembangun perisian percuma: contoh rekaan yang lengkap dalam templat Moden, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-software-developers.html",
+  "id": "/ms/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

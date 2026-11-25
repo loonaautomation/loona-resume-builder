@@ -2,7 +2,7 @@
   "name": "Loona Контролен списък за автобиография - проверка за ATS и пълнота",
   "short_name": "Контролен списък за автобиография - проверка за ATS и пълнота",
   "description": "Безплатен интерактивен контролен списък за автобиография: 20 проверки за ATS и пълнота, с напредък, който се запазва в браузъра ви. Съчетава се с безплатния конструктор на автобиографии Loona и конструктора на мотивационни писма.",
-  "id": "/loona-resume-builder/bg/resume-checklist.html",
+  "id": "/bg/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

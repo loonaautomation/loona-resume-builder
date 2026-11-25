@@ -2,7 +2,7 @@
   "name": "Loona Darmowy kreator listu motywacyjnego",
   "short_name": "Darmowy kreator listu motywacyjnego",
   "description": "Stwórz profesjonalny list motywacyjny całkowicie za darmo: formularz prowadzony krok po kroku w trzech akapitach, podgląd A4 na żywo w klasycznym stylu listu, darmowe pobieranie PDF — bez rejestracji, bez znaku wodnego, dane nigdy nie opuszczają Twojego urządzenia.",
-  "id": "/loona-resume-builder/pl/cover-letter-builder/",
+  "id": "/pl/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

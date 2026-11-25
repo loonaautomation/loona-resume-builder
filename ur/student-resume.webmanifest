@@ -2,7 +2,7 @@
   "name": "Loona طالب علم ریزیومے کے ریزیومے کی مثال — مفت نمونہ & ٹیمپلیٹ",
   "short_name": "طالب علم ریزیومے کے ریزیومے کی مثال — مفت نمونہ & ٹیمپلیٹ",
   "description": "مفت طالب علم ریزیومے کی مثال: ایک مکمل فرضی نمونہ، درجے کے مطابق رہنمائی اور عمومی سوالات۔ مفت بلڈر میں نمونے میں ترمیم کریں اور اپنی PDF ڈاؤن لوڈ کریں۔",
-  "id": "/loona-resume-builder/ur/student-resume.html",
+  "id": "/ur/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

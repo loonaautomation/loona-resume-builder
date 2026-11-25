@@ -2,7 +2,7 @@
   "name": "Loona UX Tasarımcıları Özgeçmiş Örneği",
   "short_name": "UX Tasarımcıları Özgeçmiş Örneği",
   "description": "Ücretsiz UX tasarımcısı özgeçmiş örneği: Yaratıcı şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-ux-designers.html",
+  "id": "/tr/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

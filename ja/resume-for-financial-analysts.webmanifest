@@ -2,7 +2,7 @@
   "name": "Loona 財務アナリストの履歴書サンプル",
   "short_name": "財務アナリストの履歴書サンプル",
   "description": "財務アナリストの無料履歴書サンプル：プロフェッショナルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-financial-analysts.html",
+  "id": "/ja/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

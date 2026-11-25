@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่มืออาชีพ",
   "short_name": "เทมเพลตเรซูเม่มืออาชีพ",
   "description": "เทมเพลตเรซูเม่มืออาชีพฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-professional.html",
+  "id": "/th/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

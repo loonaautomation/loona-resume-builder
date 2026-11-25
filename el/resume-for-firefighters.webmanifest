@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Πυροσβεστών",
   "short_name": "Παράδειγμα Βιογραφικού Πυροσβεστών",
   "description": "Δωρεάν παράδειγμα βιογραφικού πυροσβέστη: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-firefighters.html",
+  "id": "/el/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

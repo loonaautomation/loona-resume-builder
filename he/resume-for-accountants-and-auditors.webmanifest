@@ -2,7 +2,7 @@
   "name": "Loona רואי חשבון ומבקרים",
   "short_name": "רואי חשבון ומבקרים",
   "description": "דוגמת קורות חיים חינמית לרואה חשבון ומבקר: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-accountants-and-auditors.html",
+  "id": "/he/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

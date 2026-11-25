@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לשוטרים",
   "short_name": "דוגמת קורות חיים לשוטרים",
   "description": "דוגמת קורות חיים חינמית לשוטר: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-police-officers.html",
+  "id": "/he/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wahandisi wa Ujenzi",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wahandisi wa Ujenzi",
   "description": "Mfano wa wasifu wa kazi wa mhandisi wa ujenzi bure: mfano kamili wa kubuni katika kiolezo cha Klasiki, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-civil-engineers.html",
+  "id": "/sw/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

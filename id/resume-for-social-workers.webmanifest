@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pekerja Sosial",
   "short_name": "Contoh Resume Pekerja Sosial",
   "description": "Contoh resume pekerja sosial gratis: contoh fiktif lengkap dalam templat Klasik, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-social-workers.html",
+  "id": "/id/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

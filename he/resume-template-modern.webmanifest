@@ -2,7 +2,7 @@
   "name": "Loona תבנית קורות חיים מודרנית",
   "short_name": "תבנית קורות חיים מודרנית",
   "description": "תבנית קורות חיים מודרנית חינמית: למה היא מיועדת, מי צריך להשתמש בה, מתי לא להשתמש בה, ודוגמה חיה. פתחו אותה בבונה והורידו את ה-PDF שלכם — ללא הרשמה.",
-  "id": "/loona-resume-builder/he/resume-template-modern.html",
+  "id": "/he/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

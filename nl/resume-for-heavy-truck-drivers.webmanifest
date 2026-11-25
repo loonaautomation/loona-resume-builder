@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor vrachtwagenchauffeurs",
   "short_name": "Cv-voorbeeld voor vrachtwagenchauffeurs",
   "description": "Gratis cv-voorbeeld voor vrachtwagenchauffeurs: een compleet fictief voorbeeld in het Ats-sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-heavy-truck-drivers.html",
+  "id": "/nl/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

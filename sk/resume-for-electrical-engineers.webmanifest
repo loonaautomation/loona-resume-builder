@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre elektrotechnických inžinierov",
   "short_name": "Životopis pre elektrotechnických inžinierov",
   "description": "Bezplatný príklad životopisu pre elektrotechnického inžiniera: kompletný fiktívny vzor v modernej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-electrical-engineers.html",
+  "id": "/sk/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

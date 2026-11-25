@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla grafików",
   "short_name": "CV dla grafików",
   "description": "Darmowy przykład CV dla grafików: kompletny fikcyjny przykład w szablonie kreatywnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-graphic-designers.html",
+  "id": "/pl/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

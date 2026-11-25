@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för nyutexaminerade",
   "short_name": "Exempel på CV för nyutexaminerade",
   "description": "Gratis exempel på CV för nyutexaminerade: ett komplett fiktivt exempel, nivåspecifik vägledning och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/fresher-resume.html",
+  "id": "/sv/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

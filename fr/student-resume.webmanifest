@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Étudiant",
   "short_name": "Exemple de CV Étudiant",
   "description": "Exemple de CV gratuit d’étudiant : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/student-resume.html",
+  "id": "/fr/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

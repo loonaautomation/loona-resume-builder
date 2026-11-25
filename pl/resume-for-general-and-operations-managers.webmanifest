@@ -2,7 +2,7 @@
   "name": "Loona CV dla kierowników generalnych i operacyjnych",
   "short_name": "CV dla kierowników generalnych",
   "description": "Darmowy przykład CV dla kierowników generalnych i operacyjnych: kompletny fikcyjny przykład w szablonie dla kadry kierowniczej, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-general-and-operations-managers.html",
+  "id": "/pl/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

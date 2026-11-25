@@ -2,7 +2,7 @@
   "name": "Loona Șablon de CV Creativ",
   "short_name": "Șablon de CV Creativ",
   "description": "Șablon gratuit de CV Creativ: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
-  "id": "/loona-resume-builder/ro/resume-template-creative.html",
+  "id": "/ro/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

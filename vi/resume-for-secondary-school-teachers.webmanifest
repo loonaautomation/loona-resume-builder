@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Giáo viên Trung học",
   "short_name": "Ví dụ CV Giáo viên Trung học",
   "description": "Ví dụ CV giáo viên Trung học miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-secondary-school-teachers.html",
+  "id": "/vi/resume-for-secondary-school-teachers.html",
   "start_url": "./resume-for-secondary-school-teachers.html",
   "scope": "./resume-for-secondary-school-teachers.html",
   "display": "standalone",

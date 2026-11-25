@@ -2,7 +2,7 @@
   "name": "Loona Professional Resume Template",
   "short_name": "Professional Resume Template",
   "description": "Free Professional resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/resume-template-professional.html",
+  "id": "/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

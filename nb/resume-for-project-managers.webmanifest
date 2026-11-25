@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for prosjektledere",
   "short_name": "CV-eksempel for prosjektledere",
   "description": "Gratis CV-eksempel for prosjektleder: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-project-managers.html",
+  "id": "/nb/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

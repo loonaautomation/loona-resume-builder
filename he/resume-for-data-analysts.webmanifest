@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לאנליסטי נתונים",
   "short_name": "דוגמת קורות חיים לאנליסטי נתונים",
   "description": "דוגמת קורות חיים חינמית לאנליסט נתונים: דוגמה בדיונית מלאה בתבנית הקומפקטית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-data-analysts.html",
+  "id": "/he/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Koneinsinöörien ansioluetteloesimerkki",
   "short_name": "Koneinsinöörien ansioluetteloesimerkki",
   "description": "Ilmainen koneinsinöörin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Klassisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-mechanical-engineers.html",
+  "id": "/fi/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

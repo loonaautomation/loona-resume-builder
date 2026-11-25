@@ -2,7 +2,7 @@
   "name": "Loona Yeni Mezun Özgeçmişi Özgeçmiş Örneği",
   "short_name": "Yeni Mezun Özgeçmişi Özgeçmiş Örneği",
   "description": "Ücretsiz yeni mezun özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/fresher-resume.html",
+  "id": "/tr/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 재무 분석가 이력서 예시",
   "short_name": "재무 분석가 이력서 예시",
   "description": "무료 재무 분석가 이력서 예시: 프로페셔널 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/resume-for-financial-analysts.html",
+  "id": "/ko/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

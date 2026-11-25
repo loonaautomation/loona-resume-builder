@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме адміністративних помічників",
   "short_name": "Приклад резюме адміністративних помічників",
   "description": "Безкоштовний приклад резюме адміністративного помічника: повний вигаданий зразок у шаблоні Мінімалістичний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-administrative-assistants.html",
+  "id": "/uk/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

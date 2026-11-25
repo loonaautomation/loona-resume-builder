@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية الكلاسيكي",
   "short_name": "قالب السيرة الذاتية الكلاسيكي",
   "description": "قالب سيرة ذاتية مجاني Classic: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-classic.html",
+  "id": "/ar/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים למתחילים",
   "short_name": "דוגמת קורות חיים למתחילים",
   "description": "דוגמת קורות חיים חינמית למתחיל: דוגמה בדיונית מלאה, הנחיה לפי רמה ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/fresher-resume.html",
+  "id": "/he/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

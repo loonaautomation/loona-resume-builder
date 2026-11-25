@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro policisty",
   "short_name": "Vzor životopisu pro policisty",
   "description": "Bezplatný vzor životopisu pro policistu: kompletní fiktivní ukázka v šabloně ATS, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-police-officers.html",
+  "id": "/cs/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

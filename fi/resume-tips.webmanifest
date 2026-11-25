@@ -2,7 +2,7 @@
   "name": "Loona Miten kirjoittaa ansioluettelo, joka saa haastatteluja",
   "short_name": "Miten kirjoittaa ansioluettelo, joka saa haastatteluja",
   "description": "Käytännönläheinen, ilmainen opas ansioluettelon kirjoittamiseen niin, että se luetaan: rakenne, yhteenvedon kaava, numeroidut saavutuskohdat, taidot, yleiset virheet ja ATS-vinkit. Rakenna sitten omasi ilmaiseksi.",
-  "id": "/loona-resume-builder/fi/resume-tips.html",
+  "id": "/fi/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

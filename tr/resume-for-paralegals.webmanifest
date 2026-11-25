@@ -2,7 +2,7 @@
   "name": "Loona Hukuk Asistanları Özgeçmiş Örneği",
   "short_name": "Hukuk Asistanları Özgeçmiş Örneği",
   "description": "Ücretsiz hukuk asistanı özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-paralegals.html",
+  "id": "/tr/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

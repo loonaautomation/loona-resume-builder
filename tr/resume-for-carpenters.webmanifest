@@ -2,7 +2,7 @@
   "name": "Loona Marangozlar Özgeçmiş Örneği",
   "short_name": "Marangozlar Özgeçmiş Örneği",
   "description": "Ücretsiz marangoz özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-carpenters.html",
+  "id": "/tr/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

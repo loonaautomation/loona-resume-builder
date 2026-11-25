@@ -2,7 +2,7 @@
   "name": "Loona Palomiesten ansioluetteloesimerkki",
   "short_name": "Palomiesten ansioluetteloesimerkki",
   "description": "Ilmainen palomiehen ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-firefighters.html",
+  "id": "/fi/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

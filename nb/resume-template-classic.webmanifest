@@ -2,7 +2,7 @@
   "name": "Loona Klassisk CV-mal",
   "short_name": "Klassisk CV-mal",
   "description": "Gratis klassisk CV-mal: hva den er til, hvem som bør bruke den, når du ikke bør bruke den, og et direkte eksempel. Åpne den i byggeren og last ned PDF-en din — ingen registrering.",
-  "id": "/loona-resume-builder/nb/resume-template-classic.html",
+  "id": "/nb/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

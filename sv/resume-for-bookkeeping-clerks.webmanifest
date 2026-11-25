@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för bokföringsassistenter",
   "short_name": "CV för bokföringsassistenter",
   "description": "Gratis exempel på CV för bokföringsassistenter: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-bookkeeping-clerks.html",
+  "id": "/sv/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

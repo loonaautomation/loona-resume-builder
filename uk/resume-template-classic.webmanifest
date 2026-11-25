@@ -2,7 +2,7 @@
   "name": "Loona Класичний шаблон резюме",
   "short_name": "Класичний шаблон резюме",
   "description": "Безкоштовний класичний шаблон резюме: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-classic.html",
+  "id": "/uk/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona मुफ़्त रिज़्यूमे बिल्डर",
   "short_name": "मुफ़्त रिज़्यूमे बिल्डर",
   "description": "अपना रिज़्यूमे ऑनलाइन मुफ़्त बनाएँ: लाइव A4 प्रीव्यू, 8 टेम्पलेट (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), असीमित अनुभव और शिक्षा प्रविष्टियाँ, मुफ़्त PDF डाउनलोड। कोई साइन-अप नहीं, कोई वॉटरमार्क नहीं — आपका डेटा कभी आपके डिवाइस से बाहर नहीं जाता।",
-  "id": "/loona-resume-builder/hi/resume-builder/",
+  "id": "/hi/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

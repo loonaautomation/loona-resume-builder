@@ -2,7 +2,7 @@
   "name": "Loona Príklad študentského životopisu",
   "short_name": "Príklad študentského životopisu",
   "description": "Bezplatný príklad životopisu pre študentov: kompletný fiktívny vzor, pokyny pre túto úroveň a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/student-resume.html",
+  "id": "/sk/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

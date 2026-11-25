@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לשרברבים",
   "short_name": "דוגמת קורות חיים לשרברבים",
   "description": "דוגמת קורות חיים חינמית לשרברב: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-plumbers.html",
+  "id": "/he/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

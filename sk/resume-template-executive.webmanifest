@@ -2,7 +2,7 @@
   "name": "Loona Šablóna životopisu Executive",
   "short_name": "Šablóna životopisu Executive",
   "description": "Bezplatná šablóna životopisu Executive: na čo slúži, kto by ju mal používať, kedy ju nepoužívať, a živý vzor. Otvorte ju v nástroji a stiahnite si svoje PDF — bez registrácie.",
-  "id": "/loona-resume-builder/sk/resume-template-executive.html",
+  "id": "/sk/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

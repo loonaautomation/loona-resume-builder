@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Φαρμακοποιών",
   "short_name": "Παράδειγμα Βιογραφικού Φαρμακοποιών",
   "description": "Δωρεάν παράδειγμα βιογραφικού φαρμακοποιού: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-pharmacists.html",
+  "id": "/el/resume-for-pharmacists.html",
   "start_url": "./resume-for-pharmacists.html",
   "scope": "./resume-for-pharmacists.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 事務アシスタントの履歴書サンプル",
   "short_name": "事務アシスタントの履歴書サンプル",
   "description": "事務アシスタントの無料履歴書サンプル：ミニマルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-administrative-assistants.html",
+  "id": "/ja/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

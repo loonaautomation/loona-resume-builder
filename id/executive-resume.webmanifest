@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Eksekutif",
   "short_name": "Contoh Resume Eksekutif",
   "description": "Contoh resume eksekutif gratis: contoh fiktif lengkap, panduan khusus tingkat, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/executive-resume.html",
+  "id": "/id/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

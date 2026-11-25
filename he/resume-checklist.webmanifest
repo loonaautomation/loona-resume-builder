@@ -2,7 +2,7 @@
   "name": "Loona רשימת בדיקה לקורות חיים",
   "short_name": "רשימת בדיקה לקורות חיים",
   "description": "רשימת בדיקה אינטראקטיבית חינמית לקורות חיים: 20 בדיקות ATS ושלמות עם התקדמות שנשמרת בדפדפן שלכם. משתלבת עם בונה קורות החיים ובונה המכתבים המקדימים החינמיים של Loona.",
-  "id": "/loona-resume-builder/he/resume-checklist.html",
+  "id": "/he/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro právníky",
   "short_name": "Vzor životopisu pro právníky",
   "description": "Bezplatný vzor životopisu pro právníka: kompletní fiktivní ukázka v šabloně klasické, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-lawyers.html",
+  "id": "/cs/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

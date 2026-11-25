@@ -2,7 +2,7 @@
   "name": "Loona Esempio di curriculum per assistenti",
   "short_name": "Esempio di curriculum per",
   "description": "Esempio gratuito di curriculum per assistenti legali: un esempio fittizio completo nel modello Professional, consigli dei selezionatori e FAQ. Modificare l'esempio nel generatore gratuito e scaricare il PDF.",
-  "id": "/loona-resume-builder/it/resume-for-paralegals.html",
+  "id": "/it/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

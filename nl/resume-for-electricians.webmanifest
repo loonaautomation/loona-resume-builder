@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor elektriciens",
   "short_name": "Cv-voorbeeld voor elektriciens",
   "description": "Gratis cv-voorbeeld voor elektriciens: een compleet fictief voorbeeld in het Ats-sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-electricians.html",
+  "id": "/nl/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

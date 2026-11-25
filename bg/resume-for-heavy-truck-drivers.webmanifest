@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на шофьори на тежкотоварни камиони",
   "short_name": "Пример за автобиография на шофьори на тежкотоварни камиони",
   "description": "Безплатен пример за автобиография на шофьор на тежкотоварен камион: пълен измислен образец в шаблона „ATS“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-heavy-truck-drivers.html",
+  "id": "/bg/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

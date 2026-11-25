@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме фізичних терапевтів",
   "short_name": "Приклад резюме фізичних терапевтів",
   "description": "Безкоштовний приклад резюме фізичного терапевта: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-physical-therapists.html",
+  "id": "/uk/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

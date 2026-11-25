@@ -2,7 +2,7 @@
   "name": "Loona Sådan skriver du et CV, der giver samtaler",
   "short_name": "Sådan skriver du et CV, der giver samtaler",
   "description": "En praktisk, gratis guide til at skrive et CV, der bliver læst: struktur, en resuméformel, præstationspunkter med tal, færdigheder, almindelige fejl og ATS-tips. Byg derefter dit eget gratis.",
-  "id": "/loona-resume-builder/da/resume-tips.html",
+  "id": "/da/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

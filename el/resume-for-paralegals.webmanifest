@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Νομικών Βοηθών",
   "short_name": "Παράδειγμα Βιογραφικού Νομικών Βοηθών",
   "description": "Δωρεάν παράδειγμα βιογραφικού νομικού βοηθού: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-paralegals.html",
+  "id": "/el/resume-for-paralegals.html",
   "start_url": "./resume-for-paralegals.html",
   "scope": "./resume-for-paralegals.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لمصممي تجربة المستخدم",
   "short_name": "مثال على السيرة الذاتية لمصممي تجربة المستخدم",
   "description": "مثال مجاني على السيرة الذاتية لمصمم تجربة مستخدم: نموذج خيالي كامل في قالب Creative، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-ux-designers.html",
+  "id": "/ar/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

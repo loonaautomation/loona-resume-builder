@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til driftsledere",
   "short_name": "Eksempel på CV til driftsledere",
   "description": "Gratis eksempel på CV til driftsledere: et komplet fiktivt eksempel i Lederskabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-general-and-operations-managers.html",
+  "id": "/da/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

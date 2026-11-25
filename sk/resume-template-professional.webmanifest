@@ -2,7 +2,7 @@
   "name": "Loona Profesionálna šablóna životopisu",
   "short_name": "Profesionálna šablóna životopisu",
   "description": "Bezplatná šablóna životopisu Professional: na čo slúži, kto by ju mal používať, kedy ju nepoužívať, a živý vzor. Otvorte ju v nástroji a stiahnite si svoje PDF — bez registrácie.",
-  "id": "/loona-resume-builder/sk/resume-template-professional.html",
+  "id": "/sk/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

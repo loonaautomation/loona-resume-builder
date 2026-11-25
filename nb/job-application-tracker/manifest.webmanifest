@@ -2,7 +2,7 @@
   "name": "Loona Gratis jobbsøknadssporer",
   "short_name": "Jobbsøknadssporer",
   "description": "Spor hver jobbsøknad gratis: et enkelt Kanban-brett (Lagret, Søkt, Intervju, Tilbud) med frister, oppfølgingspåminnelser og CSV-/JSON-eksport. Betalte sporere tar $29-$40 i måneden – denne er gratis, krever ingen registrering, og dataene dine forlater aldri enheten din.",
-  "id": "/loona-resume-builder/nb/job-application-tracker/",
+  "id": "/nb/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til softwareudviklere",
   "short_name": "Eksempel på CV til softwareudviklere",
   "description": "Gratis eksempel på CV til softwareudviklere: et komplet fiktivt eksempel i Moderne-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-software-developers.html",
+  "id": "/da/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

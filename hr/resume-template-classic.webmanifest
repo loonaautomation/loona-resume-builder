@@ -2,7 +2,7 @@
   "name": "Loona Klasični predložak životopisa",
   "short_name": "Klasični predložak životopisa",
   "description": "Besplatni Klasični predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-classic.html",
+  "id": "/hr/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים לפיזיותרפיסטים",
   "short_name": "קורות חיים לפיזיותרפיסטים",
   "description": "דוגמת קורות חיים חינמית לפיזיותרפיסט: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-physical-therapists.html",
+  "id": "/he/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

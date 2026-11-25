@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til nyuddannede",
   "short_name": "Eksempel på CV til nyuddannede",
   "description": "Gratis eksempel på CV til nyuddannede: et komplet fiktivt eksempel, niveauspecifik vejledning og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/fresher-resume.html",
+  "id": "/da/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

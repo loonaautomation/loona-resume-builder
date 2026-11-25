@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor UX-ontwerpers",
   "short_name": "Cv-voorbeeld voor UX-ontwerpers",
   "description": "Gratis cv-voorbeeld voor UX-ontwerpers: een compleet fictief voorbeeld in het Creatieve sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-ux-designers.html",
+  "id": "/nl/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

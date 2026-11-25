@@ -2,7 +2,7 @@
   "name": "Loona Szablon CV dla kadry kierowniczej",
   "short_name": "Szablon CV dla kadry kierowniczej",
   "description": "Darmowy szablon CV dla kadry kierowniczej: do czego służy, kto powinien go używać, kiedy go nie używać oraz przykład na żywo. Otwórz go w kreatorze i pobierz swój PDF — bez rejestracji.",
-  "id": "/loona-resume-builder/pl/resume-template-executive.html",
+  "id": "/pl/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

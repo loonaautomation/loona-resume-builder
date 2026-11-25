@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме пожежників",
   "short_name": "Приклад резюме пожежників",
   "description": "Безкоштовний приклад резюме пожежника: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-firefighters.html",
+  "id": "/uk/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

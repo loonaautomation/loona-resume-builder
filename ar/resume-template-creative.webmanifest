@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية الإبداعي",
   "short_name": "قالب السيرة الذاتية الإبداعي",
   "description": "قالب سيرة ذاتية مجاني Creative: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-creative.html",
+  "id": "/ar/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

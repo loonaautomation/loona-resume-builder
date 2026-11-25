@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме выпускника",
   "short_name": "Пример резюме выпускника",
   "description": "Бесплатный пример резюме выпускника без опыта: полный вымышленный образец, рекомендации для этого уровня и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/fresher-resume.html",
+  "id": "/ru/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

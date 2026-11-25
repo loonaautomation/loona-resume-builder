@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمطوري البرمجيات",
   "short_name": "السيرة الذاتية لمطوري البرمجيات",
   "description": "مثال مجاني على السيرة الذاتية لمطور برمجيات: نموذج خيالي كامل في قالب Modern، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-software-developers.html",
+  "id": "/ar/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

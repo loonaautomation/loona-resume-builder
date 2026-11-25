@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wabunifu wa UX",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wabunifu wa UX",
   "description": "Mfano wa wasifu wa kazi wa mbunifu wa UX bure: mfano kamili wa kubuni katika kiolezo cha Ubunifu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-ux-designers.html",
+  "id": "/sw/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

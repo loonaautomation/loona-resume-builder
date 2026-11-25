@@ -2,7 +2,7 @@
   "name": "Loona Önéletrajz-sablonok & minták",
   "short_name": "Önéletrajz-sablonok & minták",
   "description": "Ingyenes önéletrajz-sablonok és -minták: 40 szakmai minta, 8 sablon és 6 karrierszint. Nyisson meg bármelyik mintát az ingyenes készítőben, tegye a sajátjává, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-templates.html",
+  "id": "/hu/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

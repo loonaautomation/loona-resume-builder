@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме административных ассистентов",
   "short_name": "Административные ассистенты",
   "description": "Бесплатный пример резюме административного ассистента: полный вымышленный образец в шаблоне Minimal, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-administrative-assistants.html",
+  "id": "/ru/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

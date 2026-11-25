@@ -2,7 +2,7 @@
   "name": "Loona Minimalistinen ansioluettelomalli",
   "short_name": "Minimalistinen ansioluettelomalli",
   "description": "Ilmainen minimalistisen ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-minimal.html",
+  "id": "/fi/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

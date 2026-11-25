@@ -2,7 +2,7 @@
   "name": "Loona Minimalistyczny szablon CV",
   "short_name": "Minimalistyczny szablon CV",
   "description": "Darmowy minimalistyczny szablon CV: do czego służy, kto powinien go używać, kiedy go nie używać oraz przykład na żywo. Otwórz go w kreatorze i pobierz swój PDF — bez rejestracji.",
-  "id": "/loona-resume-builder/pl/resume-template-minimal.html",
+  "id": "/pl/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

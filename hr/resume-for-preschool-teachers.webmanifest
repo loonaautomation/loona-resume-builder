@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za odgojitelje u predškoli",
   "short_name": "Životopis za odgojitelje u predškoli",
   "description": "Besplatni primjer životopisa za odgojitelja u predškoli: potpuni izmišljeni primjer u predlošku Klasičnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-preschool-teachers.html",
+  "id": "/hr/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

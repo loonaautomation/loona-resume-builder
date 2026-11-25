@@ -2,7 +2,7 @@
   "name": "Loona ایگزیکٹو ریزیومے ٹیمپلیٹ — مفت، PDF کے طور پر ڈاؤن لوڈ کریں",
   "short_name": "ایگزیکٹو ریزیومے ٹیمپلیٹ — مفت، PDF کے طور پر ڈاؤن لوڈ کریں",
   "description": "مفت ایگزیکٹو ریزیومے ٹیمپلیٹ: یہ کس کے لیے ہے، اسے کون استعمال کرے، کب استعمال نہ کرے، اور ایک لائیو نمونہ۔ اسے بلڈر میں کھولیں اور اپنی PDF ڈاؤن لوڈ کریں — کوئی سائن اپ نہیں۔",
-  "id": "/loona-resume-builder/ur/resume-template-executive.html",
+  "id": "/ur/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

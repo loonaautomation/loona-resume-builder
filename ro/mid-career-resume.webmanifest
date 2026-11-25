@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru mijlocul carierei",
   "short_name": "Exemplu de CV pentru mijlocul",
   "description": "Exemplu gratuit de CV pentru mijlocul carierei: un exemplu fictiv complet, îndrumări specifice nivelului și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/mid-career-resume.html",
+  "id": "/ro/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

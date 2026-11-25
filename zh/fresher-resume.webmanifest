@@ -2,7 +2,7 @@
   "name": "Loona 应届毕业生简历范例",
   "short_name": "应届毕业生简历范例",
   "description": "免费的应届毕业生简历范例：一份完整的虚构范例，附针对该级别的指导和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/fresher-resume.html",
+  "id": "/zh/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

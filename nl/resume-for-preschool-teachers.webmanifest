@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor kleuterleerkrachten",
   "short_name": "Cv-voorbeeld voor kleuterleerkrachten",
   "description": "Gratis cv-voorbeeld voor kleuterleerkrachten: een compleet fictief voorbeeld in het Klassieke sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-preschool-teachers.html",
+  "id": "/nl/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exemplo de Currículo de Engenheiros",
   "short_name": "Exemplo de Currículo de",
   "description": "Exemplo de currículo de engenheiro mecânico grátis: um exemplo fictício completo no modelo Classic, dicas de recrutadores e perguntas frequentes. Edite o exemplo no criador gratuito e transfira o seu PDF.",
-  "id": "/loona-resume-builder/pt-br/resume-for-mechanical-engineers.html",
+  "id": "/pt-br/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

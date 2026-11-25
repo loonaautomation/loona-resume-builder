@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for sykepleiere",
   "short_name": "CV-eksempel for sykepleiere",
   "description": "Gratis CV-eksempel for sykepleier: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-registered-nurses.html",
+  "id": "/nb/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

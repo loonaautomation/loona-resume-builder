@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่มินิมอล",
   "short_name": "เทมเพลตเรซูเม่มินิมอล",
   "description": "เทมเพลตเรซูเม่มินิมอลฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-minimal.html",
+  "id": "/th/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för grafiska formgivare",
   "short_name": "CV för grafiska formgivare",
   "description": "Gratis exempel på CV för grafiska formgivare: ett komplett fiktivt exempel i den Kreativa mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-graphic-designers.html",
+  "id": "/sv/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

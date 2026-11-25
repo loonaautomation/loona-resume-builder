@@ -2,7 +2,7 @@
   "name": "Loona CV-checklista",
   "short_name": "CV-checklista",
   "description": "En gratis interaktiv CV-checklista: 20 ATS- och fullständighetskontroller med framsteg som sparas i din webbläsare. Passar ihop med den kostnadsfria Loona CV-byggaren och byggaren för personliga brev.",
-  "id": "/loona-resume-builder/sv/resume-checklist.html",
+  "id": "/sv/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

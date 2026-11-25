@@ -2,7 +2,7 @@
   "name": "Loona Trình kiểm tra CV ATS Miễn phí",
   "short_name": "Trình kiểm tra CV ATS",
   "description": "Kiểm tra CV của bạn miễn phí: dán CV để chấm điểm tính đầy đủ, các mục, động từ hành động và con số, và dán mô tả công việc để xem điểm khớp từ khóa của bạn. Không cần đăng ký - mọi thứ chạy trong trình duyệt của bạn, không có gì được tải lên.",
-  "id": "/loona-resume-builder/vi/ats-resume-checker/",
+  "id": "/vi/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

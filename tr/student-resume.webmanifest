@@ -2,7 +2,7 @@
   "name": "Loona Öğrenci Özgeçmişi Özgeçmiş Örneği",
   "short_name": "Öğrenci Özgeçmişi Özgeçmiş Örneği",
   "description": "Ücretsiz öğrenci özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/student-resume.html",
+  "id": "/tr/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

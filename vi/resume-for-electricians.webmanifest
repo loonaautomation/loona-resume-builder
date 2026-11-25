@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Thợ điện",
   "short_name": "Ví dụ CV Thợ điện",
   "description": "Ví dụ CV thợ điện miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu ATS, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-electricians.html",
+  "id": "/vi/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

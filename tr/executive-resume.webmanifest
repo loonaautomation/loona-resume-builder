@@ -2,7 +2,7 @@
   "name": "Loona Yönetici Özgeçmişi Özgeçmiş Örneği",
   "short_name": "Yönetici Özgeçmişi Özgeçmiş Örneği",
   "description": "Ücretsiz yönetici özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/executive-resume.html",
+  "id": "/tr/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Minimalistički predložak životopisa",
   "short_name": "Minimalistički predložak životopisa",
   "description": "Besplatni Minimalistički predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-minimal.html",
+  "id": "/hr/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

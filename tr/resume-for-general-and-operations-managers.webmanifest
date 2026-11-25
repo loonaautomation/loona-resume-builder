@@ -2,7 +2,7 @@
   "name": "Loona Genel ve Operasyon Yöneticileri Özgeçmiş Örneği",
   "short_name": "Genel ve Operasyon",
   "description": "Ücretsiz genel ve operasyon yöneticisi özgeçmiş örneği: Yönetici şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-general-and-operations-managers.html",
+  "id": "/tr/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

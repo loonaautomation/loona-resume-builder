@@ -2,7 +2,7 @@
   "name": "Loona Pembina Biodata Perkahwinan Percuma",
   "short_name": "Pembina Biodata Perkahwinan Percuma",
   "description": "Bina biodata perkahwinan sepenuhnya percuma: bahagian peribadi, keluarga, pendidikan dan horoskop pilihan, gaya Ringkas dan Hiasan, pratonton A4 langsung dan muat turun PDF percuma - tanpa pendaftaran, tanpa tera air, data tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-resume-builder/ms/biodata-builder/",
+  "id": "/ms/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor chefs en chef-koks",
   "short_name": "Cv-voorbeeld voor chefs en chef-koks",
   "description": "Gratis cv-voorbeeld voor chefs en chef-koks: een compleet fictief voorbeeld in het Creatieve sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-chefs-and-head-cooks.html",
+  "id": "/nl/resume-for-chefs-and-head-cooks.html",
   "start_url": "./resume-for-chefs-and-head-cooks.html",
   "scope": "./resume-for-chefs-and-head-cooks.html",
   "display": "standalone",

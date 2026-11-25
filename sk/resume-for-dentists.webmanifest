@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre zubných lekárov",
   "short_name": "Príklad životopisu pre zubných lekárov",
   "description": "Bezplatný príklad životopisu pre zubného lekára: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-dentists.html",
+  "id": "/sk/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Minimal",
   "short_name": "Templat Resume Minimal",
   "description": "Templat resume Minimal gratis: untuk apa, siapa yang sebaiknya menggunakannya, kapan sebaiknya tidak digunakan, dan contoh langsung. Buka di pembuat dan unduh PDF Anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/id/resume-template-minimal.html",
+  "id": "/id/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

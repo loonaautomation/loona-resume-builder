@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor leidinggevenden",
   "short_name": "Cv-voorbeeld voor leidinggevenden",
   "description": "Gratis cv-voorbeeld voor leidinggevenden: een compleet fictief voorbeeld, begeleiding per niveau en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/executive-resume.html",
+  "id": "/nl/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

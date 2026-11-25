@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمصممي الجرافيك",
   "short_name": "السيرة الذاتية لمصممي الجرافيك",
   "description": "مثال مجاني على السيرة الذاتية لمصمم جرافيك: نموذج خيالي كامل في قالب Creative، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-graphic-designers.html",
+  "id": "/ar/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لضباط الشرطة",
   "short_name": "مثال على السيرة الذاتية لضباط الشرطة",
   "description": "مثال مجاني على السيرة الذاتية لضابط شرطة: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-police-officers.html",
+  "id": "/ar/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

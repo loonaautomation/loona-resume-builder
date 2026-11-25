@@ -2,7 +2,7 @@
   "name": "Loona 小売販売員の履歴書サンプル",
   "short_name": "小売販売員の履歴書サンプル",
   "description": "小売販売員の無料履歴書サンプル：モダンテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-retail-salespersons.html",
+  "id": "/ja/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

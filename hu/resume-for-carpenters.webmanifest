@@ -2,7 +2,7 @@
   "name": "Loona Ácsok önéletrajz-mintája",
   "short_name": "Ácsok önéletrajz-mintája",
   "description": "Ingyenes ács önéletrajz-minta: teljes, fiktív minta az ATS sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-carpenters.html",
+  "id": "/hu/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

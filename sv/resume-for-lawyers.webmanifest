@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för jurister",
   "short_name": "Exempel på CV för jurister",
   "description": "Gratis exempel på CV för jurister: ett komplett fiktivt exempel i den Klassiska mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-lawyers.html",
+  "id": "/sv/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

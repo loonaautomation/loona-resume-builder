@@ -2,7 +2,7 @@
   "name": "Loona Marketingvezetők önéletrajz-mintája",
   "short_name": "Marketingvezetők önéletrajz-mintája",
   "description": "Ingyenes marketingvezető önéletrajz-minta: teljes, fiktív minta a Kreatív sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-marketing-managers.html",
+  "id": "/hu/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

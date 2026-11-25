@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Policiers",
   "short_name": "Exemple de CV Policiers",
   "description": "Exemple de CV gratuit de policier : un exemple fictif complet dans le modèle Ats, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-police-officers.html",
+  "id": "/fr/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

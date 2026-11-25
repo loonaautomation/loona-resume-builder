@@ -2,7 +2,7 @@
   "name": "Loona ATS Resume Template",
   "short_name": "ATS Resume Template",
   "description": "Free ATS resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/en-gb/resume-template-ats.html",
+  "id": "/en-gb/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

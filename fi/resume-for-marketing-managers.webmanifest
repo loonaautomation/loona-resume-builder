@@ -2,7 +2,7 @@
   "name": "Loona Markkinointipäälliköiden ansioluetteloesimerkki",
   "short_name": "Markkinointipäälliköiden ansioluetteloesimerkki",
   "description": "Ilmainen markkinointipäällikön ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Luovan mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-marketing-managers.html",
+  "id": "/fi/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

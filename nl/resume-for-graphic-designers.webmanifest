@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor grafisch ontwerpers",
   "short_name": "Cv-voorbeeld voor grafisch ontwerpers",
   "description": "Gratis cv-voorbeeld voor grafisch ontwerpers: een compleet fictief voorbeeld in het Creatieve sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-graphic-designers.html",
+  "id": "/nl/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่ผู้บริหาร",
   "short_name": "เทมเพลตเรซูเม่ผู้บริหาร",
   "description": "เทมเพลตเรซูเม่ผู้บริหารฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-executive.html",
+  "id": "/th/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

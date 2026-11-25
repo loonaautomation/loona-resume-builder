@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för marknadschefer",
   "short_name": "CV för marknadschefer",
   "description": "Gratis exempel på CV för marknadschefer: ett komplett fiktivt exempel i den Kreativa mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-marketing-managers.html",
+  "id": "/sv/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

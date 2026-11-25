@@ -2,7 +2,7 @@
   "name": "Loona מעקב חינמי אחר בקשות עבודה",
   "short_name": "מעקב אחר בקשות עבודה",
   "description": "עקבו אחר כל בקשת עבודה בחינם: לוח קנבן פשוט (נשמר, הוגשה מועמדות, ראיון, הצעה) עם מועדים אחרונים, תזכורות מעקב וייצוא CSV/JSON. מעקבים בתשלום גובים $29-$40 לחודש - זה בחינם, לא דורש הרשמה, והנתונים שלכם לעולם לא עוזבים את המכשיר שלכם.",
-  "id": "/loona-resume-builder/he/job-application-tracker/",
+  "id": "/he/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

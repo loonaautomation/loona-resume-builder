@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Φυσικοθεραπευτών",
   "short_name": "Παράδειγμα Βιογραφικού Φυσικοθεραπευτών",
   "description": "Δωρεάν παράδειγμα βιογραφικού φυσικοθεραπευτή: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-physical-therapists.html",
+  "id": "/el/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

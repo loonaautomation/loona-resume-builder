@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме сантехника",
   "short_name": "Пример резюме сантехника",
   "description": "Бесплатный пример резюме сантехника: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-plumbers.html",
+  "id": "/ru/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

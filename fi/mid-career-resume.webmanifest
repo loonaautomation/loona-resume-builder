@@ -2,7 +2,7 @@
   "name": "Loona Ansioluettelo uran keskivaiheeseenesimerkki",
   "short_name": "Ansioluettelo uran keskivaiheeseenesimerkki",
   "description": "Ilmainen uransa keskivaiheen ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/mid-career-resume.html",
+  "id": "/fi/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

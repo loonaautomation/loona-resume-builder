@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za administrativne asistente",
   "short_name": "Administrativni asistenti",
   "description": "Besplatni primjer životopisa za administrativnog asistenta: potpuni izmišljeni primjer u predlošku Minimalističkom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-administrative-assistants.html",
+  "id": "/hr/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

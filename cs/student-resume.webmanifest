@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro studenty",
   "short_name": "Vzor životopisu pro studenty",
   "description": "Bezplatný vzor životopisu pro studenty: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/student-resume.html",
+  "id": "/cs/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

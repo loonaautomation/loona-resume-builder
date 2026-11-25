@@ -2,7 +2,7 @@
   "name": "Loona Šablona životopisu ATS",
   "short_name": "Šablona životopisu ATS",
   "description": "Bezplatná šablona životopisu ATS: k čemu slouží, kdo by ji měl používat, kdy ji nepoužívat, a živý vzor. Otevřete ji v nástroji a stáhněte si své PDF — bez registrace.",
-  "id": "/loona-resume-builder/cs/resume-template-ats.html",
+  "id": "/cs/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Контрольний список резюме — Перевірка ATS та повноти",
   "short_name": "Контрольний список резюме — Перевірка ATS та повноти",
   "description": "Безкоштовний інтерактивний контрольний список резюме: 20 перевірок ATS і повноти з прогресом, який зберігається у вашому браузері. Поєднується з безкоштовними Loona Resume Builder і Конструктором супровідного листа.",
-  "id": "/loona-resume-builder/uk/resume-checklist.html",
+  "id": "/uk/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

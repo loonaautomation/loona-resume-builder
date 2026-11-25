@@ -2,7 +2,7 @@
   "name": "Loona المحاسبون والمدققون",
   "short_name": "المحاسبون والمدققون",
   "description": "مثال مجاني على السيرة الذاتية لمحاسب ومدقق: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-accountants-and-auditors.html",
+  "id": "/ar/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

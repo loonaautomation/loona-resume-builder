@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לחשמלאים",
   "short_name": "דוגמת קורות חיים לחשמלאים",
   "description": "דוגמת קורות חיים חינמית לחשמלאי: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-electricians.html",
+  "id": "/he/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

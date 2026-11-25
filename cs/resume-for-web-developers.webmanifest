@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro webové vývojáře",
   "short_name": "Vzor životopisu pro webové vývojáře",
   "description": "Bezplatný vzor životopisu pro webového vývojáře: kompletní fiktivní ukázka v šabloně kreativní, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-web-developers.html",
+  "id": "/cs/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

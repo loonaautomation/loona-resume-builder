@@ -2,7 +2,7 @@
   "name": "Loona Jak napsat životopis, který vám zajistí pohovory",
   "short_name": "Jak napsat životopis, který vám",
   "description": "Praktický bezplatný průvodce psaním životopisu, který se opravdu čte: struktura, vzorec shrnutí, odrážky s úspěchy a čísly, dovednosti, časté chyby a tipy pro ATS. Pak si zdarma vytvořte vlastní.",
-  "id": "/loona-resume-builder/cs/resume-tips.html",
+  "id": "/cs/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

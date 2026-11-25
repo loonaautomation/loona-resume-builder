@@ -2,7 +2,7 @@
   "name": "Loona 正看護師の履歴書サンプル",
   "short_name": "正看護師の履歴書サンプル",
   "description": "正看護師の無料履歴書サンプル：プロフェッショナルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-registered-nurses.html",
+  "id": "/ja/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

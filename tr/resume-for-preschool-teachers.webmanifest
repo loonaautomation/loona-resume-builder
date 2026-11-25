@@ -2,7 +2,7 @@
   "name": "Loona Okul Öncesi Öğretmenleri Özgeçmiş Örneği",
   "short_name": "Okul Öncesi Öğretmenleri Özgeçmiş Örneği",
   "description": "Ücretsiz okul öncesi öğretmeni özgeçmiş örneği: Klasik şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-preschool-teachers.html",
+  "id": "/tr/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

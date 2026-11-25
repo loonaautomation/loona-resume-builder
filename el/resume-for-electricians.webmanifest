@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Ηλεκτρολόγων",
   "short_name": "Παράδειγμα Βιογραφικού Ηλεκτρολόγων",
   "description": "Δωρεάν παράδειγμα βιογραφικού ηλεκτρολόγου: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-electricians.html",
+  "id": "/el/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

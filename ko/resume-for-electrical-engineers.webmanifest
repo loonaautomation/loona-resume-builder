@@ -2,7 +2,7 @@
   "name": "Loona 전기 엔지니어 이력서 예시",
   "short_name": "전기 엔지니어 이력서 예시",
   "description": "무료 전기 엔지니어 이력서 예시: 모던 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/resume-for-electrical-engineers.html",
+  "id": "/ko/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

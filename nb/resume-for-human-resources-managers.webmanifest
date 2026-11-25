@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for HR-ledere",
   "short_name": "CV-eksempel for HR-ledere",
   "description": "Gratis CV-eksempel for HR-leder: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-human-resources-managers.html",
+  "id": "/nb/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

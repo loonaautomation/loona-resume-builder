@@ -2,7 +2,7 @@
   "name": "Loona Penjejak Permohonan Kerja Percuma",
   "short_name": "Penjejak Permohonan Kerja",
   "description": "Jejaki setiap permohonan kerja secara percuma: papan Kanban yang ringkas (Disimpan, Dihantar, Temu Duga, Tawaran) dengan tarikh akhir, peringatan susulan dan eksport CSV/JSON. Penjejak berbayar mengenakan caj $29-$40 sebulan - yang ini percuma, tiada pendaftaran, dan data anda tidak pernah meninggalkan peranti anda.",
-  "id": "/loona-resume-builder/ms/job-application-tracker/",
+  "id": "/ms/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

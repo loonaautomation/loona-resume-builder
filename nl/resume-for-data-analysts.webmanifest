@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor data-analisten",
   "short_name": "Cv-voorbeeld voor data-analisten",
   "description": "Gratis cv-voorbeeld voor data-analisten: een compleet fictief voorbeeld in het Compacte sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-data-analysts.html",
+  "id": "/nl/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

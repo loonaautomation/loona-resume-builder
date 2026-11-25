@@ -2,7 +2,7 @@
   "name": "Loona Besplatni alat za motivacijsko pismo",
   "short_name": "Besplatni alat za motivacijsko pismo",
   "description": "Izradite profesionalno motivacijsko pismo potpuno besplatno: vođeni obrazac od tri odlomka, pregled A4 uživo u Klasičnom stilu pisma, besplatno preuzimanje PDF-a - bez registracije, bez vodenog žiga, podaci nikada ne napuštaju vaš uređaj.",
-  "id": "/loona-resume-builder/hr/cover-letter-builder/",
+  "id": "/hr/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

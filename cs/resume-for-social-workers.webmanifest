@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro sociální pracovníky",
   "short_name": "Vzor životopisu pro sociální pracovníky",
   "description": "Bezplatný vzor životopisu pro sociálního pracovníka: kompletní fiktivní ukázka v šabloně klasické, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-social-workers.html",
+  "id": "/cs/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

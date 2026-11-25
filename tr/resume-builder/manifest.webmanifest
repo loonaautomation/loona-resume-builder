@@ -2,7 +2,7 @@
   "name": "Loona Ücretsiz Çevrimiçi Özgeçmiş Oluşturucu - Kayıt Yok, Filigran Yok, Ücretsiz PDF",
   "short_name": "Ücretsiz Çevrimiçi Özgeçmiş",
   "description": "Özgeçmişinizi ücretsiz çevrimiçi oluşturun: canlı A4 önizleme, 8 şablon (Klasik, Modern, Minimal, ATS, Yaratıcı, Profesyonel, Yönetici, Kompakt), sınırsız deneyim ve eğitim girişi, ücretsiz PDF indirme. Kayıt gerekmez, filigran yok - verileriniz asla cihazınızdan çıkmaz.",
-  "id": "/loona-resume-builder/tr/resume-builder/",
+  "id": "/tr/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

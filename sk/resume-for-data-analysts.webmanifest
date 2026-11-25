@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre dátových analytikov",
   "short_name": "Príklad životopisu pre dátových analytikov",
   "description": "Bezplatný príklad životopisu pre dátového analytika: kompletný fiktívny vzor v kompaktnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-data-analysts.html",
+  "id": "/sk/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

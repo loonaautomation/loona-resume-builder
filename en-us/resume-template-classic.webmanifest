@@ -2,7 +2,7 @@
   "name": "Loona Classic Resume Template",
   "short_name": "Classic Resume Template",
   "description": "Free Classic resume template: what it is for, who should use it, when not to use it, and a live sample. Open it in the builder and download your PDF — no sign-up.",
-  "id": "/loona-resume-builder/en-us/resume-template-classic.html",
+  "id": "/en-us/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

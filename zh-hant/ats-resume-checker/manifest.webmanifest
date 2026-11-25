@@ -2,7 +2,7 @@
   "name": "Loona 免費ATS簡歷檢查器",
   "short_name": "ATS簡歷檢查器",
   "description": "免費檢查您的簡歷：貼上簡歷即可為其完整性、章節、行動動詞和數字評分，再貼上職位描述即可查看關鍵詞匹配分數。無需註冊——一切都在您的瀏覽器中執行，不會上傳任何內容。",
-  "id": "/loona-resume-builder/zh-hant/ats-resume-checker/",
+  "id": "/zh-hant/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

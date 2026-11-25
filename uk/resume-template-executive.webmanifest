@@ -2,7 +2,7 @@
   "name": "Loona Шаблон резюме для керівників",
   "short_name": "Шаблон резюме для керівників",
   "description": "Безкоштовний шаблон резюме для керівників: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-executive.html",
+  "id": "/uk/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Graduan Baharu",
   "short_name": "Contoh Resume Graduan Baharu",
   "description": "Contoh resume graduan baharu percuma: contoh rekaan yang lengkap, panduan khusus peringkat dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/fresher-resume.html",
+  "id": "/ms/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

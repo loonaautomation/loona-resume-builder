@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za prodavače u maloprodaji",
   "short_name": "Životopis za prodavače u maloprodaji",
   "description": "Besplatni primjer životopisa za prodavača u maloprodaji: potpuni izmišljeni primjer u predlošku Modernom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-retail-salespersons.html",
+  "id": "/hr/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

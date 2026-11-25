@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Moden",
   "short_name": "Templat Resume Moden",
   "description": "Templat resume Moden percuma: untuk apa ia digunakan, siapa yang patut menggunakannya, bila ia tidak patut digunakan, dan contoh langsung. Bukanya dalam pembina dan muat turun PDF anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/ms/resume-template-modern.html",
+  "id": "/ms/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме плотников",
   "short_name": "Пример резюме плотников",
   "description": "Бесплатный пример резюме плотника: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-carpenters.html",
+  "id": "/ru/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

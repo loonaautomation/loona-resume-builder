@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Doktor Gigi",
   "short_name": "Contoh Resume Doktor Gigi",
   "description": "Contoh resume doktor gigi percuma: contoh rekaan yang lengkap dalam templat Profesional, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-dentists.html",
+  "id": "/ms/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

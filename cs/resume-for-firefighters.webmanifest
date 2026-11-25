@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro hasiče",
   "short_name": "Vzor životopisu pro hasiče",
   "description": "Bezplatný vzor životopisu pro hasiče: kompletní fiktivní ukázka v šabloně ATS, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-firefighters.html",
+  "id": "/cs/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

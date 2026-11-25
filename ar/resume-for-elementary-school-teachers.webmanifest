@@ -2,7 +2,7 @@
   "name": "Loona معلمو المدارس الابتدائية",
   "short_name": "معلمو المدارس الابتدائية",
   "description": "مثال مجاني على السيرة الذاتية لمعلم مدرسة ابتدائية: نموذج خيالي كامل في قالب Classic، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-elementary-school-teachers.html",
+  "id": "/ar/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

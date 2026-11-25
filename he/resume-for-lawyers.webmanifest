@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לעורכי דין",
   "short_name": "דוגמת קורות חיים לעורכי דין",
   "description": "דוגמת קורות חיים חינמית לעורך דין: דוגמה בדיונית מלאה בתבנית הקלאסית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-lawyers.html",
+  "id": "/he/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

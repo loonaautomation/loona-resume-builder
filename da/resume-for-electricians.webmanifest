@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til elektrikere",
   "short_name": "Eksempel på CV til elektrikere",
   "description": "Gratis eksempel på CV til elektrikere: et komplet fiktivt eksempel i ATS-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-electricians.html",
+  "id": "/da/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

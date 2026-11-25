@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nhân viên Bán lẻ",
   "short_name": "Ví dụ CV Nhân viên Bán lẻ",
   "description": "Ví dụ CV nhân viên Bán lẻ miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Hiện đại, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-retail-salespersons.html",
+  "id": "/vi/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

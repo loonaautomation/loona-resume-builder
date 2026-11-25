@@ -2,7 +2,7 @@
   "name": "Loona Johtotason ansioluettelomalli",
   "short_name": "Johtotason ansioluettelomalli",
   "description": "Ilmainen johtotason ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-executive.html",
+  "id": "/fi/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

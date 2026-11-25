@@ -2,7 +2,7 @@
   "name": "Loona Criador de Currículos Online Grátis",
   "short_name": "Criador de Currículos Online",
   "description": "Crie o seu currículo grátis online: pré-visualização A4 ao vivo, 8 modelos (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), entradas ilimitadas de experiência e educação, download gratuito em PDF. Sem registro, sem marca de água - os seus dados n",
-  "id": "/loona-resume-builder/pt-br/resume-builder/",
+  "id": "/pt-br/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

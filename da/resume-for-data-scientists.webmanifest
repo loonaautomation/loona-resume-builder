@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til data scientists",
   "short_name": "Eksempel på CV til data scientists",
   "description": "Gratis eksempel på CV til data scientists: et komplet fiktivt eksempel i Moderne-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-data-scientists.html",
+  "id": "/da/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

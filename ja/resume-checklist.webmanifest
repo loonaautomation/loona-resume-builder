@@ -2,7 +2,7 @@
   "name": "Loona 履歴書チェックリスト ― ATS&完全性チェック",
   "short_name": "履歴書チェックリスト ― ATS&完全性チェック",
   "description": "無料のインタラクティブな履歴書チェックリストです。ATSと完全性のチェック20項目で、進捗はブラウザに保存されます。無料の Loona Resume Builder と Cover Letter Builder と合わせてお使いください。",
-  "id": "/loona-resume-builder/ja/resume-checklist.html",
+  "id": "/ja/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

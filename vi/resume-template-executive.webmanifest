@@ -2,7 +2,7 @@
   "name": "Loona Mẫu CV Điều hành",
   "short_name": "Mẫu CV Điều hành",
   "description": "Mẫu CV Điều hành miễn phí: nó dùng để làm gì, ai nên sử dụng, khi nào không nên dùng, và một mẫu trực tiếp. Mở nó trong trình tạo và tải PDF của bạn xuống — không cần đăng ký.",
-  "id": "/loona-resume-builder/vi/resume-template-executive.html",
+  "id": "/vi/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

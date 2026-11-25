@@ -2,7 +2,7 @@
   "name": "Loona 土木エンジニアの履歴書サンプル",
   "short_name": "土木エンジニアの履歴書サンプル",
   "description": "土木エンジニアの無料履歴書サンプル：クラシックテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-civil-engineers.html",
+  "id": "/ja/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

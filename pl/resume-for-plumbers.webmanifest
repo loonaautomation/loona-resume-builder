@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla hydraulików",
   "short_name": "Przykład CV dla hydraulików",
   "description": "Darmowy przykład CV dla hydraulików: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-plumbers.html",
+  "id": "/pl/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

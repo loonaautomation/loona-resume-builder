@@ -2,7 +2,7 @@
   "name": "Loona Diákönéletrajz mintája",
   "short_name": "Diákönéletrajz mintája",
   "description": "Ingyenes diák önéletrajz-minta: teljes, fiktív minta, szintnek megfelelő útmutatás és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/student-resume.html",
+  "id": "/hu/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

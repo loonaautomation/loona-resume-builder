@@ -2,7 +2,7 @@
   "name": "Loona 学生简历范例",
   "short_name": "学生简历范例",
   "description": "免费的学生简历范例：一份完整的虚构范例，附针对该级别的指导和常见问题。在免费生成器中编辑范例并下载您的 PDF。",
-  "id": "/loona-resume-builder/zh/student-resume.html",
+  "id": "/zh/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

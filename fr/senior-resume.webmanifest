@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Senior",
   "short_name": "Exemple de CV Senior",
   "description": "Exemple de CV gratuit de senior : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/senior-resume.html",
+  "id": "/fr/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

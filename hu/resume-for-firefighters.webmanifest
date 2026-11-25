@@ -2,7 +2,7 @@
   "name": "Loona Tűzoltók önéletrajz-mintája",
   "short_name": "Tűzoltók önéletrajz-mintája",
   "description": "Ingyenes tűzoltó önéletrajz-minta: teljes, fiktív minta az ATS sablonban, toborzói tippek és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/resume-for-firefighters.html",
+  "id": "/hu/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 新卒者の履歴書サンプル",
   "short_name": "新卒者の履歴書サンプル",
   "description": "新卒者の無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/fresher-resume.html",
+  "id": "/ja/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

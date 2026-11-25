@@ -2,7 +2,7 @@
   "name": "Loona Creator gratuit de scrisori de intenție",
   "short_name": "Creator gratuit de scrisori de intenție",
   "description": "Construiește o scrisoare de intenție profesională complet gratuit: formular ghidat cu trei paragrafe, previzualizare A4 în timp real în stilul de scrisoare Clasic, descărcare PDF gratuită - fără înregistrare, fără filigran, datele nu părăsesc niciodată dispozitivul tău.",
-  "id": "/loona-resume-builder/ro/cover-letter-builder/",
+  "id": "/ro/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

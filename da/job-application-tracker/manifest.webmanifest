@@ -2,7 +2,7 @@
   "name": "Loona Gratis jobansøgningstracker",
   "short_name": "Jobansøgningstracker",
   "description": "Følg alle jobansøgninger gratis: et enkelt Kanban-board (Gemt, Ansøgt, Samtale, Tilbud) med frister, opfølgningspåmindelser og CSV-/JSON-eksport. Betalte trackere koster $29-$40 om måneden - denne er gratis, kræver ingen tilmelding, og dine data forlader aldrig din enhed.",
-  "id": "/loona-resume-builder/da/job-application-tracker/",
+  "id": "/da/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

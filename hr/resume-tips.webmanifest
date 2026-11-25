@@ -2,7 +2,7 @@
   "name": "Loona Kako napisati životopis koji donosi razgovore",
   "short_name": "Kako napisati životopis koji",
   "description": "Praktičan, besplatan vodič za pisanje životopisa koji se čita: struktura, formula sažetka, natuknice postignuća s brojkama, vještine, česte pogreške i ATS savjeti. Zatim besplatno izradite svoj.",
-  "id": "/loona-resume-builder/hr/resume-tips.html",
+  "id": "/hr/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

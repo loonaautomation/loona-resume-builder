@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Eksekutif",
   "short_name": "Templat Resume Eksekutif",
   "description": "Templat resume Eksekutif percuma: untuk apa ia digunakan, siapa yang patut menggunakannya, bila ia tidak patut digunakan, dan contoh langsung. Bukanya dalam pembina dan muat turun PDF anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/ms/resume-template-executive.html",
+  "id": "/ms/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

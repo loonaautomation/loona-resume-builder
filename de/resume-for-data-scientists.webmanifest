@@ -2,7 +2,7 @@
   "name": "Loona Lebenslaufbeispiel für",
   "short_name": "Lebenslaufbeispiel für",
   "description": "Beispiel für einen kostenlosen Datenwissenschaftler-Lebenslauf: eine vollständige fiktive Probe in der Vorlage Modern, Tipps für Personalvermittler und FAQs. Bearbeiten Sie das Beispiel im kostenlosen Builder und laden Sie Ihre PDF-Datei herunter.",
-  "id": "/loona-resume-builder/de/resume-for-data-scientists.html",
+  "id": "/de/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

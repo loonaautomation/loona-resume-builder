@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for seniorer",
   "short_name": "CV-eksempel for seniorer",
   "description": "Gratis CV-eksempel for senior: et komplett fiktivt eksempel, nivåspesifikk veiledning og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/senior-resume.html",
+  "id": "/nb/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Senior Resume Resume Example",
   "short_name": "Senior Resume Resume Example",
   "description": "Free senior resume example: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the free builder and download your PDF.",
-  "id": "/loona-resume-builder/en-us/senior-resume.html",
+  "id": "/en-us/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

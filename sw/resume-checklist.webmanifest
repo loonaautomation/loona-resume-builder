@@ -2,7 +2,7 @@
   "name": "Loona Orodha ya Ukaguzi wa Wasifu wa Kazi - Ukaguzi wa ATS & Ukamilifu",
   "short_name": "Orodha ya Ukaguzi wa Wasifu wa Kazi - Ukaguzi wa ATS & Ukamilifu",
   "description": "Orodha shirikishi ya ukaguzi wa wasifu wa kazi bure: ukaguzi 20 wa ATS na ukamilifu wenye maendeleo yanayohifadhiwa kwenye kivinjari chako. Huendana na Loona Resume Builder na Kijenga Barua ya Maombi bure.",
-  "id": "/loona-resume-builder/sw/resume-checklist.html",
+  "id": "/sw/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

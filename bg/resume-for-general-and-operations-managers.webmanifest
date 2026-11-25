@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на генерални и оперативни мениджъри",
   "short_name": "Пример за автобиография на генерални и оперативни мениджъри",
   "description": "Безплатен пример за автобиография на генерален и оперативен мениджър: пълен измислен образец в шаблона „Изпълнителен“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-general-and-operations-managers.html",
+  "id": "/bg/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kiolezo cha Wasifu wa Kazi cha Kisasa",
   "short_name": "Kiolezo cha Wasifu wa Kazi cha Kisasa",
   "description": "Kiolezo cha wasifu wa kazi cha Kisasa bure: ni cha nini, nani anapaswa kukitumia, wakati gani asikitumie, na mfano hai. Kifungue kwenye kijenga na upakue PDF yako — bila kujisajili.",
-  "id": "/loona-resume-builder/sw/resume-template-modern.html",
+  "id": "/sw/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

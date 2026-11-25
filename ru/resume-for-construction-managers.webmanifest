@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме руководителей строительства",
   "short_name": "Резюме руководителей строительства",
   "description": "Бесплатный пример резюме руководителя строительных проектов: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-construction-managers.html",
+  "id": "/ru/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

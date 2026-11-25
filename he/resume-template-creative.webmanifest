@@ -2,7 +2,7 @@
   "name": "Loona תבנית קורות חיים יצירתית",
   "short_name": "תבנית קורות חיים יצירתית",
   "description": "תבנית קורות חיים יצירתית חינמית: למה היא מיועדת, מי צריך להשתמש בה, מתי לא להשתמש בה, ודוגמה חיה. פתחו אותה בבונה והורידו את ה-PDF שלכם — ללא הרשמה.",
-  "id": "/loona-resume-builder/he/resume-template-creative.html",
+  "id": "/he/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

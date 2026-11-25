@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية لرجال الإطفاء",
   "short_name": "مثال على السيرة الذاتية لرجال الإطفاء",
   "description": "مثال مجاني على السيرة الذاتية لرجل إطفاء: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-firefighters.html",
+  "id": "/ar/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

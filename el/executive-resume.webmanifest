@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Στελέχους",
   "short_name": "Παράδειγμα Βιογραφικού Στελέχους",
   "description": "Δωρεάν παράδειγμα βιογραφικού στελέχους: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/executive-resume.html",
+  "id": "/el/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

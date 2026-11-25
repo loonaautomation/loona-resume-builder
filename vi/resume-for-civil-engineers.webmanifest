@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Kỹ sư Xây dựng",
   "short_name": "Ví dụ CV Kỹ sư Xây dựng",
   "description": "Ví dụ CV kỹ sư Xây dựng miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-civil-engineers.html",
+  "id": "/vi/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

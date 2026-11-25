@@ -2,7 +2,7 @@
   "name": "Loona Tıbbi Asistanlar Özgeçmiş Örneği",
   "short_name": "Tıbbi Asistanlar Özgeçmiş Örneği",
   "description": "Ücretsiz tıbbi asistan özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-medical-assistants.html",
+  "id": "/tr/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

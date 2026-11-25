@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Électriciens",
   "short_name": "Exemple de CV Électriciens",
   "description": "Exemple de CV gratuit d’électricien : un exemple fictif complet dans le modèle Ats, des conseils de recruteurs et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-for-electricians.html",
+  "id": "/fr/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

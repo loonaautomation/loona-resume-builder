@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับผู้ช่วยทางการแพทย์",
   "short_name": "เรซูเม่สำหรับผู้ช่วยทางการแพทย์",
   "description": "ตัวอย่างเรซูเม่ผู้ช่วยทางการแพทย์ฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-medical-assistants.html",
+  "id": "/th/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

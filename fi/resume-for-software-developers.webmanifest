@@ -2,7 +2,7 @@
   "name": "Loona Ohjelmistokehittäjien ansioluetteloesimerkki",
   "short_name": "Ohjelmistokehittäjien ansioluetteloesimerkki",
   "description": "Ilmainen ohjelmistokehittäjän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Modernin mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-software-developers.html",
+  "id": "/fi/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wafanyakazi wa Huduma za Jamii",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wafanyakazi wa Huduma za Jamii",
   "description": "Mfano wa wasifu wa kazi wa mfanyakazi wa huduma za jamii bure: mfano kamili wa kubuni katika kiolezo cha Klasiki, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-social-workers.html",
+  "id": "/sw/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

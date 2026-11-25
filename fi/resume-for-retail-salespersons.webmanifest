@@ -2,7 +2,7 @@
   "name": "Loona Vähittäismyyjien ansioluetteloesimerkki",
   "short_name": "Vähittäismyyjien ansioluetteloesimerkki",
   "description": "Ilmainen vähittäismyyjän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Modernin mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-retail-salespersons.html",
+  "id": "/fi/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

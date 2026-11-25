@@ -2,7 +2,7 @@
   "name": "Loona Myyntipäälliköiden ansioluetteloesimerkki",
   "short_name": "Myyntipäälliköiden ansioluetteloesimerkki",
   "description": "Ilmainen myyntipäällikön ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Johtotason mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-sales-managers.html",
+  "id": "/fi/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

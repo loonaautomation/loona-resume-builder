@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre stavebných manažérov",
   "short_name": "Životopis pre stavebných manažérov",
   "description": "Bezplatný príklad životopisu pre stavebného manažéra: kompletný fiktívny vzor v profesionálnej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-construction-managers.html",
+  "id": "/sk/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

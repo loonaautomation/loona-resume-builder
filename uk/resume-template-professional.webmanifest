@@ -2,7 +2,7 @@
   "name": "Loona Професійний шаблон резюме",
   "short_name": "Професійний шаблон резюме",
   "description": "Безкоштовний професійний шаблон резюме: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-professional.html",
+  "id": "/uk/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

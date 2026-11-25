@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية للمحللين الماليين",
   "short_name": "السيرة الذاتية للمحللين الماليين",
   "description": "مثال مجاني على السيرة الذاتية لمحلل مالي: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-financial-analysts.html",
+  "id": "/ar/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hoe je een cv schrijft dat gesprekken oplevert",
   "short_name": "Hoe je een cv schrijft dat gesprekken oplevert",
   "description": "Een praktische, gratis gids voor een cv dat gelezen wordt: opbouw, een formule voor je samenvatting, prestatiepunten met cijfers, vaardigheden, veelgemaakte fouten en ATS-tips. Bouw daarna gratis je eigen cv.",
-  "id": "/loona-resume-builder/nl/resume-tips.html",
+  "id": "/nl/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

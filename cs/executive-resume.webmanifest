@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro vrcholové manažery",
   "short_name": "Životopis pro vrcholové manažery",
   "description": "Bezplatný vzor životopisu pro vrcholové manažery: kompletní fiktivní ukázka, pokyny specifické pro tuto úroveň a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/executive-resume.html",
+  "id": "/cs/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

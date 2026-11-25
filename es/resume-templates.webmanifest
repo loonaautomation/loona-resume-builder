@@ -2,7 +2,7 @@
   "name": "Loona Resume Templates & Examples",
   "short_name": "Resume Templates & Examples",
   "description": "Plantillas y ejemplos de currículum gratuitos: 40 ejemplos por profesión, 8 plantillas y 6 niveles de trayectoria. Abrir cualquier ejemplo en el creador gratuito, adaptarlo y descargar el PDF.",
-  "id": "/loona-resume-builder/es/resume-templates.html",
+  "id": "/es/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

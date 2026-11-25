@@ -2,7 +2,7 @@
   "name": "Loona Asiakaspalvelijoiden ansioluetteloesimerkki",
   "short_name": "Asiakaspalvelijoiden ansioluetteloesimerkki",
   "description": "Ilmainen asiakaspalvelijan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki ATS mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-customer-service-representatives.html",
+  "id": "/fi/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

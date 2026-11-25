@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nha sĩ",
   "short_name": "Ví dụ CV Nha sĩ",
   "description": "Ví dụ CV nha sĩ miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Chuyên nghiệp, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-dentists.html",
+  "id": "/vi/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

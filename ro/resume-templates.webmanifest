@@ -2,7 +2,7 @@
   "name": "Loona Șabloane și exemple de CV",
   "short_name": "Șabloane și exemple de CV",
   "description": "Șabloane și exemple gratuite de CV: 40 de exemple pe profesii, 8 șabloane și 6 niveluri de carieră. Deschide orice exemplu în creatorul gratuit, fă-l al tău și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-templates.html",
+  "id": "/ro/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

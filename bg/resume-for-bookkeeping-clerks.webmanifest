@@ -2,7 +2,7 @@
   "name": "Loona Пример за автобиография на оперативни счетоводители",
   "short_name": "Пример за автобиография на оперативни счетоводители",
   "description": "Безплатен пример за автобиография на оперативен счетоводител: пълен измислен образец в шаблона „ATS“, съвети от специалисти по подбор и често задавани въпроси. Редактирайте образеца в безплатния конструктор и изтеглете своя PDF.",
-  "id": "/loona-resume-builder/bg/resume-for-bookkeeping-clerks.html",
+  "id": "/bg/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Șablon de CV Modern",
   "short_name": "Șablon de CV Modern",
   "description": "Șablon gratuit de CV Modern: pentru ce este, cine ar trebui să-l folosească, când să nu-l folosești și un exemplu live. Deschide-l în creator și descarcă PDF-ul tău — fără înregistrare.",
-  "id": "/loona-resume-builder/ro/resume-template-modern.html",
+  "id": "/ro/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

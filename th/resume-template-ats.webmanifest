@@ -2,7 +2,7 @@
   "name": "Loona เทมเพลตเรซูเม่ ATS",
   "short_name": "เทมเพลตเรซูเม่ ATS",
   "description": "เทมเพลตเรซูเม่ ATS ฟรี: มีไว้เพื่ออะไร ใครควรใช้ เมื่อใดไม่ควรใช้ และตัวอย่างที่ใช้งานได้จริง เปิดในเครื่องมือสร้างและดาวน์โหลด PDF ของคุณ — ไม่ต้องสมัคร",
-  "id": "/loona-resume-builder/th/resume-template-ats.html",
+  "id": "/th/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Minimal Özgeçmiş Şablonu",
   "short_name": "Minimal Özgeçmiş Şablonu",
   "description": "Ücretsiz Minimal özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-minimal.html",
+  "id": "/tr/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kıdemli Özgeçmişi Özgeçmiş Örneği",
   "short_name": "Kıdemli Özgeçmişi Özgeçmiş Örneği",
   "description": "Ücretsiz kıdemli özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/senior-resume.html",
+  "id": "/tr/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

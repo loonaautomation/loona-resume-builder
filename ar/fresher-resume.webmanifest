@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للخريجين الجدد",
   "short_name": "مثال على السيرة الذاتية للخريجين الجدد",
   "description": "مثال مجاني على السيرة الذاتية للخريجين الجدد: نموذج خيالي كامل، وإرشادات خاصة بالمستوى، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/fresher-resume.html",
+  "id": "/ar/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

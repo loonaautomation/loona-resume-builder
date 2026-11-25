@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Quản lý Tổng hợp và Vận hành",
   "short_name": "Ví dụ CV Quản lý Tổng hợp và Vận hành",
   "description": "Ví dụ CV quản lý Tổng hợp và Vận hành miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Điều hành, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-general-and-operations-managers.html",
+  "id": "/vi/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

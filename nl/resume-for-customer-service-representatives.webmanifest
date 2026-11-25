@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor klantenservicemedewerkers",
   "short_name": "Cv-voorbeeld voor klantenservicemedewerkers",
   "description": "Gratis cv-voorbeeld voor klantenservicemedewerkers: een compleet fictief voorbeeld in het Ats-sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-customer-service-representatives.html",
+  "id": "/nl/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

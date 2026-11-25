@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til grafiske designere",
   "short_name": "Eksempel på CV til grafiske designere",
   "description": "Gratis eksempel på CV til grafiske designere: et komplet fiktivt eksempel i Kreativ-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-graphic-designers.html",
+  "id": "/da/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

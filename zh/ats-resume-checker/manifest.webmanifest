@@ -2,7 +2,7 @@
   "name": "Loona 免费ATS简历检查器",
   "short_name": "ATS简历检查器",
   "description": "免费检查您的简历：粘贴简历即可为其完整性、章节、行动动词和数字打分，再粘贴职位描述即可查看关键词匹配分数。无需注册——一切都在您的浏览器中运行，不会上传任何内容。",
-  "id": "/loona-resume-builder/zh/ats-resume-checker/",
+  "id": "/zh/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

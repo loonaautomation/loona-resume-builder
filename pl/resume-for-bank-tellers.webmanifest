@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kasjerów bankowych",
   "short_name": "Przykład CV dla kasjerów bankowych",
   "description": "Darmowy przykład CV dla kasjerów bankowych: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-bank-tellers.html",
+  "id": "/pl/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

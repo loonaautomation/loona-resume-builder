@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za vozače teških kamiona",
   "short_name": "Životopis za vozače teških kamiona",
   "description": "Besplatni primjer životopisa za vozača teškog kamiona: potpuni izmišljeni primjer u predlošku ATS, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-heavy-truck-drivers.html",
+  "id": "/hr/resume-for-heavy-truck-drivers.html",
   "start_url": "./resume-for-heavy-truck-drivers.html",
   "scope": "./resume-for-heavy-truck-drivers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona シニアの履歴書サンプル",
   "short_name": "シニアの履歴書サンプル",
   "description": "シニアの無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/senior-resume.html",
+  "id": "/ja/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

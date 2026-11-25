@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla seniorów",
   "short_name": "Przykład CV dla seniorów",
   "description": "Darmowy przykład CV dla seniorów: kompletny fikcyjny przykład, wskazówki dla tego poziomu i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/senior-resume.html",
+  "id": "/pl/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

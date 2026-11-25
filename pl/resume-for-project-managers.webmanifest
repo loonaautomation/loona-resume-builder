@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kierowników projektów",
   "short_name": "CV dla kierowników projektów",
   "description": "Darmowy przykład CV dla kierowników projektów: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-project-managers.html",
+  "id": "/pl/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

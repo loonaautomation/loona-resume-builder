@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla programistów",
   "short_name": "CV dla programistów",
   "description": "Darmowy przykład CV dla programistów: kompletny fikcyjny przykład w szablonie nowoczesnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-software-developers.html",
+  "id": "/pl/resume-for-software-developers.html",
   "start_url": "./resume-for-software-developers.html",
   "scope": "./resume-for-software-developers.html",
   "display": "standalone",

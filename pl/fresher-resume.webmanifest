@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla absolwentów",
   "short_name": "Przykład CV dla absolwentów",
   "description": "Darmowy przykład CV dla absolwentów: kompletny fikcyjny przykład, wskazówki dla tego poziomu i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/fresher-resume.html",
+  "id": "/pl/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

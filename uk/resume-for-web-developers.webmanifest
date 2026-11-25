@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме веброзробників",
   "short_name": "Приклад резюме веброзробників",
   "description": "Безкоштовний приклад резюме веброзробника: повний вигаданий зразок у шаблоні Креативний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-web-developers.html",
+  "id": "/uk/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

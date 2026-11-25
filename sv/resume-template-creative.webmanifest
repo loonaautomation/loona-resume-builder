@@ -2,7 +2,7 @@
   "name": "Loona Kreativ CV-mall",
   "short_name": "Kreativ CV-mall",
   "description": "Gratis Kreativ CV-mall: vad den är till för, vem som ska använda den, när den inte ska användas, och ett liveexempel. Öppna den i byggaren och ladda ned din PDF — ingen registrering.",
-  "id": "/loona-resume-builder/sv/resume-template-creative.html",
+  "id": "/sv/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

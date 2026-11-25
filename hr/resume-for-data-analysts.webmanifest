@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za analitičare podataka",
   "short_name": "Primjer životopisa za analitičare podataka",
   "description": "Besplatni primjer životopisa za analitičara podataka: potpuni izmišljeni primjer u predlošku Kompaktnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-data-analysts.html",
+  "id": "/hr/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

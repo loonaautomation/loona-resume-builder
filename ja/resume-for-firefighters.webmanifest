@@ -2,7 +2,7 @@
   "name": "Loona 消防士の履歴書サンプル",
   "short_name": "消防士の履歴書サンプル",
   "description": "消防士の無料履歴書サンプル：Atsテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-firefighters.html",
+  "id": "/ja/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

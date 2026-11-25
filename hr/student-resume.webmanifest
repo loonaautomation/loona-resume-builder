@@ -2,7 +2,7 @@
   "name": "Loona Primjer studentskog životopisa",
   "short_name": "Primjer studentskog životopisa",
   "description": "Besplatni primjer studentskog životopisa: potpuni izmišljeni primjer, upute za tu razinu i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/student-resume.html",
+  "id": "/hr/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

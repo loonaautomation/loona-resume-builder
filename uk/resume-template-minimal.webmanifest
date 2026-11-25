@@ -2,7 +2,7 @@
   "name": "Loona Мінімалістичний шаблон резюме",
   "short_name": "Мінімалістичний шаблон резюме",
   "description": "Безкоштовний мінімалістичний шаблон резюме: для чого він, хто має його використовувати, коли не варто використовувати, і живий зразок. Відкрийте його в конструкторі та завантажте свій PDF — без реєстрації.",
-  "id": "/loona-resume-builder/uk/resume-template-minimal.html",
+  "id": "/uk/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

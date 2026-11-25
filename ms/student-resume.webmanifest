@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pelajar",
   "short_name": "Contoh Resume Pelajar",
   "description": "Contoh resume pelajar percuma: contoh rekaan yang lengkap, panduan khusus peringkat dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/student-resume.html",
+  "id": "/ms/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

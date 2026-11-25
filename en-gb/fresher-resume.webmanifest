@@ -2,7 +2,7 @@
   "name": "Loona Fresher Resume Resume Example",
   "short_name": "Fresher Resume Resume Example",
   "description": "Free fresher resume example: a complete fictional sample, level-specific guidance and FAQs. Edit the sample in the free builder and download your PDF.",
-  "id": "/loona-resume-builder/en-gb/fresher-resume.html",
+  "id": "/en-gb/fresher-resume.html",
   "start_url": "./fresher-resume.html",
   "scope": "./fresher-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla strażaków",
   "short_name": "Przykład CV dla strażaków",
   "description": "Darmowy przykład CV dla strażaków: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-firefighters.html",
+  "id": "/pl/resume-for-firefighters.html",
   "start_url": "./resume-for-firefighters.html",
   "scope": "./resume-for-firefighters.html",
   "display": "standalone",

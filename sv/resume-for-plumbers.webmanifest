@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för rörmokare",
   "short_name": "Exempel på CV för rörmokare",
   "description": "Gratis exempel på CV för rörmokare: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-plumbers.html",
+  "id": "/sv/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

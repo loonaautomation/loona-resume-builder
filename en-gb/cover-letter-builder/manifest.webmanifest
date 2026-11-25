@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-resume-builder/en-gb/cover-letter-builder/",
+  "id": "/en-gb/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

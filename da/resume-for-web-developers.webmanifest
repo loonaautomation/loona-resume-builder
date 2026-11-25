@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til webudviklere",
   "short_name": "Eksempel på CV til webudviklere",
   "description": "Gratis eksempel på CV til webudviklere: et komplet fiktivt eksempel i Kreativ-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-web-developers.html",
+  "id": "/da/resume-for-web-developers.html",
   "start_url": "./resume-for-web-developers.html",
   "scope": "./resume-for-web-developers.html",
   "display": "standalone",

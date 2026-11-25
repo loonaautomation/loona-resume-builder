@@ -2,7 +2,7 @@
   "name": "Loona Resume Builder",
   "short_name": "Loona Resume Builder",
   "description": "Crie um currículo profissional completamente grátis: pré-visualização A4 em direto, 8 modelos (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), transferência gratuita em PDF - sem registo, sem marca de água, e os seus dados nunca saem do seu dispositivo",
-  "id": "/loona-resume-builder/pt-pt/",
+  "id": "/pt-pt/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

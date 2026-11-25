@@ -2,7 +2,7 @@
   "name": "Loona Mẫu CV Sáng tạo",
   "short_name": "Mẫu CV Sáng tạo",
   "description": "Mẫu CV Sáng tạo miễn phí: nó dùng để làm gì, ai nên sử dụng, khi nào không nên dùng, và một mẫu trực tiếp. Mở nó trong trình tạo và tải PDF của bạn xuống — không cần đăng ký.",
-  "id": "/loona-resume-builder/vi/resume-template-creative.html",
+  "id": "/vi/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

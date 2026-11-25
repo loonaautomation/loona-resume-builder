@@ -2,7 +2,7 @@
   "name": "Loona Trình tạo Biodata Hôn nhân Miễn phí",
   "short_name": "Trình tạo Biodata Hôn nhân Miễn phí",
   "description": "Tạo biodata hôn nhân hoàn toàn miễn phí: các mục cá nhân, gia đình, học vấn và tử vi tùy chọn, kiểu Đơn giản và Trang trí, xem trước A4 trực tiếp và tải PDF miễn phí - không cần đăng ký, không hình mờ, dữ liệu không bao giờ rời khỏi thiết bị của bạn.",
-  "id": "/loona-resume-builder/vi/biodata-builder/",
+  "id": "/vi/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Elektrik Mühendisleri Özgeçmiş Örneği",
   "short_name": "Elektrik Mühendisleri Özgeçmiş Örneği",
   "description": "Ücretsiz elektrik mühendisi özgeçmiş örneği: Modern şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-electrical-engineers.html",
+  "id": "/tr/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

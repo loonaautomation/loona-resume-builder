@@ -2,7 +2,7 @@
   "name": "Loona İnşaat Yöneticileri Özgeçmiş Örneği",
   "short_name": "İnşaat Yöneticileri Özgeçmiş Örneği",
   "description": "Ücretsiz inşaat yöneticisi özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-construction-managers.html",
+  "id": "/tr/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

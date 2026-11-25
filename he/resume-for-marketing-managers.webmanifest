@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים למנהלי שיווק",
   "short_name": "קורות חיים למנהלי שיווק",
   "description": "דוגמת קורות חיים חינמית למנהל שיווק: דוגמה בדיונית מלאה בתבנית היצירתית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-marketing-managers.html",
+  "id": "/he/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för maskiningenjörer",
   "short_name": "CV för maskiningenjörer",
   "description": "Gratis exempel på CV för maskiningenjörer: ett komplett fiktivt exempel i den Klassiska mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-mechanical-engineers.html",
+  "id": "/sv/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

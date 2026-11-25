@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za računovođe i revizore",
   "short_name": "Računovođe i revizori",
   "description": "Besplatni primjer životopisa za računovođu i revizora: potpuni izmišljeni primjer u predlošku Profesionalnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-accountants-and-auditors.html",
+  "id": "/hr/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

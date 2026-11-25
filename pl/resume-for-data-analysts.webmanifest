@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla analityków danych",
   "short_name": "Przykład CV dla analityków danych",
   "description": "Darmowy przykład CV dla analityków danych: kompletny fikcyjny przykład w szablonie kompaktowym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-data-analysts.html",
+  "id": "/pl/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

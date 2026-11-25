@@ -2,7 +2,7 @@
   "name": "Loona Modern Özgeçmiş Şablonu",
   "short_name": "Modern Özgeçmiş Şablonu",
   "description": "Ücretsiz Modern özgeçmiş şablonu: ne işe yaradığı, kimin kullanması gerektiği, ne zaman kullanılmaması gerektiği ve canlı bir örnek. Oluşturucuda açın ve PDF'inizi indirin — kayıt gerekmez.",
-  "id": "/loona-resume-builder/tr/resume-template-modern.html",
+  "id": "/tr/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

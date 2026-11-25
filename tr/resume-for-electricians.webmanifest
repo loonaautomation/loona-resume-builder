@@ -2,7 +2,7 @@
   "name": "Loona Elektrikçiler Özgeçmiş Örneği",
   "short_name": "Elektrikçiler Özgeçmiş Örneği",
   "description": "Ücretsiz elektrikçi özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-electricians.html",
+  "id": "/tr/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

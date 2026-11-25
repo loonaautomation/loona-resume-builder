@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับผู้เริ่มต้นทำงาน",
   "short_name": "ตัวอย่างเรซูเม่สำหรับผู้เริ่มต้น",
   "description": "ตัวอย่างเรซูเม่ผู้เริ่มต้นทำงานฟรี: ตัวอย่างสมมติที่สมบูรณ์ คำแนะนำเฉพาะระดับ และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/entry-level-resume.html",
+  "id": "/th/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

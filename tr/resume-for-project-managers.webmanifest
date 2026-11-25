@@ -2,7 +2,7 @@
   "name": "Loona Proje Yöneticileri Özgeçmiş Örneği",
   "short_name": "Proje Yöneticileri Özgeçmiş Örneği",
   "description": "Ücretsiz proje yöneticisi özgeçmiş örneği: Profesyonel şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-project-managers.html",
+  "id": "/tr/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

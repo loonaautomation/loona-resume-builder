@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla doświadczonych specjalistów",
   "short_name": "Przykład CV dla doświadczonych",
   "description": "Darmowy przykład CV dla doświadczonych specjalistów: kompletny fikcyjny przykład, wskazówki dla tego poziomu i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/mid-career-resume.html",
+  "id": "/pl/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona আধুনিক রিজিউমে টেমপ্লেট",
   "short_name": "আধুনিক রিজিউমে টেমপ্লেট",
   "description": "বিনামূল্যের আধুনিক রিজিউমে টেমপ্লেট: এটি কিসের জন্য, কে এটি ব্যবহার করবেন, কখন ব্যবহার করবেন না, এবং একটি লাইভ নমুনা। এটি বিল্ডারে খুলুন এবং আপনার PDF ডাউনলোড করুন — কোনো সাইন-আপ নেই।",
-  "id": "/loona-resume-builder/bn/resume-template-modern.html",
+  "id": "/bn/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

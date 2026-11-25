@@ -2,7 +2,7 @@
   "name": "Loona Free Cover Letter Builder",
   "short_name": "Free Cover Letter Builder",
   "description": "Build a professional cover letter completely free: guided three-paragraph form, live A4 preview in the Classic letter style, free PDF download - no sign-up, no watermark, data never leaves your device.",
-  "id": "/loona-resume-builder/en-us/cover-letter-builder/",
+  "id": "/en-us/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

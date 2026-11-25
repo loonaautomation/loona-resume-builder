@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Saintis Data",
   "short_name": "Contoh Resume Saintis Data",
   "description": "Contoh resume saintis data percuma: contoh rekaan yang lengkap dalam templat Moden, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-data-scientists.html",
+  "id": "/ms/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

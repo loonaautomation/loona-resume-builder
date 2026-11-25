@@ -2,7 +2,7 @@
   "name": "Loona עוזרים מנהליים",
   "short_name": "עוזרים מנהליים",
   "description": "דוגמת קורות חיים חינמית לעוזר מנהלי: דוגמה בדיונית מלאה בתבנית המינימלית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-administrative-assistants.html",
+  "id": "/he/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

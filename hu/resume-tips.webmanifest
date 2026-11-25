@@ -2,7 +2,7 @@
   "name": "Loona Hogyan írjunk önéletrajzot, amely interjúkat eredményez",
   "short_name": "Hogyan írjunk önéletrajzot, amely interjúkat eredményez",
   "description": "Gyakorlati, ingyenes útmutató olyan önéletrajz írásához, amelyet el is olvasnak: szerkezet, összefoglaló-formula, eredményfelsorolások számokkal, készségek, gyakori hibák és ATS-tippek. Ezután készítse el a sajátját ingyen.",
-  "id": "/loona-resume-builder/hu/resume-tips.html",
+  "id": "/hu/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

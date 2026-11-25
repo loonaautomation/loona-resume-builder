@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för elektroingenjörer",
   "short_name": "CV för elektroingenjörer",
   "description": "Gratis exempel på CV för elektroingenjörer: ett komplett fiktivt exempel i den Moderna mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-electrical-engineers.html",
+  "id": "/sv/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

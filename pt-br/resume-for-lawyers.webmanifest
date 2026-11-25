@@ -2,7 +2,7 @@
   "name": "Loona Exemplo de Currículo de Advogados",
   "short_name": "Exemplo de Currículo de",
   "description": "Exemplo de currículo de advogado grátis: um exemplo fictício completo no modelo Classic, dicas de recrutadores e perguntas frequentes. Edite o exemplo no criador gratuito e transfira o seu PDF.",
-  "id": "/loona-resume-builder/pt-br/resume-for-lawyers.html",
+  "id": "/pt-br/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

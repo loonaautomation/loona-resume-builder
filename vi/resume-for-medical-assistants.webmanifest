@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Trợ lý Y tế",
   "short_name": "Ví dụ CV Trợ lý Y tế",
   "description": "Ví dụ CV trợ lý Y tế miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Chuyên nghiệp, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-medical-assistants.html",
+  "id": "/vi/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

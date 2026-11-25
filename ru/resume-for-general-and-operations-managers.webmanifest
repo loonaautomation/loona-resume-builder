@@ -2,7 +2,7 @@
   "name": "Loona Резюме генерального и операционного менеджера",
   "short_name": "Резюме генерального и",
   "description": "Бесплатный пример резюме генерального и операционного менеджера: полный вымышленный образец в шаблоне Executive, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-general-and-operations-managers.html",
+  "id": "/ru/resume-for-general-and-operations-managers.html",
   "start_url": "./resume-for-general-and-operations-managers.html",
   "scope": "./resume-for-general-and-operations-managers.html",
   "display": "standalone",

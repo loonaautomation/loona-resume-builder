@@ -2,7 +2,7 @@
   "name": "Loona 이력서 체크리스트 - ATS & 완성도 검사",
   "short_name": "이력서 체크리스트 - ATS & 완성도 검사",
   "description": "무료 인터랙티브 이력서 체크리스트예요: 브라우저에 진행 상황이 저장되는 ATS 및 완성도 검사 20가지. 무료 Loona Resume Builder 및 Cover Letter Builder와 함께 사용하세요.",
-  "id": "/loona-resume-builder/ko/resume-checklist.html",
+  "id": "/ko/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

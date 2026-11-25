@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för förskollärare",
   "short_name": "CV för förskollärare",
   "description": "Gratis exempel på CV för förskollärare: ett komplett fiktivt exempel i den Klassiska mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-preschool-teachers.html",
+  "id": "/sv/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

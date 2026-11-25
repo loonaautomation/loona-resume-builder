@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме бухгалтеров и аудиторов",
   "short_name": "Бухгалтеры и аудиторы",
   "description": "Бесплатный пример резюме бухгалтера и аудитора: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-accountants-and-auditors.html",
+  "id": "/ru/resume-for-accountants-and-auditors.html",
   "start_url": "./resume-for-accountants-and-auditors.html",
   "scope": "./resume-for-accountants-and-auditors.html",
   "display": "standalone",

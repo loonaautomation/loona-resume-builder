@@ -2,7 +2,7 @@
   "name": "Loona Datatieteilijöiden ansioluetteloesimerkki",
   "short_name": "Datatieteilijöiden ansioluetteloesimerkki",
   "description": "Ilmainen datatieteilijän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Modernin mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-data-scientists.html",
+  "id": "/fi/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

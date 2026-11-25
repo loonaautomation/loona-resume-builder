@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักวิเคราะห์ข้อมูล",
   "short_name": "ตัวอย่างเรซูเม่สำหรับนักวิเคราะห์ข้อมูล",
   "description": "ตัวอย่างเรซูเม่นักวิเคราะห์ข้อมูลฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตกะทัดรัด เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-data-analysts.html",
+  "id": "/th/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

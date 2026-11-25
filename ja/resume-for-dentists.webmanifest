@@ -2,7 +2,7 @@
   "name": "Loona 歯科医師の履歴書サンプル",
   "short_name": "歯科医師の履歴書サンプル",
   "description": "歯科医師の無料履歴書サンプル：プロフェッショナルテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-dentists.html",
+  "id": "/ja/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

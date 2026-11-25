@@ -2,7 +2,7 @@
   "name": "Loona Johtajan ansioluetteloesimerkki",
   "short_name": "Johtajan ansioluetteloesimerkki",
   "description": "Ilmainen johtotason ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/executive-resume.html",
+  "id": "/fi/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

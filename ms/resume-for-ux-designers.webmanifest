@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pereka UX",
   "short_name": "Contoh Resume Pereka UX",
   "description": "Contoh resume pereka UX percuma: contoh rekaan yang lengkap dalam templat Kreatif, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-ux-designers.html",
+  "id": "/ms/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

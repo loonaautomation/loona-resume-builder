@@ -2,7 +2,7 @@
   "name": "Loona Modelo de Currículo ATS",
   "short_name": "Modelo de Currículo ATS",
   "description": "Modelo de currículo ATS grátis: para que serve, quem o deve usar, quando não o deve usar, e um exemplo ao vivo. Abra-o no criador e transfira o seu PDF — sem registro.",
-  "id": "/loona-resume-builder/pt-br/resume-template-ats.html",
+  "id": "/pt-br/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

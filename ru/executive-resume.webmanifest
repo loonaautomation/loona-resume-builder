@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме руководителя",
   "short_name": "Резюме руководителя — резюме",
   "description": "Бесплатный пример резюме руководителя высшего звена: полный вымышленный образец, рекомендации для этого уровня и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/executive-resume.html",
+  "id": "/ru/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

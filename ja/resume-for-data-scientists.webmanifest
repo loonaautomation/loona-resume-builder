@@ -2,7 +2,7 @@
   "name": "Loona データサイエンティストの履歴書サンプル",
   "short_name": "データサイエンティストの履歴書サンプル",
   "description": "データサイエンティストの無料履歴書サンプル：モダンテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-data-scientists.html",
+  "id": "/ja/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona מורים בבתי ספר יסודיים",
   "short_name": "מורים בבתי ספר יסודיים",
   "description": "דוגמת קורות חיים חינמית למורה בבית ספר יסודי: דוגמה בדיונית מלאה בתבנית הקלאסית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-elementary-school-teachers.html",
+  "id": "/he/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

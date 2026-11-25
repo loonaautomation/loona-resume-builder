@@ -2,7 +2,7 @@
   "name": "Loona ATS रिज़्यूमे टेम्पलेट",
   "short_name": "ATS रिज़्यूमे टेम्पलेट",
   "description": "मुफ़्त ATS रिज़्यूमे टेम्पलेट: यह किसके लिए है, किसे इसका उपयोग करना चाहिए, कब नहीं करना चाहिए, और एक लाइव नमूना। इसे बिल्डर में खोलें और अपनी PDF डाउनलोड करें — कोई साइन-अप नहीं।",
-  "id": "/loona-resume-builder/hi/resume-template-ats.html",
+  "id": "/hi/resume-template-ats.html",
   "start_url": "./resume-template-ats.html",
   "scope": "./resume-template-ats.html",
   "display": "standalone",

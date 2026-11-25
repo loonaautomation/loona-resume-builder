@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla farmaceutów",
   "short_name": "Przykład CV dla farmaceutów",
   "description": "Darmowy przykład CV dla farmaceutów: kompletny fikcyjny przykład w szablonie profesjonalnym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-pharmacists.html",
+  "id": "/pl/resume-for-pharmacists.html",
   "start_url": "./resume-for-pharmacists.html",
   "scope": "./resume-for-pharmacists.html",
   "display": "standalone",

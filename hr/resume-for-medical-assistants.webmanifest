@@ -2,7 +2,7 @@
   "name": "Loona Primjer životopisa za medicinske asistente",
   "short_name": "Životopis za medicinske asistente",
   "description": "Besplatni primjer životopisa za medicinskog asistenta: potpuni izmišljeni primjer u predlošku Profesionalnom, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-medical-assistants.html",
+  "id": "/hr/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vezetői önéletrajz-sablon",
   "short_name": "Vezetői önéletrajz-sablon",
   "description": "Ingyenes Vezetői önéletrajz-sablon: mire való, kinek érdemes használnia, mikor nem érdemes, és egy élő minta. Nyissa meg a készítőben, és töltse le a PDF-jét — regisztráció nélkül.",
-  "id": "/loona-resume-builder/hu/resume-template-executive.html",
+  "id": "/hu/resume-template-executive.html",
   "start_url": "./resume-template-executive.html",
   "scope": "./resume-template-executive.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for sosionomer",
   "short_name": "CV-eksempel for sosionomer",
   "description": "Gratis CV-eksempel for sosionom: et komplett fiktivt eksempel i Klassisk-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-social-workers.html",
+  "id": "/nb/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

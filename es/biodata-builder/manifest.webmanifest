@@ -2,7 +2,7 @@
   "name": "Loona Creador de biodata matrimonial gratuito",
   "short_name": "Creador de biodata",
   "description": "Crear un biodata matrimonial completamente gratis: secciones personales, familiares, educativas y de horóscopo opcional, estilos Simple y Decorative, vista previa A4 en vivo y descarga gratuita en PDF, sin registro, sin marca de agua y con los datos siempre en el dispositivo.",
-  "id": "/loona-resume-builder/es/biodata-builder/",
+  "id": "/es/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

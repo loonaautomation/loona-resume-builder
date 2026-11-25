@@ -2,7 +2,7 @@
   "name": "Loona Ilmainen avioliittobiodatan rakentaja",
   "short_name": "Ilmainen avioliittobiodatan rakentaja",
   "description": "Rakenna avioliittobiodata täysin ilmaiseksi: henkilö-, perhe-, koulutus- ja valinnainen horoskooppiosio, Yksinkertainen ja Koristeellinen tyyli, reaaliaikainen A4-esikatselu ja ilmainen PDF-lataus - ei rekisteröitymistä, ei vesileimaa, tiedot eivät koskaan poistu laitteeltasi.",
-  "id": "/loona-resume-builder/fi/biodata-builder/",
+  "id": "/fi/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

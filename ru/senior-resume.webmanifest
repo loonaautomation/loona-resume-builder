@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме старшего специалиста",
   "short_name": "Пример резюме старшего специалиста",
   "description": "Бесплатный пример резюме опытного специалиста: полный вымышленный образец, рекомендации для этого уровня и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/senior-resume.html",
+  "id": "/ru/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

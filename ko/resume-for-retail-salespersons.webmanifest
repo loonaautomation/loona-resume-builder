@@ -2,7 +2,7 @@
   "name": "Loona 소매 판매원 이력서 예시",
   "short_name": "소매 판매원 이력서 예시",
   "description": "무료 소매 판매원 이력서 예시: 모던 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/resume-for-retail-salespersons.html",
+  "id": "/ko/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

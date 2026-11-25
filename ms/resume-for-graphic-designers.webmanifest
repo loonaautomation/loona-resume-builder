@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pereka Grafik",
   "short_name": "Contoh Resume Pereka Grafik",
   "description": "Contoh resume pereka grafik percuma: contoh rekaan yang lengkap dalam templat Kreatif, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-graphic-designers.html",
+  "id": "/ms/resume-for-graphic-designers.html",
   "start_url": "./resume-for-graphic-designers.html",
   "scope": "./resume-for-graphic-designers.html",
   "display": "standalone",

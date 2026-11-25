@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لمندوبي مبيعات التجزئة",
   "short_name": "السيرة الذاتية لمندوبي مبيعات التجزئة",
   "description": "مثال مجاني على السيرة الذاتية لبائع تجزئة: نموذج خيالي كامل في قالب Modern، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-retail-salespersons.html",
+  "id": "/ar/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

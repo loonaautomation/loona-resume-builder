@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับทนายความ",
   "short_name": "ตัวอย่างเรซูเม่สำหรับทนายความ",
   "description": "ตัวอย่างเรซูเม่ทนายความฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตคลาสสิก เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-lawyers.html",
+  "id": "/th/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

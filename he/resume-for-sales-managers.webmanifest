@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים למנהלי מכירות",
   "short_name": "דוגמת קורות חיים למנהלי מכירות",
   "description": "דוגמת קורות חיים חינמית למנהל מכירות: דוגמה בדיונית מלאה בתבנית הבכירים, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-sales-managers.html",
+  "id": "/he/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

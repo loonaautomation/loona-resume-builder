@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Έμπειρου Επαγγελματία",
   "short_name": "Παράδειγμα Βιογραφικού Έμπειρου Επαγγελματία",
   "description": "Δωρεάν παράδειγμα βιογραφικού έμπειρου επαγγελματία: ένα πλήρες φανταστικό δείγμα, καθοδήγηση ανά επίπεδο και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/senior-resume.html",
+  "id": "/el/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

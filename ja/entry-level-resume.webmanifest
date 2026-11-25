@@ -2,7 +2,7 @@
   "name": "Loona エントリーレベルの履歴書サンプル",
   "short_name": "エントリーレベルの履歴書サンプル",
   "description": "エントリーレベルの無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/entry-level-resume.html",
+  "id": "/ja/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

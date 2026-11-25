@@ -2,7 +2,7 @@
   "name": "Loona قالب السيرة الذاتية العصري",
   "short_name": "قالب السيرة الذاتية العصري",
   "description": "قالب سيرة ذاتية مجاني Modern: ما هو، ومن ينبغي أن يستخدمه، ومتى لا تستخدمه، ونموذج مباشر. افتحه في المنشئ ونزّل ملف PDF الخاص بك — دون تسجيل.",
-  "id": "/loona-resume-builder/ar/resume-template-modern.html",
+  "id": "/ar/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

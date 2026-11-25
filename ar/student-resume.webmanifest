@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للطلاب",
   "short_name": "مثال على السيرة الذاتية للطلاب",
   "description": "مثال مجاني على السيرة الذاتية للطلاب: نموذج خيالي كامل، وإرشادات خاصة بالمستوى، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/student-resume.html",
+  "id": "/ar/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

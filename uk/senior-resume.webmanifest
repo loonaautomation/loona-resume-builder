@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме досвідченого фахівця",
   "short_name": "Приклад резюме досвідченого фахівця",
   "description": "Безкоштовний приклад резюме досвідченого фахівця: повний вигаданий зразок, поради для конкретного рівня та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/senior-resume.html",
+  "id": "/uk/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

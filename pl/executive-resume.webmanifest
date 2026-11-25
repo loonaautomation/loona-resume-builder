@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla kadry kierowniczej",
   "short_name": "CV dla kadry kierowniczej",
   "description": "Darmowy przykład CV dla kadry kierowniczej: kompletny fikcyjny przykład, wskazówki dla tego poziomu i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/executive-resume.html",
+  "id": "/pl/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

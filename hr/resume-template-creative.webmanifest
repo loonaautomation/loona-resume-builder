@@ -2,7 +2,7 @@
   "name": "Loona Kreativni predložak životopisa",
   "short_name": "Kreativni predložak životopisa",
   "description": "Besplatni Kreativni predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-creative.html",
+  "id": "/hr/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

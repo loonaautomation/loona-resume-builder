@@ -2,7 +2,7 @@
   "name": "Loona Moderná šablóna životopisu",
   "short_name": "Moderná šablóna životopisu",
   "description": "Bezplatná šablóna životopisu Modern: na čo slúži, kto by ju mal používať, kedy ju nepoužívať, a živý vzor. Otvorte ju v nástroji a stiahnite si svoje PDF — bez registrácie.",
-  "id": "/loona-resume-builder/sk/resume-template-modern.html",
+  "id": "/sk/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

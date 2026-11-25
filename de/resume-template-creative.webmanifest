@@ -2,7 +2,7 @@
   "name": "Loona Creative-Lebenslaufvorlage",
   "short_name": "Creative-Lebenslaufvorlage",
   "description": "Kostenlose Lebenslaufvorlage für Kreative: wofür sie ist, wer sie verwenden sollte, wann sie nicht verwendet werden sollte und ein Live-Beispiel. Öffnen Sie es im Builder und laden Sie Ihre PDF-Datei herunter — keine Anmeldung.",
-  "id": "/loona-resume-builder/de/resume-template-creative.html",
+  "id": "/de/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

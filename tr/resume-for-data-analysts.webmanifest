@@ -2,7 +2,7 @@
   "name": "Loona Veri Analistleri Özgeçmiş Örneği",
   "short_name": "Veri Analistleri Özgeçmiş Örneği",
   "description": "Ücretsiz veri analisti özgeçmiş örneği: Kompakt şablonda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-data-analysts.html",
+  "id": "/tr/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

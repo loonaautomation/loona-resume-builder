@@ -2,7 +2,7 @@
   "name": "Loona Entry-Level Resume Resume Example",
   "short_name": "Entry-Level Resume Resume",
   "description": "דוגמת קורות חיים חינמית לרמת כניסה: דוגמה בדיונית מלאה, הנחיה לפי רמה ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/entry-level-resume.html",
+  "id": "/he/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

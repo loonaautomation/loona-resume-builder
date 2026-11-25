@@ -2,7 +2,7 @@
   "name": "Loona Lääkäriavustajien ansioluetteloesimerkki",
   "short_name": "Lääkäriavustajien ansioluetteloesimerkki",
   "description": "Ilmainen lääkäriavustajan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Ammattimaisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-medical-assistants.html",
+  "id": "/fi/resume-for-medical-assistants.html",
   "start_url": "./resume-for-medical-assistants.html",
   "scope": "./resume-for-medical-assistants.html",
   "display": "standalone",

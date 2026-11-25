@@ -2,7 +2,7 @@
   "name": "Loona Gratis sollicitatiebrief-bouwer",
   "short_name": "Gratis sollicitatiebrief-bouwer",
   "description": "Bouw een professionele sollicitatiebrief volledig gratis: begeleid formulier met drie alinea's, live A4-voorbeeld in de Klassieke briefstijl, gratis pdf-download - geen aanmelding, geen watermerk, gegevens verlaten nooit je apparaat.",
-  "id": "/loona-resume-builder/nl/cover-letter-builder/",
+  "id": "/nl/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

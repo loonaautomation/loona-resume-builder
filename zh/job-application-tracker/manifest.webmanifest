@@ -2,7 +2,7 @@
   "name": "Loona 免费求职申请跟踪器",
   "short_name": "求职申请跟踪器",
   "description": "免费跟踪每一个求职申请：一块简单的看板（已保存、已申请、面试、录用），带有截止日期、跟进提醒和 CSV/JSON 导出。付费跟踪工具每月收费 $29-$40——这个完全免费，无需注册，您的数据永远不会离开您的设备。",
-  "id": "/loona-resume-builder/zh/job-application-tracker/",
+  "id": "/zh/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

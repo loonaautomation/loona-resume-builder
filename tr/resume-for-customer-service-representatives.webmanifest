@@ -2,7 +2,7 @@
   "name": "Loona Müşteri Hizmetleri Temsilcileri Özgeçmiş Örneği",
   "short_name": "Müşteri Hizmetleri Temsilcileri",
   "description": "Ücretsiz müşteri hizmetleri temsilcisi özgeçmiş örneği: ATS şablonunda eksiksiz kurgusal bir örnek, işe alım uzmanı ipuçları ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/resume-for-customer-service-representatives.html",
+  "id": "/tr/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

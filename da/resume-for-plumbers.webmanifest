@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til blikkenslagere",
   "short_name": "Eksempel på CV til blikkenslagere",
   "description": "Gratis eksempel på CV til blikkenslagere: et komplet fiktivt eksempel i ATS-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-plumbers.html",
+  "id": "/da/resume-for-plumbers.html",
   "start_url": "./resume-for-plumbers.html",
   "scope": "./resume-for-plumbers.html",
   "display": "standalone",

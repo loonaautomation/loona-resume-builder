@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับพยาบาลวิชาชีพ",
   "short_name": "เรซูเม่สำหรับพยาบาลวิชาชีพ",
   "description": "ตัวอย่างเรซูเม่พยาบาลวิชาชีพฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-registered-nurses.html",
+  "id": "/th/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

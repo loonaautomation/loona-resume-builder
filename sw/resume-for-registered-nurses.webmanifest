@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Wauguzi Waliosajiliwa",
   "short_name": "Mfano wa Wasifu wa Kazi wa Wauguzi Waliosajiliwa",
   "description": "Mfano wa wasifu wa kazi wa muuguzi aliyesajiliwa bure: mfano kamili wa kubuni katika kiolezo cha Kitaalamu, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-registered-nurses.html",
+  "id": "/sw/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

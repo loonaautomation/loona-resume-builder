@@ -2,7 +2,7 @@
   "name": "Loona דוגמת קורות חיים לבכירים מנוסים",
   "short_name": "דוגמת קורות חיים לבכירים מנוסים",
   "description": "דוגמת קורות חיים חינמית לבכיר: דוגמה בדיונית מלאה, הנחיה לפי רמה ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/senior-resume.html",
+  "id": "/he/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

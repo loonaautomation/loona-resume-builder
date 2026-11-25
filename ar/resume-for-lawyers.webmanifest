@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للمحامين",
   "short_name": "مثال على السيرة الذاتية للمحامين",
   "description": "مثال مجاني على السيرة الذاتية لمحامٍ: نموذج خيالي كامل في قالب Classic، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-lawyers.html",
+  "id": "/ar/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

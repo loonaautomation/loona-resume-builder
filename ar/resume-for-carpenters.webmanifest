@@ -2,7 +2,7 @@
   "name": "Loona مثال على السيرة الذاتية للنجارين",
   "short_name": "مثال على السيرة الذاتية للنجارين",
   "description": "مثال مجاني على السيرة الذاتية لنجار: نموذج خيالي كامل في قالب Ats، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-carpenters.html",
+  "id": "/ar/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

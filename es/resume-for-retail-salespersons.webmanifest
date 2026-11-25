@@ -2,7 +2,7 @@
   "name": "Loona Ejemplo de currículum de vendedores",
   "short_name": "Ejemplo de currículum de",
   "description": "Ejemplo de currículum de vendedor minorista gratuito: a complete fictional sample in the Modern template, recruiter tips and FAQs. Edit the sample in the creador gratuito and descargar el PDF.",
-  "id": "/loona-resume-builder/es/resume-for-retail-salespersons.html",
+  "id": "/es/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

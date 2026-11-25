@@ -2,7 +2,7 @@
   "name": "Loona Резюме начального уровня — пример резюме",
   "short_name": "Резюме начального уровня —",
   "description": "Бесплатный пример резюме начального уровня: полный вымышленный образец, рекомендации для этого уровня и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/entry-level-resume.html",
+  "id": "/ru/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

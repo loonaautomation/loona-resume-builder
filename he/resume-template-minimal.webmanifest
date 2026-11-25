@@ -2,7 +2,7 @@
   "name": "Loona תבנית קורות חיים מינימלית",
   "short_name": "תבנית קורות חיים מינימלית",
   "description": "תבנית קורות חיים מינימלית חינמית: למה היא מיועדת, מי צריך להשתמש בה, מתי לא להשתמש בה, ודוגמה חיה. פתחו אותה בבונה והורידו את ה-PDF שלכם — ללא הרשמה.",
-  "id": "/loona-resume-builder/he/resume-template-minimal.html",
+  "id": "/he/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

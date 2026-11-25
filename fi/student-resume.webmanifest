@@ -2,7 +2,7 @@
   "name": "Loona Opiskelijan ansioluetteloesimerkki",
   "short_name": "Opiskelijan ansioluetteloesimerkki",
   "description": "Ilmainen opiskelijan ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki, tasokohtaista ohjeistusta ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/student-resume.html",
+  "id": "/fi/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 경찰관 이력서 예시",
   "short_name": "경찰관 이력서 예시",
   "description": "무료 경찰관 이력서 예시: ATS 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/resume-for-police-officers.html",
+  "id": "/ko/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

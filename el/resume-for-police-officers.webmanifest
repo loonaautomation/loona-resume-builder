@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Αστυνομικών",
   "short_name": "Παράδειγμα Βιογραφικού Αστυνομικών",
   "description": "Δωρεάν παράδειγμα βιογραφικού αστυνομικού: ένα πλήρες φανταστικό δείγμα στο πρότυπο ATS, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-police-officers.html",
+  "id": "/el/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

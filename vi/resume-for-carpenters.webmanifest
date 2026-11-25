@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Thợ mộc",
   "short_name": "Ví dụ CV Thợ mộc",
   "description": "Ví dụ CV thợ mộc miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu ATS, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-carpenters.html",
+  "id": "/vi/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

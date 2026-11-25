@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for finansanalytikere",
   "short_name": "CV-eksempel for finansanalytikere",
   "description": "Gratis CV-eksempel for finansanalytiker: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-financial-analysts.html",
+  "id": "/nb/resume-for-financial-analysts.html",
   "start_url": "./resume-for-financial-analysts.html",
   "scope": "./resume-for-financial-analysts.html",
   "display": "standalone",

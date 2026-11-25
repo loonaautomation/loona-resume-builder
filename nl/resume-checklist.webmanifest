@@ -2,7 +2,7 @@
   "name": "Loona Cv-checklist - ATS- & volledigheidscontrole",
   "short_name": "Cv-checklist - ATS- & volledigheidscontrole",
   "description": "Een gratis interactieve cv-checklist: 20 ATS- en volledigheidscontroles met voortgang die in je browser wordt opgeslagen. Past bij de gratis Loona Resume Builder en Cover Letter Builder.",
-  "id": "/loona-resume-builder/nl/resume-checklist.html",
+  "id": "/nl/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

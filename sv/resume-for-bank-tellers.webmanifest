@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för bankkassörer",
   "short_name": "Exempel på CV för bankkassörer",
   "description": "Gratis exempel på CV för bankkassörer: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-bank-tellers.html",
+  "id": "/sv/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

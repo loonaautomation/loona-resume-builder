@@ -2,7 +2,7 @@
   "name": "Loona Cv-voorbeeld voor maatschappelijk werkers",
   "short_name": "Cv-voorbeeld voor maatschappelijk werkers",
   "description": "Gratis cv-voorbeeld voor maatschappelijk werkers: een compleet fictief voorbeeld in het Klassieke sjabloon, recruitertips en veelgestelde vragen. Bewerk het voorbeeld in de gratis bouwer en download je pdf.",
-  "id": "/loona-resume-builder/nl/resume-for-social-workers.html",
+  "id": "/nl/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

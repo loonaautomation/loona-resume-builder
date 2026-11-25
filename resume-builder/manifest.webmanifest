@@ -2,7 +2,7 @@
   "name": "Loona Free Resume Builder Online",
   "short_name": "Free Resume Builder Online",
   "description": "Build your resume free online: live A4 preview, 8 templates (Classic, Modern, Minimal, ATS, Creative, Professional, Executive, Compact), unlimited experience and education entries, free PDF download. No sign-up, no watermark - your data never leaves your device.",
-  "id": "/loona-resume-builder/resume-builder/",
+  "id": "/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

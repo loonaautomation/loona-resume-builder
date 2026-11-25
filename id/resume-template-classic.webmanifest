@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Klasik",
   "short_name": "Templat Resume Klasik",
   "description": "Templat resume Klasik gratis: untuk apa, siapa yang sebaiknya menggunakannya, kapan sebaiknya tidak digunakan, dan contoh langsung. Buka di pembuat dan unduh PDF Anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/id/resume-template-classic.html",
+  "id": "/id/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

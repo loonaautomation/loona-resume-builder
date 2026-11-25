@@ -2,7 +2,7 @@
   "name": "Loona Vérificateur ATS de CV gratuit",
   "short_name": "Vérificateur ATS de CV",
   "description": "Vérifiez votre CV gratuitement : collez votre CV pour noter son exhaustivité, ses rubriques, ses verbes d’action et ses chiffres, et collez une offre d’emploi pour voir votre score de correspondance des mots-clés. Sans inscription : tout s’exécute dans votre navigateur, rien n’est téléversé.",
-  "id": "/loona-resume-builder/fr/ats-resume-checker/",
+  "id": "/fr/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

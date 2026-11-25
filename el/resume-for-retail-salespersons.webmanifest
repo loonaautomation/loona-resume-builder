@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Πωλητών Λιανικής",
   "short_name": "Παράδειγμα Βιογραφικού Πωλητών Λιανικής",
   "description": "Δωρεάν παράδειγμα βιογραφικού πωλητή λιανικής: ένα πλήρες φανταστικό δείγμα στο Μοντέρνο πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-retail-salespersons.html",
+  "id": "/el/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

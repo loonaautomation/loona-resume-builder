@@ -2,7 +2,7 @@
   "name": "Loona Exempel på chefs-CV",
   "short_name": "Chefs-CV",
   "description": "Gratis exempel på chefs-CV: ett komplett fiktivt exempel, nivåspecifik vägledning och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/executive-resume.html",
+  "id": "/sv/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Chuyên viên Phân tích Dữ liệu",
   "short_name": "Ví dụ CV Chuyên viên Phân tích Dữ liệu",
   "description": "Ví dụ CV chuyên viên Phân tích Dữ liệu miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Gọn nhẹ, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-data-analysts.html",
+  "id": "/vi/resume-for-data-analysts.html",
   "start_url": "./resume-for-data-analysts.html",
   "scope": "./resume-for-data-analysts.html",
   "display": "standalone",

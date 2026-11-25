@@ -2,7 +2,7 @@
   "name": "Loona Mid-Career Resume Resume Example",
   "short_name": "Mid-Career Resume Resume",
   "description": "דוגמת קורות חיים חינמית לאמצע הקריירה: דוגמה בדיונית מלאה, הנחיה לפי רמה ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/mid-career-resume.html",
+  "id": "/he/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

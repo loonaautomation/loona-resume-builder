@@ -2,7 +2,7 @@
   "name": "Loona Sosiaalityöntekijöiden ansioluetteloesimerkki",
   "short_name": "Sosiaalityöntekijöiden ansioluetteloesimerkki",
   "description": "Ilmainen sosiaalityöntekijän ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Klassisen mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-social-workers.html",
+  "id": "/fi/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

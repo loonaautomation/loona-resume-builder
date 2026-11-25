@@ -2,7 +2,7 @@
   "name": "Loona 銀行窓口担当者の履歴書サンプル",
   "short_name": "銀行窓口担当者の履歴書サンプル",
   "description": "銀行窓口担当者の無料履歴書サンプル：Atsテンプレートの完全な架空サンプル、リクルーターのヒント、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/resume-for-bank-tellers.html",
+  "id": "/ja/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

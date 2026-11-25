@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Επιστημόνων Δεδομένων",
   "short_name": "Παράδειγμα Βιογραφικού Επιστημόνων Δεδομένων",
   "description": "Δωρεάν παράδειγμα βιογραφικού επιστήμονα δεδομένων: ένα πλήρες φανταστικό δείγμα στο Μοντέρνο πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-data-scientists.html",
+  "id": "/el/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

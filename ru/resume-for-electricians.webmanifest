@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме электриков",
   "short_name": "Пример резюме электриков",
   "description": "Бесплатный пример резюме электрика: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-electricians.html",
+  "id": "/ru/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

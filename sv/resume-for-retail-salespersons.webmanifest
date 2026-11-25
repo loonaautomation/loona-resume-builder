@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för butikssäljare",
   "short_name": "CV för butikssäljare",
   "description": "Gratis exempel på CV för butikssäljare: ett komplett fiktivt exempel i den Moderna mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-retail-salespersons.html",
+  "id": "/sv/resume-for-retail-salespersons.html",
   "start_url": "./resume-for-retail-salespersons.html",
   "scope": "./resume-for-retail-salespersons.html",
   "display": "standalone",

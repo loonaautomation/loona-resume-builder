@@ -2,7 +2,7 @@
   "name": "Loona Tapasztalt szakember önéletrajza mintája",
   "short_name": "Tapasztalt szakember önéletrajza mintája",
   "description": "Ingyenes tapasztalt szakember önéletrajz-minta: teljes, fiktív minta, szintnek megfelelő útmutatás és GYIK. Szerkessze a mintát az ingyenes készítőben, és töltse le a PDF-jét.",
-  "id": "/loona-resume-builder/hu/mid-career-resume.html",
+  "id": "/hu/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

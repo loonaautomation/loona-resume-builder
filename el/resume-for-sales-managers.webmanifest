@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Διευθυντών Πωλήσεων",
   "short_name": "Παράδειγμα Βιογραφικού Διευθυντών Πωλήσεων",
   "description": "Δωρεάν παράδειγμα βιογραφικού διευθυντή πωλήσεων: ένα πλήρες φανταστικό δείγμα στο πρότυπο Στελέχους, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-sales-managers.html",
+  "id": "/el/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

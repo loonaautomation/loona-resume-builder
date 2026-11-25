@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru asistenți sociali",
   "short_name": "Exemplu de CV pentru asistenți sociali",
   "description": "Exemplu gratuit de CV de asistent social: un exemplu fictiv complet în șablonul Clasic, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-social-workers.html",
+  "id": "/ro/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exempel på CV för poliser",
   "short_name": "Exempel på CV för poliser",
   "description": "Gratis exempel på CV för poliser: ett komplett fiktivt exempel i ATS-mallen, rekryterartips och vanliga frågor. Redigera exemplet i den kostnadsfria byggaren och ladda ned din PDF.",
-  "id": "/loona-resume-builder/sv/resume-for-police-officers.html",
+  "id": "/sv/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

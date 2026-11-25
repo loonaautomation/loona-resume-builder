@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Walimu wa Shule za Msingi",
   "short_name": "Mfano wa Wasifu wa Kazi wa Walimu wa Shule za Msingi",
   "description": "Mfano wa wasifu wa kazi wa mwalimu wa shule ya msingi bure: mfano kamili wa kubuni katika kiolezo cha Klasiki, vidokezo vya waajiri na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/resume-for-elementary-school-teachers.html",
+  "id": "/sw/resume-for-elementary-school-teachers.html",
   "start_url": "./resume-for-elementary-school-teachers.html",
   "scope": "./resume-for-elementary-school-teachers.html",
   "display": "standalone",

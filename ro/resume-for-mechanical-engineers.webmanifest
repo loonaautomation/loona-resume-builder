@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru ingineri mecanici",
   "short_name": "CV pentru ingineri mecanici",
   "description": "Exemplu gratuit de CV de inginer mecanic: un exemplu fictiv complet în șablonul Clasic, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-mechanical-engineers.html",
+  "id": "/ro/resume-for-mechanical-engineers.html",
   "start_url": "./resume-for-mechanical-engineers.html",
   "scope": "./resume-for-mechanical-engineers.html",
   "display": "standalone",

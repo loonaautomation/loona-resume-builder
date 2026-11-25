@@ -2,7 +2,7 @@
   "name": "Loona 치과의사 이력서",
   "short_name": "치과의사 이력서",
   "description": "무료 치과의사 이력서 예시: 프로페셔널 템플릿으로 만든 완전한 가상 샘플, 채용 담당자 팁과 FAQ예요. 무료 빌더에서 샘플을 편집하고 PDF를 다운로드하세요.",
-  "id": "/loona-resume-builder/ko/resume-for-dentists.html",
+  "id": "/ko/resume-for-dentists.html",
   "start_url": "./resume-for-dentists.html",
   "scope": "./resume-for-dentists.html",
   "display": "standalone",

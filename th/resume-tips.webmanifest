@@ -2,7 +2,7 @@
   "name": "Loona วิธีเขียนเรซูเม่ที่ได้สัมภาษณ์",
   "short_name": "วิธีเขียนเรซูเม่ที่ได้สัมภาษณ์",
   "description": "คู่มือฟรีที่ใช้งานได้จริงสำหรับการเขียนเรซูเม่ที่คนอ่าน: โครงสร้าง สูตรบทสรุป รายการผลงานพร้อมตัวเลข ทักษะ ข้อผิดพลาดที่พบบ่อย และเคล็ดลับ ATS จากนั้นสร้างเรซูเม่ของคุณฟรี",
-  "id": "/loona-resume-builder/th/resume-tips.html",
+  "id": "/th/resume-tips.html",
   "start_url": "./resume-tips.html",
   "scope": "./resume-tips.html",
   "display": "standalone",

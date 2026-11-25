@@ -2,7 +2,7 @@
   "name": "Loona قائمة التحقق للسيرة الذاتية",
   "short_name": "قائمة التحقق للسيرة الذاتية",
   "description": "قائمة تحقق تفاعلية مجانية للسيرة الذاتية: 20 فحصًا للتوافق مع ATS والاكتمال مع تقدم يُحفظ في متصفحك. تترافق مع منشئ Loona Resume Builder ومنشئ خطاب التقديم المجانيين.",
-  "id": "/loona-resume-builder/ar/resume-checklist.html",
+  "id": "/ar/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

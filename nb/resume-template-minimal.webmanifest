@@ -2,7 +2,7 @@
   "name": "Loona Minimalistisk CV-mal",
   "short_name": "Minimalistisk CV-mal",
   "description": "Gratis minimalistisk CV-mal: hva den er til, hvem som bør bruke den, når du ikke bør bruke den, og et direkte eksempel. Åpne den i byggeren og last ned PDF-en din — ingen registrering.",
-  "id": "/loona-resume-builder/nb/resume-template-minimal.html",
+  "id": "/nb/resume-template-minimal.html",
   "start_url": "./resume-template-minimal.html",
   "scope": "./resume-template-minimal.html",
   "display": "standalone",

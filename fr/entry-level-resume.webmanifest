@@ -2,7 +2,7 @@
   "name": "Loona Exemple de CV Débutant",
   "short_name": "Exemple de CV Débutant",
   "description": "Exemple de CV gratuit de débutant : un exemple fictif complet, des conseils propres au niveau et des FAQ. Modifiez l’exemple dans le générateur gratuit et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/entry-level-resume.html",
+  "id": "/fr/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

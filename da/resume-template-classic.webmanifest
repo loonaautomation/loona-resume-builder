@@ -2,7 +2,7 @@
   "name": "Loona Klassisk CV-skabelon",
   "short_name": "Klassisk CV-skabelon",
   "description": "Gratis Klassisk CV-skabelon: hvad den er til, hvem der bør bruge den, hvornår den ikke skal bruges, og et live eksempel. Åbn den i byggeren og download din PDF — ingen tilmelding.",
-  "id": "/loona-resume-builder/da/resume-template-classic.html",
+  "id": "/da/resume-template-classic.html",
   "start_url": "./resume-template-classic.html",
   "scope": "./resume-template-classic.html",
   "display": "standalone",

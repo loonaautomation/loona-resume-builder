@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме менеджера проектов",
   "short_name": "Резюме менеджера проектов",
   "description": "Бесплатный пример резюме менеджера проектов: полный вымышленный образец в шаблоне Professional, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-project-managers.html",
+  "id": "/ru/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

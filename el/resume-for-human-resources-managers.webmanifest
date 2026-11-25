@@ -2,7 +2,7 @@
   "name": "Loona Παράδειγμα Βιογραφικού Διευθυντών Ανθρώπινου Δυναμικού",
   "short_name": "Παράδειγμα Βιογραφικού Διευθυντών Ανθρώπινου Δυναμικού",
   "description": "Δωρεάν παράδειγμα βιογραφικού διευθυντή ανθρώπινου δυναμικού: ένα πλήρες φανταστικό δείγμα στο Επαγγελματικό πρότυπο, συμβουλές υπευθύνων προσλήψεων και συχνές ερωτήσεις. Επεξεργαστείτε το δείγμα στον δωρεάν δημιουργό και κατεβάστε το PDF σας.",
-  "id": "/loona-resume-builder/el/resume-for-human-resources-managers.html",
+  "id": "/el/resume-for-human-resources-managers.html",
   "start_url": "./resume-for-human-resources-managers.html",
   "scope": "./resume-for-human-resources-managers.html",
   "display": "standalone",

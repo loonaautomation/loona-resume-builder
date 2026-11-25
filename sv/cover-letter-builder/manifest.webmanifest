@@ -2,7 +2,7 @@
   "name": "Loona Gratis byggare för personliga brev",
   "short_name": "Gratis byggare för personliga brev",
   "description": "Bygg ett professionellt personligt brev helt gratis: guidat formulär i tre stycken, liveförhandsgranskning i A4 i den Klassiska brevstilen, gratis PDF-nedladdning - ingen registrering, ingen vattenstämpel, uppgifter lämnar aldrig din enhet.",
-  "id": "/loona-resume-builder/sv/cover-letter-builder/",
+  "id": "/sv/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

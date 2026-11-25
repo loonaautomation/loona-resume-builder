@@ -2,7 +2,7 @@
   "name": "Loona エグゼクティブの履歴書サンプル",
   "short_name": "エグゼクティブの履歴書サンプル",
   "description": "エグゼクティブの無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/executive-resume.html",
+  "id": "/ja/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

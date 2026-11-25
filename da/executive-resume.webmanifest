@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på leder-CV",
   "short_name": "Eksempel på leder-CV",
   "description": "Gratis eksempel på leder-CV: et komplet fiktivt eksempel, niveauspecifik vejledning og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/executive-resume.html",
+  "id": "/da/executive-resume.html",
   "start_url": "./executive-resume.html",
   "scope": "./executive-resume.html",
   "display": "standalone",

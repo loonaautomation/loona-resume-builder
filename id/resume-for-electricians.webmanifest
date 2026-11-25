@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Teknisi Listrik",
   "short_name": "Contoh Resume Teknisi Listrik",
   "description": "Contoh resume teknisi listrik gratis: contoh fiktif lengkap dalam templat ATS, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-electricians.html",
+  "id": "/id/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

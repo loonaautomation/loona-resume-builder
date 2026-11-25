@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til advokater",
   "short_name": "Eksempel på CV til advokater",
   "description": "Gratis eksempel på CV til advokater: et komplet fiktivt eksempel i Klassisk-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-lawyers.html",
+  "id": "/da/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

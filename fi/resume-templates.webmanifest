@@ -2,7 +2,7 @@
   "name": "Loona Ansioluettelomallit & esimerkit",
   "short_name": "Ansioluettelomallit & esimerkit",
   "description": "Ilmaiset ansioluettelomallit ja -esimerkit: 40 ammattiesimerkkiä, 8 mallia ja 6 uratasoa. Avaa mikä tahansa esimerkki ilmaisessa rakentajassa, tee siitä omasi ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-templates.html",
+  "id": "/fi/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

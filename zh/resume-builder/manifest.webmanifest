@@ -2,7 +2,7 @@
   "name": "Loona 免费简历生成器",
   "short_name": "免费简历生成器",
   "description": "在线免费制作您的简历：实时 A4 预览、8 个模板（经典、现代、极简、ATS、创意、专业、高管、紧凑）、不限数量的经历和教育条目、免费 PDF 下载。无需注册，无水印 — 您的数据不会离开您的设备。",
-  "id": "/loona-resume-builder/zh/resume-builder/",
+  "id": "/zh/resume-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

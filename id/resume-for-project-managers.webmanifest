@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Manajer Proyek",
   "short_name": "Contoh Resume Manajer Proyek",
   "description": "Contoh resume manajer proyek gratis: contoh fiktif lengkap dalam templat Profesional, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-project-managers.html",
+  "id": "/id/resume-for-project-managers.html",
   "start_url": "./resume-for-project-managers.html",
   "scope": "./resume-for-project-managers.html",
   "display": "standalone",

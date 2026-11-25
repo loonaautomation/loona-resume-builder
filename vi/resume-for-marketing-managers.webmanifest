@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Quản lý Marketing",
   "short_name": "Ví dụ CV Quản lý Marketing",
   "description": "Ví dụ CV quản lý Marketing miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Sáng tạo, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-marketing-managers.html",
+  "id": "/vi/resume-for-marketing-managers.html",
   "start_url": "./resume-for-marketing-managers.html",
   "scope": "./resume-for-marketing-managers.html",
   "display": "standalone",

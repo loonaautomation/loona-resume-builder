@@ -2,7 +2,7 @@
   "name": "Loona Resume Checklist",
   "short_name": "Resume Checklist",
   "description": "A free interactive resume checklist: 20 ATS and completeness checks with progress that saves in your browser. Pairs with the free Loona Resume Builder and Cover Letter Builder.",
-  "id": "/loona-resume-builder/resume-checklist.html",
+  "id": "/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

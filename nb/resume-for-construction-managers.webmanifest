@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for byggeledere",
   "short_name": "CV-eksempel for byggeledere",
   "description": "Gratis CV-eksempel for byggeleder: et komplett fiktivt eksempel i Profesjonell-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-construction-managers.html",
+  "id": "/nb/resume-for-construction-managers.html",
   "start_url": "./resume-for-construction-managers.html",
   "scope": "./resume-for-construction-managers.html",
   "display": "standalone",

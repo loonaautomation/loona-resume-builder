@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til salgschefer",
   "short_name": "Eksempel på CV til salgschefer",
   "description": "Gratis eksempel på CV til salgschefer: et komplet fiktivt eksempel i Lederskabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-sales-managers.html",
+  "id": "/da/resume-for-sales-managers.html",
   "start_url": "./resume-for-sales-managers.html",
   "scope": "./resume-for-sales-managers.html",
   "display": "standalone",

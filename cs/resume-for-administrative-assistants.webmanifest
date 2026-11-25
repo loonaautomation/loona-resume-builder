@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro administrativní asistenty",
   "short_name": "Administrativní asistenti",
   "description": "Bezplatný vzor životopisu pro administrativního asistenta: kompletní fiktivní ukázka v šabloně minimalistické, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-administrative-assistants.html",
+  "id": "/cs/resume-for-administrative-assistants.html",
   "start_url": "./resume-for-administrative-assistants.html",
   "scope": "./resume-for-administrative-assistants.html",
   "display": "standalone",

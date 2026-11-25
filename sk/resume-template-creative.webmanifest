@@ -2,7 +2,7 @@
   "name": "Loona Kreatívna šablóna životopisu",
   "short_name": "Kreatívna šablóna životopisu",
   "description": "Bezplatná šablóna životopisu Creative: na čo slúži, kto by ju mal používať, kedy ju nepoužívať, a živý vzor. Otvorte ju v nástroji a stiahnite si svoje PDF — bez registrácie.",
-  "id": "/loona-resume-builder/sk/resume-template-creative.html",
+  "id": "/sk/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

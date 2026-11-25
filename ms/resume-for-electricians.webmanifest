@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Juruelektrik",
   "short_name": "Contoh Resume Juruelektrik",
   "description": "Contoh resume juruelektrik percuma: contoh rekaan yang lengkap dalam templat ATS, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-electricians.html",
+  "id": "/ms/resume-for-electricians.html",
   "start_url": "./resume-for-electricians.html",
   "scope": "./resume-for-electricians.html",
   "display": "standalone",

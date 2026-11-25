@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Pegawai Polis",
   "short_name": "Contoh Resume Pegawai Polis",
   "description": "Contoh resume pegawai polis percuma: contoh rekaan yang lengkap dalam templat ATS, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-police-officers.html",
+  "id": "/ms/resume-for-police-officers.html",
   "start_url": "./resume-for-police-officers.html",
   "scope": "./resume-for-police-officers.html",
   "display": "standalone",

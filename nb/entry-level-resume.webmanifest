@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for nybegynnere",
   "short_name": "CV-eksempel for nybegynnere",
   "description": "Gratis CV-eksempel for nybegynner: et komplett fiktivt eksempel, nivåspesifikk veiledning og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/entry-level-resume.html",
+  "id": "/nb/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

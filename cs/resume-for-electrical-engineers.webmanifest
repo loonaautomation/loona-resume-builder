@@ -2,7 +2,7 @@
   "name": "Loona Vzor životopisu pro elektroinženýry",
   "short_name": "Životopis pro elektroinženýře",
   "description": "Bezplatný vzor životopisu pro elektroinženýra: kompletní fiktivní ukázka v šabloně moderní, tipy personalistů a časté dotazy. Upravte si vzor v bezplatném nástroji a stáhněte si své PDF.",
-  "id": "/loona-resume-builder/cs/resume-for-electrical-engineers.html",
+  "id": "/cs/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

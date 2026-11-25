@@ -2,7 +2,7 @@
   "name": "Loona Sähköinsinöörien ansioluetteloesimerkki",
   "short_name": "Sähköinsinöörien ansioluetteloesimerkki",
   "description": "Ilmainen sähköinsinöörin ansioluetteloesimerkki: täydellinen kuvitteellinen esimerkki Modernin mallissa, rekrytoijien vinkkejä ja usein kysyttyjä kysymyksiä. Muokkaa esimerkkiä ilmaisessa rakentajassa ja lataa PDF-tiedostosi.",
-  "id": "/loona-resume-builder/fi/resume-for-electrical-engineers.html",
+  "id": "/fi/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

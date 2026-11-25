@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักศึกษา",
   "short_name": "ตัวอย่างเรซูเม่สำหรับนักศึกษา",
   "description": "ตัวอย่างเรซูเม่นักศึกษาฟรี: ตัวอย่างสมมติที่สมบูรณ์ คำแนะนำเฉพาะระดับ และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/student-resume.html",
+  "id": "/th/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

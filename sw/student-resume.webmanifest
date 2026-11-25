@@ -2,7 +2,7 @@
   "name": "Loona Mfano wa Wasifu wa Kazi wa Mwanafunzi",
   "short_name": "Mfano wa Wasifu wa Kazi wa Mwanafunzi",
   "description": "Mfano wa wasifu wa kazi wa mwanafunzi bure: mfano kamili wa kubuni, mwongozo maalum wa ngazi na Maswali Yanayoulizwa Mara kwa Mara. Hariri mfano huo kwenye kijenga bure na upakue PDF yako.",
-  "id": "/loona-resume-builder/sw/student-resume.html",
+  "id": "/sw/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

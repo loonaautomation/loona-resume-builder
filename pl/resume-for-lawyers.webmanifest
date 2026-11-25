@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla prawników",
   "short_name": "Przykład CV dla prawników",
   "description": "Darmowy przykład CV dla prawników: kompletny fikcyjny przykład w szablonie klasycznym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-lawyers.html",
+  "id": "/pl/resume-for-lawyers.html",
   "start_url": "./resume-for-lawyers.html",
   "scope": "./resume-for-lawyers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru ingineri electricieni",
   "short_name": "CV pentru ingineri electricieni",
   "description": "Exemplu gratuit de CV de inginer electrician: un exemplu fictiv complet în șablonul Modern, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-electrical-engineers.html",
+  "id": "/ro/resume-for-electrical-engineers.html",
   "start_url": "./resume-for-electrical-engineers.html",
   "scope": "./resume-for-electrical-engineers.html",
   "display": "standalone",

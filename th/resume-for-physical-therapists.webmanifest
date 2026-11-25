@@ -2,7 +2,7 @@
   "name": "Loona ตัวอย่างเรซูเม่สำหรับนักกายภาพบำบัด",
   "short_name": "เรซูเม่สำหรับนักกายภาพบำบัด",
   "description": "ตัวอย่างเรซูเม่นักกายภาพบำบัดฟรี: ตัวอย่างสมมติที่สมบูรณ์ในเทมเพลตมืออาชีพ เคล็ดลับจากผู้สรรหา และคำถามที่พบบ่อย แก้ไขตัวอย่างในเครื่องมือสร้างฟรีและดาวน์โหลด PDF ของคุณ",
-  "id": "/loona-resume-builder/th/resume-for-physical-therapists.html",
+  "id": "/th/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

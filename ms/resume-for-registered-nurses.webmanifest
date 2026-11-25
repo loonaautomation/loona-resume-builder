@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Jururawat Berdaftar",
   "short_name": "Contoh Resume Jururawat Berdaftar",
   "description": "Contoh resume jururawat berdaftar percuma: contoh rekaan yang lengkap dalam templat Profesional, tip perekrut dan Soalan Lazim. Edit contoh dalam pembina percuma dan muat turun PDF anda.",
-  "id": "/loona-resume-builder/ms/resume-for-registered-nurses.html",
+  "id": "/ms/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

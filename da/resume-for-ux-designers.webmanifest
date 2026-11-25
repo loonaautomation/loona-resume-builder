@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV til UX-designere",
   "short_name": "Eksempel på CV til UX-designere",
   "description": "Gratis eksempel på CV til UX-designere: et komplet fiktivt eksempel i Kreativ-skabelonen, rekrutteringstips og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/resume-for-ux-designers.html",
+  "id": "/da/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

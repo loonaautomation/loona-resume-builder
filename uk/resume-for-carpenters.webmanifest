@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме теслярів",
   "short_name": "Приклад резюме теслярів",
   "description": "Безкоштовний приклад резюме тесляра: повний вигаданий зразок у шаблоні ATS, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-carpenters.html",
+  "id": "/uk/resume-for-carpenters.html",
   "start_url": "./resume-for-carpenters.html",
   "scope": "./resume-for-carpenters.html",
   "display": "standalone",

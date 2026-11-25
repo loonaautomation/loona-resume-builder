@@ -2,7 +2,7 @@
   "name": "Loona Životopis za predstavnike korisničke službe",
   "short_name": "Životopis za predstavnike",
   "description": "Besplatni primjer životopisa za predstavnika korisničke službe: potpuni izmišljeni primjer u predlošku ATS, savjeti regrutera i česta pitanja. Uredite primjer u besplatnom alatu i preuzmite svoj PDF.",
-  "id": "/loona-resume-builder/hr/resume-for-customer-service-representatives.html",
+  "id": "/hr/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

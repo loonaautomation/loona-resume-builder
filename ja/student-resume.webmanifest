@@ -2,7 +2,7 @@
   "name": "Loona 学生の履歴書サンプル",
   "short_name": "学生の履歴書サンプル",
   "description": "学生の無料履歴書サンプル：完全な架空サンプル、レベル別のガイダンス、よくある質問。無料ビルダーでサンプルを編集し、PDFをダウンロードできます。",
-  "id": "/loona-resume-builder/ja/student-resume.html",
+  "id": "/ja/student-resume.html",
   "start_url": "./student-resume.html",
   "scope": "./student-resume.html",
   "display": "standalone",

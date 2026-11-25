@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV senior",
   "short_name": "Exemplu de CV senior",
   "description": "Exemplu gratuit de CV senior: un exemplu fictiv complet, îndrumări specifice nivelului și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/senior-resume.html",
+  "id": "/ro/senior-resume.html",
   "start_url": "./senior-resume.html",
   "scope": "./senior-resume.html",
   "display": "standalone",

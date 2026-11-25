@@ -2,7 +2,7 @@
   "name": "Loona Пример резюме банковских кассиров",
   "short_name": "Пример резюме банковских кассиров",
   "description": "Бесплатный пример резюме банковского операциониста: полный вымышленный образец в шаблоне Ats, советы рекрутеров и ответы на частые вопросы. Отредактируйте образец в бесплатном конструкторе и скачайте PDF.",
-  "id": "/loona-resume-builder/ru/resume-for-bank-tellers.html",
+  "id": "/ru/resume-for-bank-tellers.html",
   "start_url": "./resume-for-bank-tellers.html",
   "scope": "./resume-for-bank-tellers.html",
   "display": "standalone",

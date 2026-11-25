@@ -2,7 +2,7 @@
   "name": "Loona Modello di curriculum Modern",
   "short_name": "Modello di curriculum Modern",
   "description": "Modello di curriculum Modern gratuito: a cosa serve, chi dovrebbe usarlo, quando non usarlo e un esempio dal vivo. Aprirlo nel generatore e scaricare il PDF — senza registrazione.",
-  "id": "/loona-resume-builder/it/resume-template-modern.html",
+  "id": "/it/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

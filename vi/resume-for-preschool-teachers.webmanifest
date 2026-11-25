@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Giáo viên Mầm non",
   "short_name": "Ví dụ CV Giáo viên Mầm non",
   "description": "Ví dụ CV giáo viên Mầm non miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Cổ điển, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-preschool-teachers.html",
+  "id": "/vi/resume-for-preschool-teachers.html",
   "start_url": "./resume-for-preschool-teachers.html",
   "scope": "./resume-for-preschool-teachers.html",
   "display": "standalone",

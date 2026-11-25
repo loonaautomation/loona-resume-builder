@@ -2,7 +2,7 @@
   "name": "Loona Шаблони та приклади резюме",
   "short_name": "Шаблони та приклади резюме",
   "description": "Безкоштовні шаблони та приклади резюме: 40 зразків за професіями, 8 шаблонів і 6 рівнів кар’єри. Відкрийте будь-який зразок у безкоштовному конструкторі, зробіть його своїм і завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-templates.html",
+  "id": "/uk/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

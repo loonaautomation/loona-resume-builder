@@ -2,7 +2,7 @@
   "name": "Loona السيرة الذاتية لأخصائيي العلاج الطبيعي",
   "short_name": "السيرة الذاتية لأخصائيي العلاج الطبيعي",
   "description": "مثال مجاني على السيرة الذاتية لمعالج فيزيائي: نموذج خيالي كامل في قالب Professional، ونصائح مسؤولي التوظيف، وأسئلة شائعة. عدّل النموذج في المنشئ المجاني ونزّل ملف PDF الخاص بك.",
-  "id": "/loona-resume-builder/ar/resume-for-physical-therapists.html",
+  "id": "/ar/resume-for-physical-therapists.html",
   "start_url": "./resume-for-physical-therapists.html",
   "scope": "./resume-for-physical-therapists.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Modèles de CV & Exemples",
   "short_name": "Modèles de CV & Exemples",
   "description": "Modèles et exemples de CV gratuits : 40 exemples par profession, 8 modèles et 6 niveaux de carrière. Ouvrez n’importe quel exemple dans le générateur gratuit, appropriez-le-vous et téléchargez votre PDF.",
-  "id": "/loona-resume-builder/fr/resume-templates.html",
+  "id": "/fr/resume-templates.html",
   "start_url": "./resume-templates.html",
   "scope": "./resume-templates.html",
   "display": "standalone",

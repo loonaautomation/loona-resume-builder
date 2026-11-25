@@ -2,7 +2,7 @@
   "name": "Loona Ilmainen saatekirjeen rakentaja",
   "short_name": "Ilmainen saatekirjeen rakentaja",
   "description": "Rakenna ammattimainen saatekirje täysin ilmaiseksi: ohjattu kolmen kappaleen lomake, reaaliaikainen A4-esikatselu Klassisen kirjeen tyylillä, ilmainen PDF-lataus - ei rekisteröitymistä, ei vesileimaa, tiedot eivät koskaan poistu laitteeltasi.",
-  "id": "/loona-resume-builder/fi/cover-letter-builder/",
+  "id": "/fi/cover-letter-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

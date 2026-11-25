@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים לאחיות מוסמכות",
   "short_name": "קורות חיים לאחיות מוסמכות",
   "description": "דוגמת קורות חיים חינמית לאחות מוסמכת: דוגמה בדיונית מלאה בתבנית המקצועית, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-registered-nurses.html",
+  "id": "/he/resume-for-registered-nurses.html",
   "start_url": "./resume-for-registered-nurses.html",
   "scope": "./resume-for-registered-nurses.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Приклад резюме фармацевтів",
   "short_name": "Приклад резюме фармацевтів",
   "description": "Безкоштовний приклад резюме фармацевта: повний вигаданий зразок у шаблоні Професійний, поради рекрутера та поширені запитання. Відредагуйте зразок у безкоштовному конструкторі та завантажте свій PDF.",
-  "id": "/loona-resume-builder/uk/resume-for-pharmacists.html",
+  "id": "/uk/resume-for-pharmacists.html",
   "start_url": "./resume-for-pharmacists.html",
   "scope": "./resume-for-pharmacists.html",
   "display": "standalone",

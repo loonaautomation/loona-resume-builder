@@ -2,7 +2,7 @@
   "name": "Loona Ví dụ CV Nhà Thiết kế UX",
   "short_name": "Ví dụ CV Nhà Thiết kế UX",
   "description": "Ví dụ CV nhà Thiết kế UX miễn phí: một mẫu hư cấu hoàn chỉnh theo mẫu Sáng tạo, mẹo của nhà tuyển dụng và câu hỏi thường gặp. Chỉnh sửa mẫu trong trình tạo miễn phí và tải PDF của bạn xuống.",
-  "id": "/loona-resume-builder/vi/resume-for-ux-designers.html",
+  "id": "/vi/resume-for-ux-designers.html",
   "start_url": "./resume-for-ux-designers.html",
   "scope": "./resume-for-ux-designers.html",
   "display": "standalone",

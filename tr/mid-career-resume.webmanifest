@@ -2,7 +2,7 @@
   "name": "Loona Orta Kariyer Özgeçmişi Özgeçmiş Örneği",
   "short_name": "Orta Kariyer Özgeçmişi Özgeçmiş Örneği",
   "description": "Ücretsiz orta kariyer özgeçmiş örneği: eksiksiz kurgusal bir örnek, seviyeye özel rehberlik ve SSS. Örneği ücretsiz oluşturucuda düzenleyin ve PDF'inizi indirin.",
-  "id": "/loona-resume-builder/tr/mid-career-resume.html",
+  "id": "/tr/mid-career-resume.html",
   "start_url": "./mid-career-resume.html",
   "scope": "./mid-career-resume.html",
   "display": "standalone",

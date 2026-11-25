@@ -2,7 +2,7 @@
   "name": "Loona Ammattimainen ansioluettelomalli",
   "short_name": "Ammattimainen ansioluettelomalli",
   "description": "Ilmainen ammattimaisen ansioluettelomalli: mihin sitä käytetään, kenelle se sopii, milloin sitä ei kannata käyttää, sekä esimerkki käytännössä. Avaa se rakentajassa ja lataa PDF-tiedostosi — ei rekisteröitymistä.",
-  "id": "/loona-resume-builder/fi/resume-template-professional.html",
+  "id": "/fi/resume-template-professional.html",
   "start_url": "./resume-template-professional.html",
   "scope": "./resume-template-professional.html",
   "display": "standalone",

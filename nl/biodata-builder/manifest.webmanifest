@@ -2,7 +2,7 @@
   "name": "Loona Gratis huwelijksbiodata-bouwer",
   "short_name": "Gratis huwelijksbiodata-bouwer",
   "description": "Bouw een huwelijksbiodata volledig gratis: persoonlijke, familie-, opleidings- en optionele horoscoopsecties, Eenvoudige en Decoratieve stijlen, live A4-voorbeeld en gratis pdf-download - geen aanmelding, geen watermerk, gegevens verlaten nooit je apparaat.",
-  "id": "/loona-resume-builder/nl/biodata-builder/",
+  "id": "/nl/biodata-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

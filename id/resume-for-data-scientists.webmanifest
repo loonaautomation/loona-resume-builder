@@ -2,7 +2,7 @@
   "name": "Loona Contoh Resume Ilmuwan Data",
   "short_name": "Contoh Resume Ilmuwan Data",
   "description": "Contoh resume ilmuwan data gratis: contoh fiktif lengkap dalam templat Modern, tips perekrut, dan FAQ. Edit contohnya di pembuat gratis dan unduh PDF Anda.",
-  "id": "/loona-resume-builder/id/resume-for-data-scientists.html",
+  "id": "/id/resume-for-data-scientists.html",
   "start_url": "./resume-for-data-scientists.html",
   "scope": "./resume-for-data-scientists.html",
   "display": "standalone",

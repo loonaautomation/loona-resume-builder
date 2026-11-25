@@ -2,7 +2,7 @@
   "name": "Loona Príklad životopisu pre stavebných inžinierov",
   "short_name": "Príklad životopisu pre stavebných inžinierov",
   "description": "Bezplatný príklad životopisu pre stavebného inžiniera: kompletný fiktívny vzor v klasickej šablóne, tipy personalistov a časté otázky. Upravte si vzor v bezplatnom nástroji a stiahnite si svoje PDF.",
-  "id": "/loona-resume-builder/sk/resume-for-civil-engineers.html",
+  "id": "/sk/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

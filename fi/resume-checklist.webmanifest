@@ -2,7 +2,7 @@
   "name": "Loona Ansioluettelon tarkistuslista - ATS- & täydellisyystarkistus",
   "short_name": "Ansioluettelon tarkistuslista - ATS- & täydellisyystarkistus",
   "description": "Ilmainen interaktiivinen ansioluettelon tarkistuslista: 20 ATS- ja täydellisyystarkistusta, joiden edistyminen tallentuu selaimeesi. Sopii yhteen ilmaisen Loona Resume Builderin ja Cover Letter Builderin kanssa.",
-  "id": "/loona-resume-builder/fi/resume-checklist.html",
+  "id": "/fi/resume-checklist.html",
   "start_url": "./resume-checklist.html",
   "scope": "./resume-checklist.html",
   "display": "standalone",

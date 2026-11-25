@@ -2,7 +2,7 @@
   "name": "Loona Eksempel på CV for begyndere",
   "short_name": "Eksempel på CV for begyndere",
   "description": "Gratis eksempel på CV for begyndere: et komplet fiktivt eksempel, niveauspecifik vejledning og FAQ'er. Rediger eksemplet i den gratis bygger og download din PDF.",
-  "id": "/loona-resume-builder/da/entry-level-resume.html",
+  "id": "/da/entry-level-resume.html",
   "start_url": "./entry-level-resume.html",
   "scope": "./entry-level-resume.html",
   "display": "standalone",

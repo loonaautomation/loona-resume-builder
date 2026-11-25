@@ -2,7 +2,7 @@
   "name": "Loona Besplatna provjera životopisa za ATS",
   "short_name": "Provjera životopisa za ATS",
   "description": "Provjerite svoj životopis besplatno: zalijepite svoj životopis kako biste ocijenili njegovu potpunost, odjeljke, glagole radnje i brojeve, i zalijepite opis posla kako biste vidjeli ocjenu podudaranja ključnih riječi. Bez registracije - sve radi u vašem pregledniku, ništa se ne prenosi.",
-  "id": "/loona-resume-builder/hr/ats-resume-checker/",
+  "id": "/hr/ats-resume-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

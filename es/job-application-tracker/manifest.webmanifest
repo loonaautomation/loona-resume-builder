@@ -2,7 +2,7 @@
   "name": "Loona Seguimiento de Candidaturas Gratuito",
   "short_name": "Seguimiento de candidaturas",
   "description": "Haz el seguimiento de cada candidatura gratis: un tablero Kanban sencillo (Guardadas, Enviadas, Entrevista, Oferta) con fechas límite, recordatorios de seguimiento y exportación CSV/JSON. Las herramientas de pago cobran 29-40 $ al mes; esta es gratis, no requiere registro y tus datos nunca salen de tu dispositivo.",
-  "id": "/loona-resume-builder/es/job-application-tracker/",
+  "id": "/es/job-application-tracker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

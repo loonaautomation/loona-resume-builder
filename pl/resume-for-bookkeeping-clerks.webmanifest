@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla pracowników księgowości",
   "short_name": "CV dla pracowników księgowości",
   "description": "Darmowy przykład CV dla pracowników księgowości: kompletny fikcyjny przykład w szablonie ATS, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-bookkeeping-clerks.html",
+  "id": "/pl/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",

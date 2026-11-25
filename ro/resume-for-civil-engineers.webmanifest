@@ -2,7 +2,7 @@
   "name": "Loona Exemplu de CV pentru ingineri constructori",
   "short_name": "Exemplu de CV pentru ingineri constructori",
   "description": "Exemplu gratuit de CV de inginer constructor: un exemplu fictiv complet în șablonul Clasic, sfaturi de la recrutori și întrebări frecvente. Editează exemplul în creatorul gratuit și descarcă PDF-ul tău.",
-  "id": "/loona-resume-builder/ro/resume-for-civil-engineers.html",
+  "id": "/ro/resume-for-civil-engineers.html",
   "start_url": "./resume-for-civil-engineers.html",
   "scope": "./resume-for-civil-engineers.html",
   "display": "standalone",

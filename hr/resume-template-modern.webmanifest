@@ -2,7 +2,7 @@
   "name": "Loona Moderni predložak životopisa",
   "short_name": "Moderni predložak životopisa",
   "description": "Besplatni Moderni predložak životopisa: čemu služi, tko ga treba koristiti, kada ga ne koristiti i primjer uživo. Otvorite ga u alatu i preuzmite svoj PDF — bez registracije.",
-  "id": "/loona-resume-builder/hr/resume-template-modern.html",
+  "id": "/hr/resume-template-modern.html",
   "start_url": "./resume-template-modern.html",
   "scope": "./resume-template-modern.html",
   "display": "standalone",

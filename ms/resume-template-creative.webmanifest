@@ -2,7 +2,7 @@
   "name": "Loona Templat Resume Kreatif",
   "short_name": "Templat Resume Kreatif",
   "description": "Templat resume Kreatif percuma: untuk apa ia digunakan, siapa yang patut menggunakannya, bila ia tidak patut digunakan, dan contoh langsung. Bukanya dalam pembina dan muat turun PDF anda — tanpa pendaftaran.",
-  "id": "/loona-resume-builder/ms/resume-template-creative.html",
+  "id": "/ms/resume-template-creative.html",
   "start_url": "./resume-template-creative.html",
   "scope": "./resume-template-creative.html",
   "display": "standalone",

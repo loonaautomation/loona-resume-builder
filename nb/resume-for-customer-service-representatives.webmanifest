@@ -2,7 +2,7 @@
   "name": "Loona CV-eksempel for kundeservicemedarbeidere",
   "short_name": "CV-eksempel for kundeservicemedarbeidere",
   "description": "Gratis CV-eksempel for kundeservicemedarbeider: et komplett fiktivt eksempel i ATS-malen, tips fra rekrutterere og vanlige spørsmål. Rediger eksempelet i den gratis byggeren og last ned PDF-en din.",
-  "id": "/loona-resume-builder/nb/resume-for-customer-service-representatives.html",
+  "id": "/nb/resume-for-customer-service-representatives.html",
   "start_url": "./resume-for-customer-service-representatives.html",
   "scope": "./resume-for-customer-service-representatives.html",
   "display": "standalone",

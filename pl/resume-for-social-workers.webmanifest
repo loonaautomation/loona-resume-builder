@@ -2,7 +2,7 @@
   "name": "Loona Przykład CV dla pracowników socjalnych",
   "short_name": "Przykład CV dla pracowników socjalnych",
   "description": "Darmowy przykład CV dla pracowników socjalnych: kompletny fikcyjny przykład w szablonie klasycznym, wskazówki rekruterów i FAQ. Edytuj przykład w darmowym kreatorze i pobierz swój PDF.",
-  "id": "/loona-resume-builder/pl/resume-for-social-workers.html",
+  "id": "/pl/resume-for-social-workers.html",
   "start_url": "./resume-for-social-workers.html",
   "scope": "./resume-for-social-workers.html",
   "display": "standalone",

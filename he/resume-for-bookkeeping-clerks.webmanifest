@@ -2,7 +2,7 @@
   "name": "Loona קורות חיים לפקידי הנהלת חשבונות",
   "short_name": "קורות חיים לפקידי הנהלת חשבונות",
   "description": "דוגמת קורות חיים חינמית לפקיד הנהלת חשבונות: דוגמה בדיונית מלאה בתבנית ה-Ats, טיפים למגייסים ושאלות נפוצות. ערכו את הדוגמה בבונה החינמי והורידו את ה-PDF שלכם.",
-  "id": "/loona-resume-builder/he/resume-for-bookkeeping-clerks.html",
+  "id": "/he/resume-for-bookkeeping-clerks.html",
   "start_url": "./resume-for-bookkeeping-clerks.html",
   "scope": "./resume-for-bookkeeping-clerks.html",
   "display": "standalone",
